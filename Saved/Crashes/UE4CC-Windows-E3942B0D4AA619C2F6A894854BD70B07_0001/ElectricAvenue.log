@@ -1,0 +1,1091 @@
+﻿Log file open, 09/20/19 15:17:51
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ElectricAvenue
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.222085
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz, GPU: Radeon(TM) RX 460 Graphics
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=Jimlad -epicuserid=f4cbb108cf574b728e17c5fe60e85af2 -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.09.20-19.17.51:929][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.09.20-19.17.51:929][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.09.20-19.17.51:929][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Monado/Desktop/ElectricAvenueGrey/Saved/Config/Windows/Engine.ini]
+[2019.09.20-19.17.51:929][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.09.20-19.17.51:929][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Monado/Desktop/ElectricAvenueGrey/Saved/Config/Windows/Engine.ini]
+[2019.09.20-19.17.51:930][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Monado/Desktop/ElectricAvenueGrey/Saved/Config/Windows/Engine.ini]
+[2019.09.20-19.17.51:930][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.09.20-19.17.51:930][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.09.20-19.17.51:930][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.09.20-19.17.51:930][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.09.20-19.17.51:930][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.09.20-19.17.51:930][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.09.20-19.17.51:930][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.09.20-19.17.51:930][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.09.20-19.17.51:930][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.09.20-19.17.51:930][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.09.20-19.17.51:930][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.09.20-19.17.51:930][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.09.20-19.17.51:930][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.09.20-19.17.51:930][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Monado/Desktop/ElectricAvenueGrey/Saved/Config/Windows/Engine.ini]
+[2019.09.20-19.17.51:930][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.09.20-19.17.51:930][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.09.20-19.17.51:930][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.09.20-19.17.51:930][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.09.20-19.17.51:930][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.09.20-19.17.51:930][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.09.20-19.17.51:930][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.09.20-19.17.51:930][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.09.20-19.17.51:930][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.09.20-19.17.51:930][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.09.20-19.17.51:930][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.09.20-19.17.51:930][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.09.20-19.17.51:930][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.09.20-19.17.51:930][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Monado/Desktop/ElectricAvenueGrey/Saved/Config/Windows/Engine.ini]
+[2019.09.20-19.17.51:930][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Monado/Desktop/ElectricAvenueGrey/Saved/Config/Windows/Engine.ini]
+[2019.09.20-19.17.51:936][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Monado/Desktop/ElectricAvenueGrey/Saved/Config/Windows/Scalability.ini]
+[2019.09.20-19.17.51:936][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.20-19.17.51:936][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.20-19.17.51:936][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Monado/Desktop/ElectricAvenueGrey/Saved/Config/Windows/Scalability.ini]
+[2019.09.20-19.17.51:936][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.20-19.17.51:936][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Monado/Desktop/ElectricAvenueGrey/Saved/Config/Windows/Scalability.ini]
+[2019.09.20-19.17.51:936][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.20-19.17.51:936][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.20-19.17.51:936][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.20-19.17.51:936][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.20-19.17.51:936][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.20-19.17.51:936][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.20-19.17.51:936][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.20-19.17.51:936][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.20-19.17.51:936][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.20-19.17.51:936][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.20-19.17.51:936][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.20-19.17.51:936][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.20-19.17.51:936][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.20-19.17.51:936][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.20-19.17.51:936][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.20-19.17.51:936][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.20-19.17.51:936][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.20-19.17.51:936][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.20-19.17.51:936][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Monado/Desktop/ElectricAvenueGrey/Saved/Config/Windows/Scalability.ini]
+[2019.09.20-19.17.51:936][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.20-19.17.51:936][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.20-19.17.51:936][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.20-19.17.51:936][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.20-19.17.51:937][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.20-19.17.51:937][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.20-19.17.51:937][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.20-19.17.51:937][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.20-19.17.51:937][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.20-19.17.51:937][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.20-19.17.51:937][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.20-19.17.51:937][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.20-19.17.51:937][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.20-19.17.51:937][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.20-19.17.51:937][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.20-19.17.51:937][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.20-19.17.51:937][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.20-19.17.51:937][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.20-19.17.51:937][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.20-19.17.51:937][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.20-19.17.51:937][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.20-19.17.51:937][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.20-19.17.51:937][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.20-19.17.51:937][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.20-19.17.51:937][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.20-19.17.51:937][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.20-19.17.51:937][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.20-19.17.51:937][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.20-19.17.51:937][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.20-19.17.51:937][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.20-19.17.51:937][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Monado/Desktop/ElectricAvenueGrey/Saved/Config/Windows/Scalability.ini]
+[2019.09.20-19.17.51:937][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.20-19.17.51:937][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.20-19.17.51:937][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.20-19.17.51:937][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.20-19.17.51:937][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.20-19.17.51:937][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.20-19.17.51:937][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.20-19.17.51:937][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.20-19.17.51:937][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Monado/Desktop/ElectricAvenueGrey/Saved/Config/Windows/Scalability.ini]
+[2019.09.20-19.17.51:937][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.20-19.17.51:937][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.20-19.17.51:937][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.20-19.17.51:937][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.20-19.17.51:937][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.20-19.17.51:937][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.20-19.17.51:937][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.20-19.17.51:937][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.20-19.17.51:937][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.20-19.17.51:937][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.20-19.17.51:937][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.20-19.17.51:937][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.20-19.17.51:937][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.20-19.17.51:937][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Monado/Desktop/ElectricAvenueGrey/Saved/Config/Windows/Scalability.ini]
+[2019.09.20-19.17.51:937][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.20-19.17.51:937][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.20-19.17.51:937][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.20-19.17.51:937][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.09.20-19.17.51:945][  0]LogHAL: Display: Platform has ~ 16 GB [17112256512 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.09.20-19.17.51:945][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.09.20-19.17.51:945][  0]LogInit: Going up to parent DeviceProfile []
+[2019.09.20-19.17.51:945][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Monado/Desktop/ElectricAvenueGrey/Saved/Config/Windows/Scalability.ini]
+[2019.09.20-19.17.51:945][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.20-19.17.51:945][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.20-19.17.51:945][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Monado/Desktop/ElectricAvenueGrey/Saved/Config/Windows/Scalability.ini]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Monado/Desktop/ElectricAvenueGrey/Saved/Config/Windows/Scalability.ini]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Monado/Desktop/ElectricAvenueGrey/Saved/Config/Windows/Scalability.ini]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Monado/Desktop/ElectricAvenueGrey/Saved/Config/Windows/Scalability.ini]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Monado/Desktop/ElectricAvenueGrey/Saved/Config/Windows/Scalability.ini]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.20-19.17.51:946][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.20-19.17.51:947][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.20-19.17.51:947][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.20-19.17.51:947][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.20-19.17.51:947][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.20-19.17.51:947][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.20-19.17.51:947][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.20-19.17.51:947][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Monado/Desktop/ElectricAvenueGrey/Saved/Config/Windows/Scalability.ini]
+[2019.09.20-19.17.51:947][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.20-19.17.51:947][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.20-19.17.51:947][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.09.20-19.17.51:947][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.09.20-19.17.51:947][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.09.20-19.17.51:947][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Monado/Desktop/ElectricAvenueGrey/Saved/Config/Windows/Engine.ini]
+[2019.09.20-19.17.51:947][  0]LogInit: Computer: DESKTOP-RRKMCRD
+[2019.09.20-19.17.51:947][  0]LogInit: User: Monado
+[2019.09.20-19.17.51:947][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.09.20-19.17.51:947][  0]LogInit: High frequency timer resolution =3.117190 MHz
+[2019.09.20-19.17.51:947][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.09.20-19.17.51:947][  0]LogMemory: Platform Memory Stats for Windows
+[2019.09.20-19.17.51:947][  0]LogMemory: Process Physical Memory: 96.32 MB used, 96.32 MB peak
+[2019.09.20-19.17.51:947][  0]LogMemory: Process Virtual Memory: 83.80 MB used, 83.80 MB peak
+[2019.09.20-19.17.51:947][  0]LogMemory: Physical Memory: 6948.88 MB used,  9370.64 MB free, 16319.52 MB total
+[2019.09.20-19.17.51:947][  0]LogMemory: Virtual Memory: 4622.69 MB used,  134213104.00 MB free, 134217728.00 MB total
+[2019.09.20-19.17.51:973][  0]LogInit: Using OS detected language (en-US).
+[2019.09.20-19.17.51:973][  0]LogInit: Using OS detected locale (en-US).
+[2019.09.20-19.17.51:974][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.09.20-19.17.52:163][  0]LogInit: Setting process to per monitor DPI aware
+[2019.09.20-19.17.52:195][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.09.20-19.17.52:195][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.09.20-19.17.52:433][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.20-19.17.52:433][  0]LogD3D11RHI: D3D11 adapters:
+[2019.09.20-19.17.52:473][  0]LogD3D11RHI:    0. 'Radeon(TM) RX 460 Graphics' (Feature Level 11_0)
+[2019.09.20-19.17.52:473][  0]LogD3D11RHI:       4043/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2019.09.20-19.17.52:476][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.09.20-19.17.52:476][  0]LogD3D11RHI:       0/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.09.20-19.17.52:476][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.09.20-19.17.52:487][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.09.20-19.17.52:487][  0]LogD3D11RHI:     GPU DeviceId: 0x67ef (for the marketing name, search the web for "GPU Device Id")
+[2019.09.20-19.17.52:487][  0]LogWindows: EnumDisplayDevices:
+[2019.09.20-19.17.52:487][  0]LogWindows:    0. 'Radeon(TM) RX 460 Graphics' (P:0 D:1)
+[2019.09.20-19.17.52:488][  0]LogWindows:    1. 'Radeon(TM) RX 460 Graphics' (P:1 D:1)
+[2019.09.20-19.17.52:489][  0]LogWindows:    2. 'Radeon(TM) RX 460 Graphics' (P:0 D:0)
+[2019.09.20-19.17.52:490][  0]LogWindows:    3. 'Radeon(TM) RX 460 Graphics' (P:0 D:0)
+[2019.09.20-19.17.52:491][  0]LogWindows:    4. 'Radeon(TM) RX 460 Graphics' (P:0 D:0)
+[2019.09.20-19.17.52:491][  0]LogWindows: DebugString: FoundDriverCount:5 
+[2019.09.20-19.17.52:491][  0]LogD3D11RHI:     Adapter Name: Radeon(TM) RX 460 Graphics
+[2019.09.20-19.17.52:491][  0]LogD3D11RHI:   Driver Version: Crimson ReLive 17.7 (internal:22.19.677.257, unified:22.19.677.257)
+[2019.09.20-19.17.52:491][  0]LogD3D11RHI:      Driver Date: 9-22-2017
+[2019.09.20-19.17.52:491][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2019.09.20-19.17.52:548][  0]LogD3D11RHI: Async texture creation enabled
+[2019.09.20-19.17.52:558][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.20-19.17.52:559][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.20-19.17.52:559][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.20-19.17.52:565][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2019.09.20-19.17.52:968][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.09.20-19.17.52:985][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.09.20-19.17.53:003][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.09.20-19.17.53:020][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.09.20-19.17.53:039][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.09.20-19.17.53:056][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.09.20-19.17.53:078][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.09.20-19.17.53:096][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.09.20-19.17.53:106][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.09.20-19.17.53:201][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.09.20-19.17.53:201][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.09.20-19.17.53:201][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.09.20-19.17.53:201][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.09.20-19.17.53:201][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.09.20-19.17.53:201][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.09.20-19.17.53:201][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.09.20-19.17.53:201][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.09.20-19.17.53:201][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.09.20-19.17.53:201][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.09.20-19.17.53:201][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.09.20-19.17.53:201][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.09.20-19.17.53:201][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.09.20-19.17.53:201][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.09.20-19.17.53:201][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.09.20-19.17.53:201][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.09.20-19.17.53:201][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.09.20-19.17.53:201][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.09.20-19.17.53:203][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.09.20-19.17.53:259][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.09.20-19.17.53:259][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.09.20-19.17.53:288][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.09.20-19.17.53:288][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.09.20-19.17.53:302][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.09.20-19.17.53:316][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.09.20-19.17.53:331][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.09.20-19.17.53:348][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.09.20-19.17.53:403][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.09.20-19.17.53:403][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.09.20-19.17.53:403][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.09.20-19.17.53:415][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.09.20-19.17.53:492][  0]LogShaderCompilers: Guid format shader working directory is -10 characters bigger than the processId version (../../../../../../Users/Monado/Desktop/ElectricAvenueGrey/Intermediate/Shaders/WorkingDirectory/7456/).
+[2019.09.20-19.17.53:492][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Monado/AppData/Local/Temp/UnrealShaderWorkingDir/A63C2CAF4C89733FFAFB94814E1CBF88/'.
+[2019.09.20-19.17.53:496][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.09.20-19.17.53:496][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.09.20-19.17.53:496][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.09.20-19.17.54:155][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.09.20-19.17.54:214][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/Monado/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.09.20-19.17.54:225][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Monado/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.09.20-19.17.54:225][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Monado/Desktop/ElectricAvenueGrey/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.09.20-19.17.54:225][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.09.20-19.17.54:225][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Monado/Desktop/ElectricAvenueGrey/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.20-19.17.54:225][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.09.20-19.17.54:239][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.09.20-19.17.54:239][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.20-19.17.54:240][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.09.20-19.17.54:252][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Monado/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.09.20-19.17.54:252][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.09.20-19.17.54:252][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.09.20-19.17.54:276][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.09.20-19.17.54:277][  0]LogSlate: Using FreeType 2.6.0
+[2019.09.20-19.17.54:278][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.09.20-19.17.54:395][  0]LogAssetRegistry: FAssetRegistry took 0.0364 seconds to start up
+[2019.09.20-19.17.54:795][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.20-19.17.54:894][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.09.20-19.17.54:894][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.09.20-19.17.54:894][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.09.20-19.17.54:894][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.09.20-19.17.54:894][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.09.20-19.17.54:989][  0]LogNetVersion: ElectricAvenue 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 4231497916)
+[2019.09.20-19.17.55:507][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.037723 seconds
+[2019.09.20-19.17.55:517][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.09.20-19.17.55:517][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.09.20-19.17.55:517][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.09.20-19.17.56:648][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.09.20-19.17.56:662][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.09.20-19.17.56:782][  0]SourceControl: Source control is disabled
+[2019.09.20-19.17.56:782][  0]SourceControl: Source control is disabled
+[2019.09.20-19.17.56:785][  0]SourceControl: Source control is disabled
+[2019.09.20-19.17.56:787][  0]SourceControl: Source control is disabled
+[2019.09.20-19.17.56:882][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.09.20-19.17.57:024][  0]LogOcInput: OculusInput pre-init called
+[2019.09.20-19.17.57:901][  0]LogEngine: Initializing Engine...
+[2019.09.20-19.17.57:903][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.20-19.17.57:904][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.09.20-19.17.58:136][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.09.20-19.17.58:156][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.09.20-19.17.58:185][  0]LogInit: XAudio2 using 'Speakers (2- Logitech Wireless Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.20-19.17.58:204][  0]LogInit: FAudioDevice initialized.
+[2019.09.20-19.17.58:204][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.09.20-19.17.58:812][  0]LogDerivedDataCache: Saved boot cache 0.61s 71MB C:/Users/Monado/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.09.20-19.17.58:813][  0]LogInit: Texture streaming: Enabled
+[2019.09.20-19.17.58:844][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.09.20-19.17.58:880][  0]LogInit: Transaction tracking system initialized
+[2019.09.20-19.17.58:918][  0]BlueprintLog: New page: Editor Load
+[2019.09.20-19.17.59:037][  0]LocalizationService: Localization service is disabled
+[2019.09.20-19.17.59:403][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.09.20-19.17.59:403][  0]LogCook: Display: Mobile HDR setting 1
+[2019.09.20-19.17.59:642][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Monado/Desktop/ElectricAvenueGrey/Content/' took 0.05s
+[2019.09.20-19.17.59:642][  0]SourceControl: Source control is disabled
+[2019.09.20-19.17.59:643][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Monado/Desktop/ElectricAvenueGrey/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.20-19.17.59:643][  0]LightingResults: New page: Lighting Build
+[2019.09.20-19.17.59:647][  0]MapCheck: New page: Map Check
+[2019.09.20-19.17.59:647][  0]LightingResults: New page: Lighting Build
+[2019.09.20-19.17.59:674][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2019.09.20-19.18.00:340][  0]LogMaterial: Display: Missing cached shader map for material Mat_Glass, compiling. 
+[2019.09.20-19.18.00:470][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.20-19.18.00:485][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.20-19.18.00:517][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2019.09.20-19.18.00:517][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.20-19.18.00:518][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.136ms to complete.
+[2019.09.20-19.18.00:518][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.875
+[2019.09.20-19.18.00:639][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.20-19.18.00:651][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.20-19.18.00:660][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.20-19.18.00:669][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.20-19.18.00:679][  0]LogCollectionManager: Loaded 0 collections in 0.003649 seconds
+[2019.09.20-19.18.00:697][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Monado/Desktop/ElectricAvenueGrey/Saved/Collections/' took 0.01s
+[2019.09.20-19.18.00:697][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Monado/Desktop/ElectricAvenueGrey/Content/Developers/Monado/Collections/' took 0.00s
+[2019.09.20-19.18.00:697][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Monado/Desktop/ElectricAvenueGrey/Content/Collections/' took 0.00s
+[2019.09.20-19.18.00:697][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.09.20-19.18.00:705][  0]LogContentBrowser: Native class hierarchy populated in 0.0087 seconds. Added 2732 classes and 659 folders.
+[2019.09.20-19.18.00:715][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.09.20-19.18.00:717][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.20-19.18.00:717][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.20-19.18.00:718][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.20-19.18.00:719][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.20-19.18.00:719][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.20-19.18.00:720][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.20-19.18.00:721][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.20-19.18.00:721][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.20-19.18.00:722][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.20-19.18.00:722][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.20-19.18.00:723][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.20-19.18.00:723][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.20-19.18.00:724][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.20-19.18.00:724][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.20-19.18.00:725][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.20-19.18.00:726][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.20-19.18.00:726][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.20-19.18.00:727][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.20-19.18.00:727][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.20-19.18.00:728][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.20-19.18.00:728][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.20-19.18.00:729][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.20-19.18.00:729][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.20-19.18.00:730][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.20-19.18.00:731][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.20-19.18.00:731][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.20-19.18.00:792][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.09.20-19.18.00:799][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.09.20-19.18.00:920][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.09.20-19.18.00:921][  0]LogLoad: (Engine Initialization) Total time: 11.84 seconds
+[2019.09.20-19.18.00:921][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.09.20-19.18.00:974][  0]LogAssetRegistry: Asset discovery search completed in 6.6033 seconds
+[2019.09.20-19.18.00:976][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.09.20-19.18.00:976][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000054 seconds (updated 0 objects)
+[2019.09.20-19.18.00:977][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.09.20-19.18.00:991][  0]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.09.20-19.18.00:993][  0]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.09.20-19.18.00:998][  0]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.09.20-19.18.02:930][  0]LogD3D11RHI: Timed out while waiting for GPU to catch up. (2.0 s)
+[2019.09.20-19.18.02:930][  0]LogTemp: Display: Unable to get render query result on a platform supporting RQT_AbsoluteTime queries, defaulting to 5 iterations for LongGPUTask
+[2019.09.20-19.18.07:630][  0]LogRenderer: Reallocating scene render targets to support 736x320 Format 10 NumSamples 1 (Frame:1).
+[2019.09.20-19.18.07:630][  0]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.20-19.18.24:966][633]LogRenderer: Reallocating scene render targets to support 920x412 Format 10 NumSamples 1 (Frame:632).
+[2019.09.20-19.18.38:940][962]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2019.09.20-19.18.43:402][420]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2019.09.20-19.18.48:528][911]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.20-19.18.48:579][917]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.20-19.18.48:763][917]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.20-19.18.48:792][917]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.20-19.18.48:890][917]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 20, 2019, 11:18:48 AM)
+[2019.09.20-19.18.49:227][917]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.09.20-19.18.49:773][917]LogPlayLevel: PIE: StaticDuplicateObject took: (0.546058s)
+[2019.09.20-19.18.49:781][917]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.20-19.18.49:781][917]LogPlayLevel: PIE: World Init took: (0.000666s)
+[2019.09.20-19.18.49:781][917]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.554400s)
+[2019.09.20-19.18.49:806][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2019.09.20-19.18.49:965][917]LogInit: XAudio2 using 'Speakers (2- Logitech Wireless Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.20-19.18.49:981][917]LogInit: FAudioDevice initialized.
+[2019.09.20-19.18.50:071][917]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.20-19.18.50:278][917]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.09.20-15.18.50
+[2019.09.20-19.18.50:462][917]LogWorld: Bringing up level for play took: 0.199497
+[2019.09.20-19.18.50:963][917]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.09.20-19.18.50:975][917]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 2.874
+[2019.09.20-19.18.50:975][917]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.20-19.18.59:790][881]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.20-19.18.59:803][881]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.20-19.18.59:851][881]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.20-19.18.59:851][881]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.20-19.18.59:896][881]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.20-19.18.59:900][881]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2019.09.20-19.18.59:917][882]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.09.20-19.19.01:587][ 56]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.09.20-19.19.03:034][123]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.20-19.19.03:477][129]LogSlate: Took 0.000268 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.20-19.19.03:492][129]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.09.20-19.19.04:486][129]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 121 classes and 0 folders.
+[2019.09.20-19.19.06:442][129]LogSlate: Took 0.048327 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.09.20-19.19.09:324][276]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2019.09.20-19.19.11:344][489]LogSlate: Took 0.020287 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.09.20-19.21.15:546][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.20-19.21.16:503][110]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.20-19.21.18:525][202]LogSourceControl: Warning: '../../../../../../Users/Monado/Desktop/ElectricAvenueGrey/' is not part of a Git repository
+[2019.09.20-19.22.00:307][930]LogSlate: Window 'Source Control Login' being destroyed
+[2019.09.20-19.22.05:441][293]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.20-19.22.13:113][825]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content' is outside repository
+[2019.09.20-19.22.13:552][825]LogPackageName: Error: Illegal call to DoesPackageExist: '../../../../../../Users/Monado/Desktop/ElectricAvenueGrey/ElectricAvenue.uproject' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2019.09.20-19.22.13:552][825]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.09.20-19.22.24:170][825]LogStats: FPlatformStackWalk::StackWalkAndDump - 10.618 s
+[2019.09.20-19.22.24:170][825]LogOutputDevice: Error: === Handled ensure: ===
+[2019.09.20-19.22.24:170][825]LogOutputDevice: Error: 
+[2019.09.20-19.22.24:170][825]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\PackageName.cpp] [Line: 849]
+[2019.09.20-19.22.24:170][825]LogOutputDevice: Error: Illegal call to DoesPackageExist: '../../../../../../Users/Monado/Desktop/ElectricAvenueGrey/ElectricAvenue.uproject' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2019.09.20-19.22.24:170][825]LogOutputDevice: Error: Stack: 
+[2019.09.20-19.22.24:170][825]LogOutputDevice: Error: [Callstack] 0x00007ffa7fa31097 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.09.20-19.22.24:170][825]LogOutputDevice: Error: [Callstack] 0x00007ffa7f6eea0a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.09.20-19.22.24:170][825]LogOutputDevice: Error: [Callstack] 0x00007ffa7f325615 UE4Editor-SourceControl.dll!UnknownFunction []
+[2019.09.20-19.22.24:170][825]LogOutputDevice: Error: [Callstack] 0x00007ffa7f32576b UE4Editor-SourceControl.dll!UnknownFunction []
+[2019.09.20-19.22.24:170][825]LogOutputDevice: Error: [Callstack] 0x00007ffa620d8dfc UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2019.09.20-19.22.24:170][825]LogOutputDevice: Error: [Callstack] 0x00007ffa620959e3 UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2019.09.20-19.22.24:170][825]LogOutputDevice: Error: [Callstack] 0x00007ffa6209522a UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2019.09.20-19.22.24:170][825]LogOutputDevice: Error: [Callstack] 0x00007ffa620ac451 UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2019.09.20-19.22.24:170][825]LogOutputDevice: Error: [Callstack] 0x00007ffa58cfb133 UE4Editor-GitSourceControl.dll!UnknownFunction []
+[2019.09.20-19.22.24:170][825]LogOutputDevice: Error: [Callstack] 0x00007ffa58cffbb1 UE4Editor-GitSourceControl.dll!UnknownFunction []
+[2019.09.20-19.22.24:170][825]LogOutputDevice: Error: [Callstack] 0x00007ffa7f32a3b7 UE4Editor-SourceControl.dll!UnknownFunction []
+[2019.09.20-19.22.24:170][825]LogOutputDevice: Error: [Callstack] 0x00007ffa698309b5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.20-19.22.24:170][825]LogOutputDevice: Error: [Callstack] 0x00007ffa6a04d396 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.20-19.22.24:170][825]LogOutputDevice: Error: [Callstack] 0x00007ff72c0e6bb1 UE4Editor.exe!UnknownFunction []
+[2019.09.20-19.22.24:170][825]LogOutputDevice: Error: [Callstack] 0x00007ff72c0f554c UE4Editor.exe!UnknownFunction []
+[2019.09.20-19.22.24:170][825]LogOutputDevice: Error: [Callstack] 0x00007ff72c0f55ca UE4Editor.exe!UnknownFunction []
+[2019.09.20-19.22.24:170][825]LogOutputDevice: Error: [Callstack] 0x00007ff72c10316c UE4Editor.exe!UnknownFunction []
+[2019.09.20-19.22.24:170][825]LogOutputDevice: Error: [Callstack] 0x00007ff72c105b8e UE4Editor.exe!UnknownFunction []
+[2019.09.20-19.22.24:170][825]LogOutputDevice: Error: [Callstack] 0x00007ffacda74034 KERNEL32.DLL!UnknownFunction []
+[2019.09.20-19.22.24:170][825]LogOutputDevice: Error: [Callstack] 0x00007ffacdc73691 ntdll.dll!UnknownFunction []
+[2019.09.20-19.22.24:170][825]LogOutputDevice: Error: 
+[2019.09.20-19.22.24:303][825]LogStats:                SubmitErrorReport -  0.000 s
+[2019.09.20-19.22.36:656][825]LogStats:                    SendNewReport - 12.352 s
+[2019.09.20-19.22.36:656][825]LogStats:             FDebug::EnsureFailed - 23.103 s
+[2019.09.20-19.22.36:839][825]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.20-19.22.50:373][825]LogSlate: Window 'Submit Files' being destroyed
+[2019.09.20-19.22.56:708][301]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.20-19.23.08:002][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.20-19.23.10:490][193]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.20-19.23.10:598][193]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.20-19.23.10:694][193]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2019.09.20-19.23.11:790][193]LogSavePackage: Moving '../../../../../../Users/Monado/Desktop/ElectricAvenueGrey/Saved/ThirdPersonExampleMap297CC18D4F00F56F206172AD3B016E5B.tmp' to '../../../../../../Users/Monado/Desktop/ElectricAvenueGrey/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.09.20-19.23.11:914][193]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 1.308
+[2019.09.20-19.23.15:116][408]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.20-19.23.22:563][899]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.20-19.23.34:205][566]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/EditorBlueprintResources/StandardMacros.uasset: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/EditorBlueprintResources/StandardMacros.uasset' is outside repository
+[2019.09.20-19.23.34:205][566]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions02/Utility: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions02/Utility' is outside repository
+[2019.09.20-19.23.34:205][566]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/Functions/MaterialLayerFunctions: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/Functions/MaterialLayerFunctions' is outside repository
+[2019.09.20-19.23.34:205][566]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset' is outside repository
+[2019.09.20-19.23.34:205][566]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/EngineSky: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/EngineSky' is outside repository
+[2019.09.20-19.23.34:205][566]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/BasicShapes: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/BasicShapes' is outside repository
+[2019.09.20-19.23.34:205][566]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/EngineMaterials: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/EngineMaterials' is outside repository
+[2019.09.20-19.23.34:205][566]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset' is outside repository
+[2019.09.20-19.23.34:205][566]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset' is outside repository
+[2019.09.20-19.23.34:205][566]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset' is outside repository
+[2019.09.20-19.23.34:205][566]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/EditorMeshes/ColorCalibrator: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/EditorMeshes/ColorCalibrator' is outside repository
+[2019.09.20-19.23.34:205][566]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity' is outside repository
+[2019.09.20-19.23.34:205][566]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset' is outside repository
+[2019.09.20-19.23.34:205][566]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/EngineFonts/RobotoDistanceField.uasset: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/EngineFonts/RobotoDistanceField.uasset' is outside repository
+[2019.09.20-19.23.34:205][566]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset' is outside repository
+[2019.09.20-19.23.35:943][566]SourceControl: Error: fatal: 'origin' does not appear to be a git repository
+[2019.09.20-19.23.35:943][566]SourceControl: Error: fatal: Could not read from remote repository.
+[2019.09.20-19.23.35:943][566]SourceControl: Error: Please make sure you have the correct access rights
+[2019.09.20-19.23.35:943][566]SourceControl: Error: and the repository exists.
+[2019.09.20-19.23.35:956][566]LogContentBrowser: Syncing 9 path(s):
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/Mannequin/Animations/ThirdPerson_Jump
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/Mannequin/Animations/ThirdPersonJump_Loop
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/Mannequin/Animations/ThirdPersonJump_Start
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/Mannequin/Animations/ThirdPersonIdle
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/Mannequin/Animations/ThirdPersonRun
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/Mannequin/Animations/ThirdPersonWalk
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/Mannequin/Animations/ThirdPerson_IdleRun_2D
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/Mannequin/Animations/ThirdPerson_AnimBP
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/Blueprints/InteractionInterface
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/Mannequin/Character/Textures/UE4_LOGO_CARD
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/Mannequin/Character/Textures/UE4_Mannequin__normals
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/Mannequin/Character/Materials/M_UE4Man_Body
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/Mannequin/Character/Textures/UE4Man_Logo_N
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/Mannequin/Character/Materials/M_UE4Man_ChestLogo
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/Mannequin/Character/Mesh/SK_Mannequin
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/Blueprints/EnergyComponent
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/Geometry/Meshes/CubeMaterial
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/Geometry/Meshes/1M_Cube
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/StarterContent/Particles/Materials/M_Radial_Gradient
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Smoke_SubUV
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Smoke_Tiled_D
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/StarterContent/Particles/Materials/M_smoke_subUV
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Spark_Core
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/StarterContent/Particles/Materials/M_Spark
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/StarterContent/Particles/P_Sparks1
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/Blueprints/EnergyTest
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/WoodDeck/WoodDeck_d
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/WoodDeck/WoodDeck_n
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/WoodDeck/WoodDeck_r_ao_m
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Materials/MasterMaterials/Mat_Opaque
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/KitchenDevices/KitchenDevices_d
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/KitchenDevices/KitchenDevices_n
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/KitchenDevices/KitchenDevices_r_ao_m
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Materials/Mat_KitchenDevices01
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Meshes/SM_CookerStove
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/Blueprints/EnergyOven
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/Blueprints/EnergyInteractable
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/AC_unit/AC_unit_d
+[2019.09.20-19.23.35:956][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/AC_unit/AC_unit_n
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/AC_unit/AC_unit_r_ao_m
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Materials/MasterMaterials/Mat_Masked
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/KitchenDevices/KitchenDevices02_d
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/KitchenDevices/KitchenDevices02_n
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/KitchenDevices/KitchenDevices02_r_ao_m
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Materials/Mat_KitchenDevices02
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Meshes/SM_CoffeeMachine
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/Blueprints/EnergyCoffee
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/SurvivorVision/Materials/SurvivorVision/Functions/MF_CalculateEdgeShift
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/SurvivorVision/Materials/SurvivorVision/Functions/MF_EdgeDetectionBase
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/SurvivorVision/Materials/SurvivorVision/Functions/MF_OutlineFunctions
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/SurvivorVision/Materials/SurvivorVision/Functions/MF_TotalEdgeDetection
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/SurvivorVision/Materials/SurvivorVision/Functions/MF_Outline
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/SurvivorVision/Materials/BasicShapeMaterial
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/Geometry/Meshes/TemplateFloor
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Materials/Mat_ACUnit
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Meshes/AC_unit/SM_AC_unit
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Meshes/AC_unit/SM_AC_unit_cooler
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/BathroomSink/BathroomSink_d
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/BathroomSink/BathroomSink_n
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/BathroomSink/BathroomSink_r_ao_m
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Materials/Mat_BathroomSink
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Meshes/BathroomSink/SM_BathroomSink
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/BedsideTable/BedsideTable_d
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/BedsideTable/BedsideTable_n
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/BedsideTable/BedsideTable_r_ao_m
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Materials/Mat_BedsideTable
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Meshes/BedsideTable/SM_BedsideTable
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Meshes/BedsideTable/SM_BedsideTable_Drawer
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/House_exterior/House_exterior_d
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/House_exterior/House_exterior_mask
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/House_exterior/House_exterior_n
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/House_exterior/House_exterior_r_ao_m
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Materials/MasterMaterials/Mat_Opaque_colorMask
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/Desk/Desk__mask
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/Desk/Desk_d
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/Desk/Desk_n
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/Desk/Desk_r_ao_m
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Materials/Mat_Desk
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Meshes/Desk/SM_Desk_Desk
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Meshes/Desk/SM_Desk_Drawer
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/Deskware/DeskWare_d
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/Deskware/DeskWare_n
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/Deskware/DeskWare_r_ao_m
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Materials/Mat_Deskware
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Meshes/Deskware/SM_NotebookC
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Meshes/Deskware/SM_PencilCase_filled
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Meshes/Deskware/SM_Scissors
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Meshes/ElectricMeter/SM_ElectricMeter
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/Windows/Windows_d
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/Windows/Windows_r_ao_m
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Materials/MasterMaterials/Mat_Glass
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Materials/Mat_ElectricMeter_glass
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Meshes/ElectricMeter/SM_ElectricMeter_glass
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/KitchenSet/KitchenSet_d
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/KitchenSet/KitchenSet_mask
+[2019.09.20-19.23.35:957][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/KitchenSet/KitchenSet_n
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/KitchenSet/KitchenSet_r_ao_m
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Materials/Mat_KitchenSet
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Meshes/KitchenSet/KitchenSetA/SM_KitchenSetA
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Meshes/KitchenSet/KitchenSetA_C/SM_KitchenSetA_C
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Meshes/KitchenSet/SM_CookerHood
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/Fireplace/Fireplace_d
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/Fireplace/Fireplace_e
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/Fireplace/Fireplace_n
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/Fireplace/Fireplace_r_ao_m
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Materials/MasterMaterials/Mat_OpaqueEmissive
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/LampDesk/LampDesk_d
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/LampDesk/LampDesk_e
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/LampDesk/LampDesk_n
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/LampDesk/LampDesk_r_ao_m
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Materials/Mat_LampDesk
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Meshes/LampDesk/SM_LampDesk
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/Armchair/Armchair_d
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/Armchair/Armchair_mask
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/Armchair/Armchair_n
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/Armchair/Armchair_r_ao_m
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Materials/Mat_Armchair
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Meshes/SM_Armchair
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/BathTub/BathTub_d
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/BathTub/BathTub_n
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/BathTub/BathTub_r_ao_m
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Materials/Mat_BathTub
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Meshes/SM_BathTub
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/Beanbag/BeanBag_d
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/Beanbag/BeanBag_n
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/Beanbag/BeanBag_r_ao_m
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Materials/Mat_Beanbag
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Meshes/SM_BeanBag
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/Bed/Bed__mask
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/Bed/Bed_d
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/Bed/Bed_n
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/Bed/Bed_r_ao_m
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Materials/Mat_Bed
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Meshes/SM_Bed
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/Bunny/Bunny_d
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/Bunny/Bunny_n
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/Bunny/Bunny_r_ao_m
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Materials/Mat_Bunny
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Meshes/SM_Bunny
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/ChairLeather/ChairLeather_d
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/ChairLeather/ChairLeather_mask
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/ChairLeather/ChairLeather_n
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/ChairLeather/ChairLeather_r_ao_m
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Materials/Mat_ChairLeather
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Meshes/SM_ChairLeather
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/CoffeeTable/CoffeeTable_d
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/CoffeeTable/CoffeeTable_n
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/CoffeeTable/CoffeeTable_r_ao_m
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Materials/Mat_CoffeeTable
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Meshes/SM_CoffeeTable
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/DiningChair/DiningChair_d
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/DiningChair/DiningChair_mask
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/DiningChair/DiningChair_n
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/DiningChair/DiningChair_r_ao_m
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Materials/Mat_DiningChair
+[2019.09.20-19.23.35:958][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Meshes/SM_DiningChair
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/DiningTable/DiningTable_d
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/DiningTable/DiningTable_mask
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/DiningTable/DiningTable_n
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/DiningTable/DiningTable_r_ao_m
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Materials/Mat_DiningTable
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Meshes/SM_DiningTable
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/DoorFrame/DoorFrame_d
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/DoorFrame/DoorFrame_n
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/DoorFrame/DoorFrame_r_ao_m
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Materials/Mat_DoorFrame
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Meshes/SM_DoorFrameB
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/DoorMat/DoorMat_d
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/DoorMat/DoorMat_n
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/DoorMat/DoorMat_r_ao_m
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Materials/Mat_DoorMat
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Meshes/SM_DoorMat
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/Lamps/Lamps_d
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/Lamps/Lamps_e
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/Lamps/Lamps_n
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/Lamps/Lamps_r_ao_m
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Materials/Mat_Lamps
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Meshes/SM_LampFloor_solid
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/SmallProps/SmallProps_d
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/SmallProps/SmallProps_e
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/SmallProps/SmallProps_n
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/SmallProps/SmallProps_r_ao_m
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Materials/Mat_SmallProps
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Meshes/SM_LightSwitch
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/Gadgets/Gadgets_d
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/Gadgets/Gadgets_e
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/Gadgets/Gadgets_n
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/Gadgets/Gadgets_r_ao_m
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Materials/Mat_Gadgets
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Meshes/SM_MobilePhone
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Meshes/SM_Outlet
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Meshes/SM_Refrigerator
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/RockingChair/RockingChair_d
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/RockingChair/RockingChair_n
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/RockingChair/RockingChair_r_ao_m
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Materials/Mat_RockingChair
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Meshes/SM_RockingChair
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/SofaBig/SofaBig_d
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/SofaBig/SofaBig_mask
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/SofaBig/SofaBig_n
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/SofaBig/SofaBig_r_ao_m
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Materials/Mat_SofaBig
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Meshes/SM_SofaBig
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/Toilet/Toilet_d
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/Toilet/Toilet_n
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Textures/Toilet/Toilet_r_ao_m
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Materials/Mat_Toilet
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Meshes/SM_Toilet
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Meshes/SM_ToiletPaper
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Meshes/SM_TowelHangerA
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/HQ_ResidentialHouse/Meshes/SM_TV_Hanging
+[2019.09.20-19.23.35:959][566]LogContentBrowser: 	 - /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.09.20-19.23.35:960][566]LightingResults: New page: Lighting Build
+[2019.09.20-19.23.35:961][566]MapCheck: New page: Map Check
+[2019.09.20-19.23.35:961][566]LightingResults: New page: Lighting Build
+[2019.09.20-19.23.35:999][566]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.09.20-19.23.36:035][566]LogAIModule: Creating AISystem for world Untitled
+[2019.09.20-19.23.36:105][566]LoadErrors: New page: New Map
+[2019.09.20-19.23.36:107][566]LogUObjectGlobals: Reloading 224 Package(s):
+	Asset Name: /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton
+	Asset Name: /Game/Mannequin/Animations/ThirdPerson_Jump
+	Asset Name: /Game/Mannequin/Animations/ThirdPersonJump_Loop
+	Asset Name: /Game/Mannequin/Animations/ThirdPersonJump_Start
+	Asset Name: /Game/Mannequin/Animations/ThirdPersonIdle
+	Asset Name: /Game/Mannequin/Animations/ThirdPersonRun
+	Asset Name: /Game/Mannequin/Animations/ThirdPersonWalk
+	Asset Name: /Game/Mannequin/Animations/ThirdPerson_IdleRun_2D
+	Asset Name: /Game/Mannequin/Animations/ThirdPerson_AnimBP
+	Asset Name: /Game/Blueprints/InteractionInterface
+[2019.09.20-19.23.36:162][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2019.09.20-19.23.36:432][566]LogBlueprint: Error: [Compiler ThirdPersonCharacter] COMPILER ERROR: failed building connection with 'Third Person Character Object Reference is not compatible with Self Object Reference.' at  Interact
+[2019.09.20-19.23.36:441][566]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [0347.36] Compile of ThirdPersonCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 18 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2019.09.20-19.23.36:451][566]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'Default__ThirdPersonCharacter_C:CollisionCylinder.BodySetup_0' (transient) in the new package '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'. Any existing references to this object will be nulled out.
+[2019.09.20-19.23.36:524][566]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'EnergyTest_C:EnergyComponent_GEN_VARIABLE' in the new package '/Game/Blueprints/EnergyTest'. Any existing references to this object will be nulled out.
+[2019.09.20-19.23.36:524][566]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'EnergyTest_C:Box_GEN_VARIABLE.BodySetup_0' (transient) in the new package '/Game/Blueprints/EnergyTest'. Any existing references to this object will be nulled out.
+[2019.09.20-19.23.36:570][566]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'EnergyOven_C:EnergyComponent_GEN_VARIABLE' (transient) in the new package '/Game/Blueprints/EnergyOven'. Any existing references to this object will be nulled out.
+[2019.09.20-19.23.36:575][566]LogBlueprint: Error: [Compiler EnergyInteractable] Can't connect pins  Player  and  Player : Third Person Character Object Reference is not compatible with Third Person Character Object Reference.
+[2019.09.20-19.23.36:575][566]LogBlueprint: Error: [Compiler EnergyInteractable] Can't connect pins  Player  and  Player : Third Person Character Object Reference is not compatible with Third Person Character Object Reference.
+[2019.09.20-19.23.36:576][566]LogBlueprint: Warning: [Compiler EnergyInteractable] [0347.50] Compile of EnergyInteractable failed. 2 Fatal Issue(s) 0 Warning(s) [in 2 ms] (/Game/Blueprints/EnergyInteractable.EnergyInteractable)
+[2019.09.20-19.23.36:578][566]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'EnergyInteractable_C:Interact' in the new package '/Game/Blueprints/EnergyInteractable'. Any existing references to this object will be nulled out.
+[2019.09.20-19.23.36:578][566]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'EnergyInteractable_C:EnergyComponent_GEN_VARIABLE' in the new package '/Game/Blueprints/EnergyInteractable'. Any existing references to this object will be nulled out.
+[2019.09.20-19.23.36:578][566]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'EnergyInteractable:Interact' (transient) in the new package '/Game/Blueprints/EnergyInteractable'. Any existing references to this object will be nulled out.
+[2019.09.20-19.23.36:616][566]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'EnergyCoffee_C:EnergyComponent_GEN_VARIABLE' in the new package '/Game/Blueprints/EnergyCoffee'. Any existing references to this object will be nulled out.
+[2019.09.20-19.23.37:431][566]LogActorComponent: UnregisterComponent: (/Engine/Transient.DirectionalLightComponent_9) Not registered. Aborting.
+[2019.09.20-19.23.37:431][566]LogActorComponent: UnregisterComponent: (/Engine/Transient.SkyLightComponent_3) Not registered. Aborting.
+[2019.09.20-19.23.37:431][566]LogActorComponent: UnregisterComponent: (/Engine/Transient.LineBatchComponent_24) Not registered. Aborting.
+[2019.09.20-19.23.37:431][566]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.09.20-19.23.37:542][566]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2019.09.20-19.23.37:760][566]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2019.09.20-19.23.37:957][566]LogSkeletalMesh: Built Skeletal Mesh [0.20s] /Game/Mannequin/Character/Mesh/SK_Mannequin_DEADPACKAGE_27.SK_Mannequin
+[2019.09.20-19.23.38:132][566]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2019.09.20-19.23.38:202][566]LogSkeletalMesh: Built Skeletal Mesh [0.07s] /Game/Mannequin/Character/Mesh/SK_Mannequin_DEADPACKAGE_27.SK_Mannequin
+[2019.09.20-19.23.38:216][566]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2019.09.20-19.23.38:282][566]LogSkeletalMesh: Built Skeletal Mesh [0.07s] /Game/Mannequin/Character/Mesh/SK_Mannequin_DEADPACKAGE_27.SK_Mannequin
+[2019.09.20-19.23.38:290][566]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2019.09.20-19.23.38:355][566]LogSkeletalMesh: Built Skeletal Mesh [0.07s] /Game/Mannequin/Character/Mesh/SK_Mannequin_DEADPACKAGE_27.SK_Mannequin
+[2019.09.20-19.23.38:531][566]LogStaticMesh: Building static mesh 1M_Cube...
+[2019.09.20-19.23.38:537][566]LogBlueprintActionDatabase: Requesting refresh due to module change: MeshBuilder (loaded)
+[2019.09.20-19.23.38:587][566]LogStaticMesh: Built static mesh [0.06s] /Game/Geometry/Meshes/1M_Cube_DEADPACKAGE_31.1M_Cube
+[2019.09.20-19.23.38:658][566]LogStaticMesh: Building static mesh TemplateFloor...
+[2019.09.20-19.23.38:670][566]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Meshes/TemplateFloor_DEADPACKAGE_68.TemplateFloor
+[2019.09.20-19.23.38:944][566]LogStaticMesh: Building static mesh SM_CookerStove...
+[2019.09.20-19.23.38:976][566]LogStaticMesh: Built static mesh [0.21s] /Game/HQ_ResidentialHouse/Meshes/SM_CookerStove_DEADPACKAGE_49.SM_CookerStove
+[2019.09.20-19.23.39:028][566]LogStaticMesh: Building static mesh SM_CoffeeMachine...
+[2019.09.20-19.23.39:101][566]LogStaticMesh: Built static mesh [0.07s] /Game/HQ_ResidentialHouse/Meshes/SM_CoffeeMachine_DEADPACKAGE_60.SM_CoffeeMachine
+[2019.09.20-19.23.39:103][566]LogStaticMesh: Building static mesh SM_Refrigerator...
+[2019.09.20-19.23.39:116][566]LogStaticMesh: Built static mesh [0.01s] /Game/HQ_ResidentialHouse/Meshes/SM_Refrigerator_DEADPACKAGE_206.SM_Refrigerator
+[2019.09.20-19.23.39:180][566]LogStaticMesh: Building static mesh SM_AC_unit...
+[2019.09.20-19.23.39:236][566]LogStaticMesh: Built static mesh [0.06s] /Game/HQ_ResidentialHouse/Meshes/AC_unit/SM_AC_unit_DEADPACKAGE_70.SM_AC_unit
+[2019.09.20-19.23.39:247][566]LogStaticMesh: Building static mesh SM_AC_unit_cooler...
+[2019.09.20-19.23.39:288][566]LogStaticMesh: Built static mesh [0.05s] /Game/HQ_ResidentialHouse/Meshes/AC_unit/SM_AC_unit_cooler_DEADPACKAGE_71.SM_AC_unit_cooler
+[2019.09.20-19.23.39:289][566]LogStaticMesh: Building static mesh SM_ElectricMeter...
+[2019.09.20-19.23.39:393][566]LogStaticMesh: Built static mesh [0.10s] /Game/HQ_ResidentialHouse/Meshes/ElectricMeter/SM_ElectricMeter_DEADPACKAGE_102.SM_ElectricMeter
+[2019.09.20-19.23.39:397][566]LogStaticMesh: Building static mesh SM_BathroomSink...
+[2019.09.20-19.23.39:413][566]LogStaticMesh: Built static mesh [0.02s] /Game/HQ_ResidentialHouse/Meshes/BathroomSink/SM_BathroomSink_DEADPACKAGE_76.SM_BathroomSink
+[2019.09.20-19.23.39:419][566]LogStaticMesh: Building static mesh SM_BedsideTable...
+[2019.09.20-19.23.39:429][566]LogStaticMesh: Built static mesh [0.01s] /Game/HQ_ResidentialHouse/Meshes/BedsideTable/SM_BedsideTable_DEADPACKAGE_81.SM_BedsideTable
+[2019.09.20-19.23.39:501][566]LogStaticMesh: Building static mesh SM_BedsideTable_Drawer...
+[2019.09.20-19.23.39:519][566]LogStaticMesh: Built static mesh [0.09s] /Game/HQ_ResidentialHouse/Meshes/BedsideTable/SM_BedsideTable_Drawer_DEADPACKAGE_82.SM_BedsideTable_Drawer
+[2019.09.20-19.23.39:583][566]LogStaticMesh: Building static mesh SM_Desk_Desk...
+[2019.09.20-19.23.39:601][566]LogStaticMesh: Built static mesh [0.02s] /Game/HQ_ResidentialHouse/Meshes/Desk/SM_Desk_Desk_DEADPACKAGE_93.SM_Desk_Desk
+[2019.09.20-19.23.39:780][566]LogStaticMesh: Building static mesh SM_Desk_Drawer...
+[2019.09.20-19.23.39:797][566]LogStaticMesh: Built static mesh [0.19s] /Game/HQ_ResidentialHouse/Meshes/Desk/SM_Desk_Drawer_DEADPACKAGE_94.SM_Desk_Drawer
+[2019.09.20-19.23.39:800][566]LogStaticMesh: Building static mesh SM_NotebookC...
+[2019.09.20-19.23.39:837][566]LogStaticMesh: Built static mesh [0.04s] /Game/HQ_ResidentialHouse/Meshes/Deskware/SM_NotebookC_DEADPACKAGE_99.SM_NotebookC
+[2019.09.20-19.23.39:839][566]LogStaticMesh: Building static mesh SM_PencilCase_filled...
+[2019.09.20-19.23.39:850][566]LogStaticMesh: Built static mesh [0.01s] /Game/HQ_ResidentialHouse/Meshes/Deskware/SM_PencilCase_filled_DEADPACKAGE_100.SM_PencilCase_filled
+[2019.09.20-19.23.39:869][566]LogStaticMesh: Building static mesh SM_Scissors...
+[2019.09.20-19.23.39:889][566]LogStaticMesh: Built static mesh [0.02s] /Game/HQ_ResidentialHouse/Meshes/Deskware/SM_Scissors_DEADPACKAGE_101.SM_Scissors
+[2019.09.20-19.23.39:925][566]LogStaticMesh: Building static mesh SM_ElectricMeter_glass...
+[2019.09.20-19.23.39:939][566]LogStaticMesh: Built static mesh [0.01s] /Game/HQ_ResidentialHouse/Meshes/ElectricMeter/SM_ElectricMeter_glass_DEADPACKAGE_107.SM_ElectricMeter_glass
+[2019.09.20-19.23.39:986][566]LogStaticMesh: Building static mesh SM_KitchenSetA...
+[2019.09.20-19.23.40:003][566]LogStaticMesh: Built static mesh [0.05s] /Game/HQ_ResidentialHouse/Meshes/KitchenSet/KitchenSetA/SM_KitchenSetA_DEADPACKAGE_113.SM_KitchenSetA
+[2019.09.20-19.23.40:029][566]LogStaticMesh: Building static mesh SM_KitchenSetA_C...
+[2019.09.20-19.23.40:199][566]LogStaticMesh: Built static mesh [0.19s] /Game/HQ_ResidentialHouse/Meshes/KitchenSet/KitchenSetA_C/SM_KitchenSetA_C_DEADPACKAGE_114.SM_KitchenSetA_C
+[2019.09.20-19.23.40:248][566]LogStaticMesh: Building static mesh SM_CookerHood...
+[2019.09.20-19.23.40:265][566]LogStaticMesh: Built static mesh [0.06s] /Game/HQ_ResidentialHouse/Meshes/KitchenSet/SM_CookerHood_DEADPACKAGE_115.SM_CookerHood
+[2019.09.20-19.23.40:360][566]LogStaticMesh: Building static mesh SM_LampDesk...
+[2019.09.20-19.23.40:385][566]LogStaticMesh: Built static mesh [0.04s] /Game/HQ_ResidentialHouse/Meshes/LampDesk/SM_LampDesk_DEADPACKAGE_126.SM_LampDesk
+[2019.09.20-19.23.40:408][566]LogStaticMesh: Building static mesh SM_Armchair...
+[2019.09.20-19.23.40:432][566]LogStaticMesh: Built static mesh [0.02s] /Game/HQ_ResidentialHouse/Meshes/SM_Armchair_DEADPACKAGE_132.SM_Armchair
+[2019.09.20-19.23.40:437][566]LogStaticMesh: Building static mesh SM_BathTub...
+[2019.09.20-19.23.40:535][566]LogStaticMesh: Built static mesh [0.10s] /Game/HQ_ResidentialHouse/Meshes/SM_BathTub_DEADPACKAGE_137.SM_BathTub
+[2019.09.20-19.23.40:539][566]LogStaticMesh: Building static mesh SM_TowelHangerA...
+[2019.09.20-19.23.40:543][566]LogStaticMesh: Built static mesh [0.00s] /Game/HQ_ResidentialHouse/Meshes/SM_TowelHangerA_DEADPACKAGE_224.SM_TowelHangerA
+[2019.09.20-19.23.40:599][566]LogStaticMesh: Building static mesh SM_BeanBag...
+[2019.09.20-19.23.40:646][566]LogStaticMesh: Built static mesh [0.08s] /Game/HQ_ResidentialHouse/Meshes/SM_BeanBag_DEADPACKAGE_142.SM_BeanBag
+[2019.09.20-19.23.40:652][566]LogStaticMesh: Building static mesh SM_Bed...
+[2019.09.20-19.23.41:130][566]LogStaticMesh: Built static mesh [0.48s] /Game/HQ_ResidentialHouse/Meshes/SM_Bed_DEADPACKAGE_148.SM_Bed
+[2019.09.20-19.23.41:248][566]LogStaticMesh: Building static mesh SM_Bunny...
+[2019.09.20-19.23.41:326][566]LogStaticMesh: Built static mesh [0.16s] /Game/HQ_ResidentialHouse/Meshes/SM_Bunny_DEADPACKAGE_153.SM_Bunny
+[2019.09.20-19.23.41:333][566]LogStaticMesh: Building static mesh SM_ChairLeather...
+[2019.09.20-19.23.41:555][566]LogStaticMesh: Built static mesh [0.22s] /Game/HQ_ResidentialHouse/Meshes/SM_ChairLeather_DEADPACKAGE_159.SM_ChairLeather
+[2019.09.20-19.23.41:703][566]LogStaticMesh: Building static mesh SM_CoffeeTable...
+[2019.09.20-19.23.41:731][566]LogStaticMesh: Built static mesh [0.03s] /Game/HQ_ResidentialHouse/Meshes/SM_CoffeeTable_DEADPACKAGE_164.SM_CoffeeTable
+[2019.09.20-19.23.41:736][566]LogStaticMesh: Building static mesh SM_DiningChair...
+[2019.09.20-19.23.41:818][566]LogStaticMesh: Built static mesh [0.08s] /Game/HQ_ResidentialHouse/Meshes/SM_DiningChair_DEADPACKAGE_170.SM_DiningChair
+[2019.09.20-19.23.41:824][566]LogStaticMesh: Building static mesh SM_DiningTable...
+[2019.09.20-19.23.41:961][566]LogStaticMesh: Built static mesh [0.14s] /Game/HQ_ResidentialHouse/Meshes/SM_DiningTable_DEADPACKAGE_176.SM_DiningTable
+[2019.09.20-19.23.41:964][566]LogStaticMesh: Building static mesh SM_DoorFrameB...
+[2019.09.20-19.23.42:006][566]LogStaticMesh: Built static mesh [0.04s] /Game/HQ_ResidentialHouse/Meshes/SM_DoorFrameB_DEADPACKAGE_181.SM_DoorFrameB
+[2019.09.20-19.23.42:010][566]LogStaticMesh: Building static mesh SM_DoorMat...
+[2019.09.20-19.23.42:017][566]LogStaticMesh: Built static mesh [0.01s] /Game/HQ_ResidentialHouse/Meshes/SM_DoorMat_DEADPACKAGE_186.SM_DoorMat
+[2019.09.20-19.23.42:051][566]LogStaticMesh: Building static mesh SM_LampFloor_solid...
+[2019.09.20-19.23.42:066][566]LogStaticMesh: Built static mesh [0.03s] /Game/HQ_ResidentialHouse/Meshes/SM_LampFloor_solid_DEADPACKAGE_192.SM_LampFloor_solid
+[2019.09.20-19.23.42:089][566]LogStaticMesh: Building static mesh SM_LightSwitch...
+[2019.09.20-19.23.42:138][566]LogStaticMesh: Built static mesh [0.05s] /Game/HQ_ResidentialHouse/Meshes/SM_LightSwitch_DEADPACKAGE_198.SM_LightSwitch
+[2019.09.20-19.23.42:140][566]LogStaticMesh: Building static mesh SM_Outlet...
+[2019.09.20-19.23.42:187][566]LogStaticMesh: Built static mesh [0.05s] /Game/HQ_ResidentialHouse/Meshes/SM_Outlet_DEADPACKAGE_205.SM_Outlet
+[2019.09.20-19.23.42:368][566]LogStaticMesh: Building static mesh SM_MobilePhone...
+[2019.09.20-19.23.42:496][566]LogStaticMesh: Built static mesh [0.15s] /Game/HQ_ResidentialHouse/Meshes/SM_MobilePhone_DEADPACKAGE_204.SM_MobilePhone
+[2019.09.20-19.23.42:508][566]LogStaticMesh: Building static mesh SM_TV_Hanging...
+[2019.09.20-19.23.42:508][566]LogStaticMesh: Built static mesh [0.00s] /Game/HQ_ResidentialHouse/Meshes/SM_TV_Hanging_DEADPACKAGE_225.SM_TV_Hanging
+[2019.09.20-19.23.42:525][566]LogStaticMesh: Building static mesh SM_RockingChair...
+[2019.09.20-19.23.42:536][566]LogStaticMesh: Built static mesh [0.02s] /Game/HQ_ResidentialHouse/Meshes/SM_RockingChair_DEADPACKAGE_211.SM_RockingChair
+[2019.09.20-19.23.42:560][566]LogStaticMesh: Building static mesh SM_SofaBig...
+[2019.09.20-19.23.42:571][566]LogStaticMesh: Built static mesh [0.01s] /Game/HQ_ResidentialHouse/Meshes/SM_SofaBig_DEADPACKAGE_217.SM_SofaBig
+[2019.09.20-19.23.42:577][566]LogStaticMesh: Building static mesh SM_Toilet...
+[2019.09.20-19.23.42:587][566]LogStaticMesh: Built static mesh [0.01s] /Game/HQ_ResidentialHouse/Meshes/SM_Toilet_DEADPACKAGE_222.SM_Toilet
+[2019.09.20-19.23.42:613][566]LogStaticMesh: Building static mesh SM_ToiletPaper...
+[2019.09.20-19.23.42:617][566]LogStaticMesh: Built static mesh [0.00s] /Game/HQ_ResidentialHouse/Meshes/SM_ToiletPaper_DEADPACKAGE_223.SM_ToiletPaper
+[2019.09.20-19.23.42:641][566]LogBlueprint: Error: [Compiler ThirdPersonCharacter] COMPILER ERROR: failed building connection with 'Third Person Character Object Reference is not compatible with Self Object Reference.' at  Interact
+[2019.09.20-19.23.42:656][566]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [0353.58] Compile of ThirdPersonCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 23 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_DEADPACKAGE_28.ThirdPersonCharacter)
+[2019.09.20-19.23.42:804][566]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2019.09.20-19.23.42:804][566]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.09.20-19.23.42:878][566]LogBlueprintActionDatabase: DeferredRemoveEntry - Object: NULL (ObjectIndex = 50672, ObjectSerialNumber = 34363)
+[2019.09.20-19.23.42:878][566]LogBlueprintActionDatabase: DeferredRemoveEntry - Object: NULL (ObjectIndex = 50630, ObjectSerialNumber = 34451)
+[2019.09.20-19.23.42:878][566]LogBlueprintActionDatabase: DeferredRemoveEntry - Object: NULL (ObjectIndex = 50637, ObjectSerialNumber = 34365)
+[2019.09.20-19.23.42:878][566]LogBlueprintActionDatabase: DeferredRemoveEntry - Object: NULL (ObjectIndex = 50644, ObjectSerialNumber = 34364)
+[2019.09.20-19.23.42:878][566]LogBlueprintActionDatabase: DeferredRemoveEntry - Object: NULL (ObjectIndex = 50652, ObjectSerialNumber = 34362)
+[2019.09.20-19.23.42:878][566]LogBlueprintActionDatabase: DeferredRemoveEntry - Object: NULL (ObjectIndex = 50659, ObjectSerialNumber = 34361)
+[2019.09.20-19.23.42:878][566]LogBlueprintActionDatabase: DeferredRemoveEntry - Object: NULL (ObjectIndex = 50666, ObjectSerialNumber = 34360)
+[2019.09.20-19.23.42:961][566]LogBlueprintActionDatabase: DeferredRemoveEntry - Object: NULL (ObjectIndex = 50628, ObjectSerialNumber = 34366)
+[2019.09.20-19.23.43:029][566]LogBlueprintActionDatabase: DeferredRemoveEntry - Object: NULL (ObjectIndex = 50672, ObjectSerialNumber = 34363)
+[2019.09.20-19.23.43:029][566]LogBlueprintActionDatabase: DeferredRemoveEntry - Object: NULL (ObjectIndex = 50630, ObjectSerialNumber = 34451)
+[2019.09.20-19.23.43:029][566]LogBlueprintActionDatabase: DeferredRemoveEntry - Object: NULL (ObjectIndex = 50637, ObjectSerialNumber = 34365)
+[2019.09.20-19.23.43:029][566]LogBlueprintActionDatabase: DeferredRemoveEntry - Object: NULL (ObjectIndex = 50644, ObjectSerialNumber = 34364)
+[2019.09.20-19.23.43:029][566]LogBlueprintActionDatabase: DeferredRemoveEntry - Object: NULL (ObjectIndex = 50652, ObjectSerialNumber = 34362)
+[2019.09.20-19.23.43:029][566]LogBlueprintActionDatabase: DeferredRemoveEntry - Object: NULL (ObjectIndex = 50659, ObjectSerialNumber = 34361)
+[2019.09.20-19.23.43:029][566]LogBlueprintActionDatabase: DeferredRemoveEntry - Object: NULL (ObjectIndex = 50666, ObjectSerialNumber = 34360)
+[2019.09.20-19.23.43:063][566]LogBlueprintActionDatabase: DeferredRemoveEntry - Object: NULL (ObjectIndex = 50628, ObjectSerialNumber = 34366)
+[2019.09.20-19.23.43:193][566]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.20-19.23.43:212][566]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.09.20-19.23.43:248][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2019.09.20-19.23.43:249][566]Cmd: MAP LOAD FILE="../../../../../../Users/Monado/Desktop/ElectricAvenueGrey/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.20-19.23.43:249][566]LightingResults: New page: Lighting Build
+[2019.09.20-19.23.43:249][566]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2019.09.20-19.23.43:250][566]MapCheck: New page: Map Check
+[2019.09.20-19.23.43:250][566]LightingResults: New page: Lighting Build
+[2019.09.20-19.23.43:285][566]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2019.09.20-19.23.43:423][566]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.20-19.23.43:459][566]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2019.09.20-19.23.43:475][566]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.20-19.23.43:475][566]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.118ms to complete.
+[2019.09.20-19.23.43:476][566]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.227
+[2019.09.20-19.23.43:852][566]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.09.20-19.23.44:474][566]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.622 s
+[2019.09.20-19.23.44:474][566]LogOutputDevice: Error: === Handled ensure: ===
+[2019.09.20-19.23.44:474][566]LogOutputDevice: Error: 
+[2019.09.20-19.23.44:474][566]LogOutputDevice: Error: Ensure condition failed: NodeSpawners != nullptr [File:D:\Build\++UE4\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionDatabase.cpp] [Line: 1190]
+[2019.09.20-19.23.44:474][566]LogOutputDevice: Error: Entry was not found in the ActionRegistry for deferred removal - Object: NULL (ObjectIndex = 50628, ObjectSerialNumber = 34366)
+[2019.09.20-19.23.44:474][566]LogOutputDevice: Error: Stack: 
+[2019.09.20-19.23.44:474][566]LogOutputDevice: Error: [Callstack] 0x00007ffa67ac06cc UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.09.20-19.23.44:474][566]LogOutputDevice: Error: [Callstack] 0x00007ffa6794195e UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.09.20-19.23.44:474][566]LogOutputDevice: Error: [Callstack] 0x00007ffa694b8d5c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.20-19.23.44:474][566]LogOutputDevice: Error: [Callstack] 0x00007ffa6982f6e0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.20-19.23.44:474][566]LogOutputDevice: Error: [Callstack] 0x00007ffa6a04d396 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.20-19.23.44:474][566]LogOutputDevice: Error: [Callstack] 0x00007ff72c0e6bb1 UE4Editor.exe!UnknownFunction []
+[2019.09.20-19.23.44:474][566]LogOutputDevice: Error: [Callstack] 0x00007ff72c0f554c UE4Editor.exe!UnknownFunction []
+[2019.09.20-19.23.44:474][566]LogOutputDevice: Error: [Callstack] 0x00007ff72c0f55ca UE4Editor.exe!UnknownFunction []
+[2019.09.20-19.23.44:474][566]LogOutputDevice: Error: [Callstack] 0x00007ff72c10316c UE4Editor.exe!UnknownFunction []
+[2019.09.20-19.23.44:474][566]LogOutputDevice: Error: [Callstack] 0x00007ff72c105b8e UE4Editor.exe!UnknownFunction []
+[2019.09.20-19.23.44:474][566]LogOutputDevice: Error: [Callstack] 0x00007ffacda74034 KERNEL32.DLL!UnknownFunction []
+[2019.09.20-19.23.44:474][566]LogOutputDevice: Error: [Callstack] 0x00007ffacdc73691 ntdll.dll!UnknownFunction []
+[2019.09.20-19.23.44:474][566]LogOutputDevice: Error: 
+[2019.09.20-19.23.44:524][566]LogStats:                SubmitErrorReport -  0.000 s
