@@ -1,0 +1,1331 @@
+﻿Log file open, 09/26/19 15:10:02
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ElectricAvenue
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 83 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.932128
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: AMD Ryzen Threadripper 2990WX 32-Core Processor, GPU: NVIDIA GeForce RTX 2080
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.09.26-19.10.02:878][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.09.26-19.10.02:878][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.09.26-19.10.02:878][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/Config/Windows/Engine.ini]
+[2019.09.26-19.10.02:878][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.09.26-19.10.02:878][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/Config/Windows/Engine.ini]
+[2019.09.26-19.10.02:878][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/Config/Windows/Engine.ini]
+[2019.09.26-19.10.02:878][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.09.26-19.10.02:878][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.09.26-19.10.02:878][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.09.26-19.10.02:878][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.09.26-19.10.02:878][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.09.26-19.10.02:878][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.09.26-19.10.02:878][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.09.26-19.10.02:878][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.09.26-19.10.02:878][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.09.26-19.10.02:878][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.09.26-19.10.02:878][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.09.26-19.10.02:878][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.09.26-19.10.02:878][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.09.26-19.10.02:878][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/Config/Windows/Engine.ini]
+[2019.09.26-19.10.02:878][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.09.26-19.10.02:878][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.09.26-19.10.02:878][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.09.26-19.10.02:878][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.09.26-19.10.02:878][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.09.26-19.10.02:878][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.09.26-19.10.02:878][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.09.26-19.10.02:878][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.09.26-19.10.02:878][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.09.26-19.10.02:878][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.09.26-19.10.02:878][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.09.26-19.10.02:878][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.09.26-19.10.02:878][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.09.26-19.10.02:878][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/Config/Windows/Engine.ini]
+[2019.09.26-19.10.02:878][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/Config/Windows/Engine.ini]
+[2019.09.26-19.10.02:881][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/Config/Windows/Scalability.ini]
+[2019.09.26-19.10.02:881][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.26-19.10.02:881][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.26-19.10.02:881][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/Config/Windows/Scalability.ini]
+[2019.09.26-19.10.02:881][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.26-19.10.02:881][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/Config/Windows/Scalability.ini]
+[2019.09.26-19.10.02:881][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.26-19.10.02:881][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.26-19.10.02:881][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.26-19.10.02:881][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.26-19.10.02:881][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.26-19.10.02:881][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.26-19.10.02:881][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.26-19.10.02:881][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.26-19.10.02:881][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.26-19.10.02:881][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.26-19.10.02:881][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.26-19.10.02:881][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.26-19.10.02:881][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.26-19.10.02:881][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.26-19.10.02:881][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.26-19.10.02:881][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.26-19.10.02:881][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.26-19.10.02:881][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.26-19.10.02:881][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/Config/Windows/Scalability.ini]
+[2019.09.26-19.10.02:881][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.26-19.10.02:881][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.26-19.10.02:881][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.26-19.10.02:881][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.26-19.10.02:881][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.26-19.10.02:881][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.26-19.10.02:881][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.26-19.10.02:881][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.26-19.10.02:881][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.26-19.10.02:881][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.26-19.10.02:881][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.26-19.10.02:881][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.26-19.10.02:881][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.26-19.10.02:881][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.26-19.10.02:881][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.26-19.10.02:882][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.26-19.10.02:882][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.26-19.10.02:882][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.26-19.10.02:882][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.26-19.10.02:882][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.26-19.10.02:882][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.26-19.10.02:882][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.26-19.10.02:882][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.26-19.10.02:882][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.26-19.10.02:882][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.26-19.10.02:882][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.26-19.10.02:882][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.26-19.10.02:882][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.26-19.10.02:882][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.26-19.10.02:882][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.26-19.10.02:882][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/Config/Windows/Scalability.ini]
+[2019.09.26-19.10.02:882][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.26-19.10.02:882][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.26-19.10.02:882][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.26-19.10.02:882][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.26-19.10.02:882][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.26-19.10.02:882][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.26-19.10.02:882][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.26-19.10.02:882][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.26-19.10.02:882][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/Config/Windows/Scalability.ini]
+[2019.09.26-19.10.02:882][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.26-19.10.02:882][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.26-19.10.02:882][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.26-19.10.02:882][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.26-19.10.02:882][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.26-19.10.02:882][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.26-19.10.02:882][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.26-19.10.02:882][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.26-19.10.02:882][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.26-19.10.02:882][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.26-19.10.02:882][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.26-19.10.02:882][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.26-19.10.02:882][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.26-19.10.02:882][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/Config/Windows/Scalability.ini]
+[2019.09.26-19.10.02:882][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.26-19.10.02:882][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.26-19.10.02:882][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.26-19.10.02:882][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.09.26-19.10.02:906][  0]LogHAL: Display: Platform has ~ 64 GB [68590047232 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.09.26-19.10.02:906][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.09.26-19.10.02:906][  0]LogInit: Going up to parent DeviceProfile []
+[2019.09.26-19.10.02:906][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/Config/Windows/Scalability.ini]
+[2019.09.26-19.10.02:906][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.26-19.10.02:906][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.26-19.10.02:906][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/Config/Windows/Scalability.ini]
+[2019.09.26-19.10.02:906][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.26-19.10.02:906][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/Config/Windows/Scalability.ini]
+[2019.09.26-19.10.02:906][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.26-19.10.02:906][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.26-19.10.02:906][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.26-19.10.02:906][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.26-19.10.02:906][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.26-19.10.02:906][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.26-19.10.02:906][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.26-19.10.02:906][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.26-19.10.02:906][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.26-19.10.02:906][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.26-19.10.02:906][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.26-19.10.02:906][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.26-19.10.02:906][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.26-19.10.02:906][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.26-19.10.02:906][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.26-19.10.02:906][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/Config/Windows/Scalability.ini]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/Config/Windows/Scalability.ini]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/Config/Windows/Scalability.ini]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.26-19.10.02:907][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/Config/Windows/Scalability.ini]
+[2019.09.26-19.10.02:908][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.26-19.10.02:908][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.26-19.10.02:908][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.09.26-19.10.02:908][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.09.26-19.10.02:908][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.09.26-19.10.02:908][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/Config/Windows/Engine.ini]
+[2019.09.26-19.10.02:908][  0]LogInit: Computer: DESKTOP-3KTPUCP
+[2019.09.26-19.10.02:908][  0]LogInit: User: eku
+[2019.09.26-19.10.02:908][  0]LogInit: CPU Page size=4096, Cores=32
+[2019.09.26-19.10.02:908][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.09.26-19.10.02:908][  0]LogMemory: Memory total: Physical=63.9GB (64GB approx)
+[2019.09.26-19.10.02:908][  0]LogMemory: Platform Memory Stats for Windows
+[2019.09.26-19.10.02:908][  0]LogMemory: Process Physical Memory: 102.18 MB used, 102.18 MB peak
+[2019.09.26-19.10.02:908][  0]LogMemory: Process Virtual Memory: 94.59 MB used, 94.59 MB peak
+[2019.09.26-19.10.02:908][  0]LogMemory: Physical Memory: 6044.78 MB used,  59367.79 MB free, 65412.57 MB total
+[2019.09.26-19.10.02:909][  0]LogMemory: Virtual Memory: 4750.68 MB used,  134212976.00 MB free, 134217728.00 MB total
+[2019.09.26-19.10.02:934][  0]LogInit: Using OS detected language (en-US).
+[2019.09.26-19.10.02:934][  0]LogInit: Using OS detected locale (en-US).
+[2019.09.26-19.10.02:934][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.09.26-19.10.03:086][  0]LogInit: Setting process to per monitor DPI aware
+[2019.09.26-19.10.03:121][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.09.26-19.10.03:121][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.09.26-19.10.03:292][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.26-19.10.03:292][  0]LogD3D11RHI: D3D11 adapters:
+[2019.09.26-19.10.03:558][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080' (Feature Level 11_0)
+[2019.09.26-19.10.03:558][  0]LogD3D11RHI:       7920/0/32706 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.09.26-19.10.03:560][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.09.26-19.10.03:560][  0]LogD3D11RHI:       0/0/32706 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.09.26-19.10.03:560][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.09.26-19.10.03:573][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.09.26-19.10.03:573][  0]LogD3D11RHI:     GPU DeviceId: 0x1e82 (for the marketing name, search the web for "GPU Device Id")
+[2019.09.26-19.10.03:573][  0]LogWindows: EnumDisplayDevices:
+[2019.09.26-19.10.03:574][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080' (P:1 D:1)
+[2019.09.26-19.10.03:574][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.09.26-19.10.03:574][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.09.26-19.10.03:574][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.09.26-19.10.03:574][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.09.26-19.10.03:574][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080
+[2019.09.26-19.10.03:574][  0]LogD3D11RHI:   Driver Version: 436.15 (internal:26.21.14.3615, unified:436.15)
+[2019.09.26-19.10.03:574][  0]LogD3D11RHI:      Driver Date: 8-24-2019
+[2019.09.26-19.10.03:574][  0]LogRHI: Texture pool is 5544 MB (70% of 7920 MB)
+[2019.09.26-19.10.03:656][  0]LogD3D11RHI: Async texture creation enabled
+[2019.09.26-19.10.03:674][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.26-19.10.03:674][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.26-19.10.03:674][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.26-19.10.03:682][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.09.26-19.10.03:987][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.09.26-19.10.04:003][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.09.26-19.10.04:020][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.09.26-19.10.04:036][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.09.26-19.10.04:052][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.09.26-19.10.04:068][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.09.26-19.10.04:084][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.09.26-19.10.04:099][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.09.26-19.10.04:106][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.09.26-19.10.04:196][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.09.26-19.10.04:196][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.09.26-19.10.04:196][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.09.26-19.10.04:196][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.09.26-19.10.04:196][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.09.26-19.10.04:196][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.09.26-19.10.04:196][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.09.26-19.10.04:196][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.09.26-19.10.04:196][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.09.26-19.10.04:196][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.09.26-19.10.04:196][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.09.26-19.10.04:196][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.09.26-19.10.04:196][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.09.26-19.10.04:196][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.09.26-19.10.04:196][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.09.26-19.10.04:196][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.09.26-19.10.04:196][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.09.26-19.10.04:196][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.09.26-19.10.04:198][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.09.26-19.10.04:256][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.09.26-19.10.04:256][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.09.26-19.10.04:283][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.09.26-19.10.04:283][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.09.26-19.10.04:301][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.09.26-19.10.04:316][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.09.26-19.10.04:330][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.09.26-19.10.04:345][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.09.26-19.10.04:397][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.09.26-19.10.04:397][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.09.26-19.10.04:397][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.09.26-19.10.04:407][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.09.26-19.10.04:467][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Intermediate/Shaders/WorkingDirectory/12524/).
+[2019.09.26-19.10.04:467][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/eku/AppData/Local/Temp/UnrealShaderWorkingDir/3AAC18C94D4666311C9E679D7A6CD714/'.
+[2019.09.26-19.10.04:470][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.09.26-19.10.04:470][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.09.26-19.10.04:470][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.09.26-19.10.05:035][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.09.26-19.10.05:078][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/eku/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.09.26-19.10.05:078][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/eku/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.09.26-19.10.05:078][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.09.26-19.10.05:078][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.09.26-19.10.05:078][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.26-19.10.05:078][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.09.26-19.10.05:092][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.09.26-19.10.05:092][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.26-19.10.05:092][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.09.26-19.10.05:104][  0]LogDerivedDataCache: Using Local data cache path C:/Users/eku/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.09.26-19.10.05:104][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.09.26-19.10.05:104][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.09.26-19.10.05:127][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.09.26-19.10.05:129][  0]LogSlate: Using FreeType 2.6.0
+[2019.09.26-19.10.05:129][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.09.26-19.10.05:215][  0]LogAssetRegistry: FAssetRegistry took 0.0370 seconds to start up
+[2019.09.26-19.10.05:566][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.26-19.10.05:697][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.09.26-19.10.05:697][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.09.26-19.10.05:697][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.09.26-19.10.05:697][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.09.26-19.10.05:697][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.09.26-19.10.05:714][  0]LogNetVersion: ElectricAvenue 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 4231497916)
+[2019.09.26-19.10.06:125][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.049947 seconds
+[2019.09.26-19.10.06:132][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.09.26-19.10.06:132][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.09.26-19.10.06:132][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.09.26-19.10.06:961][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.09.26-19.10.06:975][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.09.26-19.10.07:097][  0]SourceControl: Source control is disabled
+[2019.09.26-19.10.07:098][  0]SourceControl: Source control is disabled
+[2019.09.26-19.10.07:100][  0]SourceControl: Source control is disabled
+[2019.09.26-19.10.07:101][  0]SourceControl: Source control is disabled
+[2019.09.26-19.10.07:177][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.09.26-19.10.07:259][  0]LogOcInput: OculusInput pre-init called
+[2019.09.26-19.10.07:911][  0]LogEngine: Initializing Engine...
+[2019.09.26-19.10.07:912][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.26-19.10.07:913][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.09.26-19.10.08:106][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.09.26-19.10.08:119][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.09.26-19.10.08:133][  0]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-19.10.08:179][  0]LogInit: FAudioDevice initialized.
+[2019.09.26-19.10.08:180][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.09.26-19.10.08:245][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/eku/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.09.26-19.10.08:256][  0]LogInit: Texture streaming: Enabled
+[2019.09.26-19.10.08:275][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.09.26-19.10.08:300][  0]LogInit: Transaction tracking system initialized
+[2019.09.26-19.10.08:326][  0]BlueprintLog: New page: Editor Load
+[2019.09.26-19.10.08:412][  0]LocalizationService: Localization service is disabled
+[2019.09.26-19.10.08:699][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.09.26-19.10.08:699][  0]LogCook: Display: Mobile HDR setting 1
+[2019.09.26-19.10.08:873][  0]LogFileCache: Scanning file cache for directory 'C:/Users/eku/Documents/Unreal Projects/ElectricAvenue/Content/' took 0.04s
+[2019.09.26-19.10.08:873][  0]SourceControl: Source control is disabled
+[2019.09.26-19.10.08:873][  0]Cmd: MAP LOAD FILE="../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.26-19.10.08:874][  0]LightingResults: New page: Lighting Build
+[2019.09.26-19.10.08:877][  0]MapCheck: New page: Map Check
+[2019.09.26-19.10.08:877][  0]LightingResults: New page: Lighting Build
+[2019.09.26-19.10.08:933][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2019.09.26-19.10.11:528][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.26-19.10.11:552][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.26-19.10.11:616][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2019.09.26-19.10.11:616][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.26-19.10.11:616][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.188ms to complete.
+[2019.09.26-19.10.11:616][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 2.743
+[2019.09.26-19.10.11:752][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-19.10.11:761][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-19.10.11:768][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-19.10.11:776][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-19.10.11:792][  0]LogCollectionManager: Loaded 0 collections in 0.002182 seconds
+[2019.09.26-19.10.11:820][  0]LogFileCache: Scanning file cache for directory 'C:/Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/Collections/' took 0.01s
+[2019.09.26-19.10.11:820][  0]LogFileCache: Scanning file cache for directory 'C:/Users/eku/Documents/Unreal Projects/ElectricAvenue/Content/Developers/eku/Collections/' took 0.00s
+[2019.09.26-19.10.11:820][  0]LogFileCache: Scanning file cache for directory 'C:/Users/eku/Documents/Unreal Projects/ElectricAvenue/Content/Collections/' took 0.00s
+[2019.09.26-19.10.11:820][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.09.26-19.10.11:833][  0]LogContentBrowser: Native class hierarchy populated in 0.0111 seconds. Added 2732 classes and 659 folders.
+[2019.09.26-19.10.11:844][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.09.26-19.10.11:853][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-19.10.11:861][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-19.10.11:878][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-19.10.11:883][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-19.10.11:888][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-19.10.11:893][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-19.10.11:898][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-19.10.11:904][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-19.10.11:909][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-19.10.11:915][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-19.10.11:920][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-19.10.11:925][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-19.10.11:930][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-19.10.11:935][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-19.10.11:941][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-19.10.11:946][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-19.10.11:974][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-19.10.11:980][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-19.10.11:985][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-19.10.11:990][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-19.10.11:996][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-19.10.12:001][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-19.10.12:006][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-19.10.12:011][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-19.10.12:017][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-19.10.12:022][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.26-19.10.12:165][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.09.26-19.10.12:178][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.09.26-19.10.12:331][  0]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.09.26-19.10.12:333][  0]LogSlate: Took 0.000115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.09.26-19.10.12:343][  0]LogSlate: Took 0.005478 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.09.26-19.10.12:497][  0]LogRenderer: Reallocating scene render targets to support 1160x572 Format 10 NumSamples 1 (Frame:1).
+[2019.09.26-19.10.12:700][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.09.26-19.10.12:700][  0]LogLoad: (Engine Initialization) Total time: 13.05 seconds
+[2019.09.26-19.10.12:700][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.09.26-19.10.12:752][  0]LogAssetRegistry: Asset discovery search completed in 7.5593 seconds
+[2019.09.26-19.10.12:754][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.09.26-19.10.12:754][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000033 seconds (updated 0 objects)
+[2019.09.26-19.10.12:756][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.09.26-19.10.12:802][  0]LogSlate: Took 0.004667 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.26-19.12.31:160][588]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-19.24.09:077][315]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.26-19.24.09:085][315]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Masters/EnergyDrain.EnergyDrain
+[2019.09.26-19.24.09:481][315]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2019.09.26-19.24.10:351][315]LogSlate: Took 0.004798 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.09.26-19.24.10:451][316]LogSlate: Took 0.005228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.09.26-19.24.38:847][677]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Parts/EnergyComponent.EnergyComponent
+[2019.09.26-19.24.58:927][967]LogSlate: Took 0.005235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.09.26-19.25.49:894][902]LogSlate: Window 'EnergyComponent' being destroyed
+[2019.09.26-19.25.52:160][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-19.26.04:739][604]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.09.26-19.26.10:209][202]LogRenderer: Reallocating scene render targets to support 1160x708 Format 10 NumSamples 1 (Frame:1).
+[2019.09.26-19.26.20:810][464]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-19.27.53:054][885]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2019.09.26-19.27.53:054][885]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.056
+[2019.09.26-19.27.53:056][885]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Masters/EnergyDrain] ([1] browsable assets)...
+[2019.09.26-19.27.53:078][885]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Masters/EnergyDrain.EnergyDrain]
+[2019.09.26-19.27.53:078][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Masters/EnergyDrain]
+[2019.09.26-19.27.53:152][885]LogSavePackage: Moving '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/EnergyDrain_Auto1A9BE018E43C62E3D3FB672B96DD3D6F8.tmp' to '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/Autosaves/Game/Blueprints/Masters/EnergyDrain_Auto1.uasset'
+[2019.09.26-19.27.53:154][885]LogFileHelpers: Auto-saving content packages took 0.099
+[2019.09.26-19.28.42:054][980]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Gameplay/Framework/Pawn/Character/index.html?utm_source=editor&utm_medium=docs&utm_campaign=cb_docs
+[2019.09.26-19.29.52:286][536]LogEditorTransaction: Undo Delete current selection
+[2019.09.26-19.30.38:033][823]LogSlate: Window 'Delete Variable' being destroyed
+[2019.09.26-19.30.59:475][372]BlueprintLog: New page: Compile EnergyComponent
+[2019.09.26-19.30.59:717][372]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2019.09.26-19.31.00:179][413]LogSavePackage: Moving '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/EnergyComponent87C328EA44E05FB74ADA76A35BFAB764.tmp' to '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Content/Blueprints/Parts/EnergyComponent.uasset'
+[2019.09.26-19.31.43:279][521]BlueprintLog: New page: Compile EnergyDrain
+[2019.09.26-19.31.43:284][521]LogBlueprint: Warning: [Compiler EnergyDrain] Could not find a variable named "Offset" in 'EnergyDrain_C'.
+Make sure 'EnergyDrain_C' has been compiled for  Get Offset
+[2019.09.26-19.31.43:284][521]LogBlueprint: Error: [Compiler EnergyDrain] The property associated with  Offset  could not be found in '/Game/Blueprints/Masters/EnergyDrain.EnergyDrain_C'
+[2019.09.26-19.31.43:500][521]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2019.09.26-19.31.43:512][521]LogBlueprint: Warning: [Compiler EnergyDrain] [1303.87] Compile of EnergyDrain failed. 1 Fatal Issue(s) 1 Warning(s) [in 232 ms] (/Game/Blueprints/Masters/EnergyDrain.EnergyDrain)
+[2019.09.26-19.31.57:480][183]BlueprintLog: New page: Compile EnergyDrain
+[2019.09.26-19.31.57:697][183]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2019.09.26-19.34.05:188][346]BlueprintLog: New page: Compile EnergyDrain
+[2019.09.26-19.34.05:405][346]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2019.09.26-19.34.05:747][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Masters/EnergyDrain" FILE="../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Content/Blueprints/Masters/EnergyDrain.uasset" SILENT=true
+[2019.09.26-19.34.05:809][379]LogSavePackage: Moving '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/EnergyDrain508B48C74FA1C929FAB451B1AB2FA227.tmp' to '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Content/Blueprints/Masters/EnergyDrain.uasset'
+[2019.09.26-19.34.25:359][712]LogEditorTransaction: Undo Remove Components
+[2019.09.26-19.34.25:574][734]LogEditorTransaction: Undo Delete current selection
+[2019.09.26-19.34.53:219][ 25]BlueprintLog: New page: Compile EnergyDrain
+[2019.09.26-19.34.53:435][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2019.09.26-19.34.54:176][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Masters/EnergyDrain" FILE="../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Content/Blueprints/Masters/EnergyDrain.uasset" SILENT=true
+[2019.09.26-19.34.54:233][108]LogSavePackage: Moving '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/EnergyDrain4478DCC94B4E8E4BF77BFABCA1C2FBE3.tmp' to '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Content/Blueprints/Masters/EnergyDrain.uasset'
+[2019.09.26-19.35.02:595][109]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-19.35.33:284][782]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Masters/EnergyInteractable.EnergyInteractable
+[2019.09.26-19.36.39:375][613]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-19.36.49:628][837]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Masters/EnergyInteraction2.EnergyInteraction2
+[2019.09.26-19.36.52:539][141]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-19.36.58:900][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-19.37.02:960][371]BlueprintLog: New page: Compile EnergyDrain
+[2019.09.26-19.37.03:176][371]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2019.09.26-19.37.03:935][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Masters/EnergyDrain" FILE="../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Content/Blueprints/Masters/EnergyDrain.uasset" SILENT=true
+[2019.09.26-19.37.03:987][455]LogSavePackage: Moving '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/EnergyDrainBF338D0F4F6C543B1D697EB16401DEE8.tmp' to '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Content/Blueprints/Masters/EnergyDrain.uasset'
+[2019.09.26-19.37.16:400][939]BlueprintLog: New page: Compile EnergyDrain
+[2019.09.26-19.37.16:620][939]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2019.09.26-19.37.16:872][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Masters/EnergyDrain" FILE="../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Content/Blueprints/Masters/EnergyDrain.uasset" SILENT=true
+[2019.09.26-19.37.16:925][962]LogSavePackage: Moving '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/EnergyDrain8BFFB282452C1E54A3F5F180BA649884.tmp' to '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Content/Blueprints/Masters/EnergyDrain.uasset'
+[2019.09.26-19.37.31:916][729]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2019.09.26-19.37.32:143][729]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.09.26-19.37.32:149][729]LogMetaData: Removing '/Game/Blueprints/Masters/EnergyDrainMaster.EnergyDrainMaster_C' ref from Metadata '/Game/Blueprints/Masters/EnergyDrain.PackageMetaData'
+[2019.09.26-19.37.32:149][729]LogMetaData: Removing '/Game/Blueprints/Masters/EnergyDrainMaster.EnergyDrainMaster:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Masters/EnergyDrain.PackageMetaData'
+[2019.09.26-19.37.32:150][729]LogMetaData: Removing '/Game/Blueprints/Masters/EnergyDrainMaster.SKEL_EnergyDrainMaster_C' ref from Metadata '/Game/Blueprints/Masters/EnergyDrain.PackageMetaData'
+[2019.09.26-19.37.32:150][729]LogMetaData: Removing '/Game/Blueprints/Masters/EnergyDrainMaster.EnergyDrainMaster:EnergyDrain.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Masters/EnergyDrain.PackageMetaData'
+[2019.09.26-19.37.32:242][729]LogSavePackage: Moving '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/EnergyDrainMaster91C5D25D41F28AC716804FBE54AFF184.tmp' to '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Content/Blueprints/Masters/EnergyDrainMaster.uasset'
+[2019.09.26-19.37.32:513][729]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2019.09.26-19.37.32:568][729]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.09.26-19.37.32:621][729]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2019.09.26-19.37.32:634][729]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnergyDrain" FILE="../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Content/Blueprints/EnergyDrain.uasset" SILENT=true
+[2019.09.26-19.37.32:649][729]LogSavePackage: Moving '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/EnergyDrain71BEBEC4422A07FAAE8285BF8CA8D01C.tmp' to '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Content/Blueprints/EnergyDrain.uasset'
+[2019.09.26-19.37.47:548][479]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2019.09.26-19.37.47:774][479]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2019.09.26-19.37.47:781][479]LogMetaData: Removing '/Game/Blueprints/Masters/EnergyMaster.EnergyMaster_C' ref from Metadata '/Game/Blueprints/Masters/EnergyDrainMaster.PackageMetaData'
+[2019.09.26-19.37.47:782][479]LogMetaData: Removing '/Game/Blueprints/Masters/EnergyMaster.SKEL_EnergyMaster_C' ref from Metadata '/Game/Blueprints/Masters/EnergyDrainMaster.PackageMetaData'
+[2019.09.26-19.37.47:782][479]LogMetaData: Removing '/Game/Blueprints/Masters/EnergyMaster.EnergyMaster:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Masters/EnergyDrainMaster.PackageMetaData'
+[2019.09.26-19.37.47:782][479]LogMetaData: Removing '/Game/Blueprints/Masters/EnergyMaster.EnergyMaster:EnergyDrain.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Masters/EnergyDrainMaster.PackageMetaData'
+[2019.09.26-19.37.47:824][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Masters/EnergyMaster" FILE="../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Content/Blueprints/Masters/EnergyMaster.uasset" SILENT=true
+[2019.09.26-19.37.47:875][479]LogSavePackage: Moving '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/EnergyMasterCA9B19E24C127046D90D04BD1EB1B206.tmp' to '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Content/Blueprints/Masters/EnergyMaster.uasset'
+[2019.09.26-19.37.48:040][479]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2019.09.26-19.37.48:094][479]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2019.09.26-19.37.48:146][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2019.09.26-19.37.55:155][300]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-19.38.00:679][957]BlueprintLog: New page: Compile EnergyMaster
+[2019.09.26-19.38.00:901][957]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2019.09.26-19.38.01:240][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Masters/EnergyMaster" FILE="../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Content/Blueprints/Masters/EnergyMaster.uasset" SILENT=true
+[2019.09.26-19.38.01:297][992]LogSavePackage: Moving '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/EnergyMasterBF28D1F14DCD9CA3CFF0B6B4D67A03C4.tmp' to '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Content/Blueprints/Masters/EnergyMaster.uasset'
+[2019.09.26-19.38.12:227][297]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-19.38.21:499][368]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2019.09.26-19.38.21:727][368]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2019.09.26-19.38.21:733][368]LogMetaData: Removing '/Game/Blueprints/Masters/ZZEnergyMaster.ZZEnergyMaster_C' ref from Metadata '/Game/Blueprints/Masters/EnergyMaster.PackageMetaData'
+[2019.09.26-19.38.21:733][368]LogMetaData: Removing '/Game/Blueprints/Masters/ZZEnergyMaster.SKEL_ZZEnergyMaster_C' ref from Metadata '/Game/Blueprints/Masters/EnergyMaster.PackageMetaData'
+[2019.09.26-19.38.21:733][368]LogMetaData: Removing '/Game/Blueprints/Masters/ZZEnergyMaster.ZZEnergyMaster:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Masters/EnergyMaster.PackageMetaData'
+[2019.09.26-19.38.21:733][368]LogMetaData: Removing '/Game/Blueprints/Masters/ZZEnergyMaster.ZZEnergyMaster:EnergyDrain.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Masters/EnergyMaster.PackageMetaData'
+[2019.09.26-19.38.21:830][368]LogSavePackage: Moving '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/ZZEnergyMasterBE05BC9F417355FAB688D9A5C96B2538.tmp' to '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Content/Blueprints/Masters/ZZEnergyMaster.uasset'
+[2019.09.26-19.38.22:090][368]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2019.09.26-19.38.22:143][368]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2019.09.26-19.38.22:196][368]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2019.09.26-19.38.29:032][150]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2019.09.26-19.38.29:256][150]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2019.09.26-19.38.29:262][150]LogMetaData: Removing '/Game/Blueprints/Masters/ZZZ_EnergyMaster.ZZZ_EnergyMaster_C' ref from Metadata '/Game/Blueprints/Masters/ZZEnergyMaster.PackageMetaData'
+[2019.09.26-19.38.29:262][150]LogMetaData: Removing '/Game/Blueprints/Masters/ZZZ_EnergyMaster.SKEL_ZZZ_EnergyMaster_C' ref from Metadata '/Game/Blueprints/Masters/ZZEnergyMaster.PackageMetaData'
+[2019.09.26-19.38.29:262][150]LogMetaData: Removing '/Game/Blueprints/Masters/ZZZ_EnergyMaster.ZZZ_EnergyMaster:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Masters/ZZEnergyMaster.PackageMetaData'
+[2019.09.26-19.38.29:262][150]LogMetaData: Removing '/Game/Blueprints/Masters/ZZZ_EnergyMaster.ZZZ_EnergyMaster:EnergyDrain.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Masters/ZZEnergyMaster.PackageMetaData'
+[2019.09.26-19.38.29:358][150]LogSavePackage: Moving '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/ZZZ_EnergyMasterA3818C4745762B260B75EB878AC375CB.tmp' to '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Content/Blueprints/Masters/ZZZ_EnergyMaster.uasset'
+[2019.09.26-19.38.29:529][150]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2019.09.26-19.38.29:584][150]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2019.09.26-19.38.29:635][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2019.09.26-19.38.46:458][156]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-19.38.54:379][105]BlueprintLog: New page: Compile EnergyInteraction2
+[2019.09.26-19.38.54:587][105]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2019.09.26-19.38.54:997][145]LogSavePackage: Moving '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/EnergyInteraction26922CCE14DAFB309068FACBB6EE6BB46.tmp' to '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Content/Blueprints/Masters/EnergyInteraction2.uasset'
+[2019.09.26-19.38.59:760][714]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-19.39.02:502][ 39]BlueprintLog: New page: Compile ZZZ_EnergyMaster
+[2019.09.26-19.39.02:720][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2019.09.26-19.39.02:993][ 59]LogSavePackage: Moving '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/ZZZ_EnergyMaster992D8D844595B25973DDC181D244186F.tmp' to '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Content/Blueprints/Masters/ZZZ_EnergyMaster.uasset'
+[2019.09.26-19.39.14:094][380]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.09.26-19.39.34:959][798]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Masters/EnergyInteractable.EnergyInteractable
+[2019.09.26-19.39.49:692][495]BlueprintLog: New page: Compile EnergyInteraction2
+[2019.09.26-19.39.49:908][495]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2019.09.26-19.40.20:010][ 40]BlueprintLog: New page: Compile EnergyInteraction2
+[2019.09.26-19.40.20:240][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2019.09.26-19.40.22:837][343]LogSavePackage: Moving '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/EnergyInteraction2E68D4E37480CEC4480DF70A8E407BDF6.tmp' to '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Content/Blueprints/Masters/EnergyInteraction2.uasset'
+[2019.09.26-19.40.41:405][561]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2019.09.26-19.40.41:474][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2019.09.26-19.40.41:750][561]LogSavePackage: Moving '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/ThirdPersonExampleMap3028CCBE423ADEA89EB0EC88906D898B.tmp' to '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.09.26-19.40.41:787][561]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.369
+[2019.09.26-19.40.41:853][561]LogSavePackage: Moving '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/EnergyInteractableADE8F654438D06DDF3A77E8656B79CB0.tmp' to '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Content/Blueprints/Masters/EnergyInteractable.uasset'
+[2019.09.26-19.40.41:881][561]LogSavePackage: Moving '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/EnergyInteraction21322AB98483B0E654D03F5AAE81FD114.tmp' to '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Content/Blueprints/Masters/EnergyInteraction2.uasset'
+[2019.09.26-19.48.52:046][954]LogSavePackage: Moving '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/EnergyInteraction2542B8BDA425DD5B2907665B5DE36B103.tmp' to '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Content/Blueprints/Masters/EnergyInteraction2.uasset'
+[2019.09.26-19.49.16:614][895]BlueprintLog: New page: Compile EnergyInteraction2
+[2019.09.26-19.49.16:826][895]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2019.09.26-19.49.17:847][ 10]LogSavePackage: Moving '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/EnergyInteraction2DDDA79694AA7420DD0571C9DB29761AC.tmp' to '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Content/Blueprints/Masters/EnergyInteraction2.uasset'
+[2019.09.26-19.49.33:070][825]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-19.49.33:923][921]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2019.09.26-19.49.48:515][921]LogSlate: Window 'Replace References?' being destroyed
+[2019.09.26-19.49.48:518][921]LogSlate: Window 'Delete Assets' being destroyed
+[2019.09.26-19.49.48:525][921]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.09.26-19.49.48:600][921]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.09.26-19.49.48:675][921]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.09.26-19.49.50:720][921]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2019.09.26-19.49.51:128][921]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2019.09.26-19.49.54:672][921]LogSlate: Window 'Save Content' being destroyed
+[2019.09.26-19.49.54:707][921]LogSavePackage: Moving '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/EnergyInteractable2FFBB3324242DA33EC1342A3E0593523.tmp' to '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Content/Blueprints/Masters/EnergyInteractable.uasset'
+[2019.09.26-19.49.59:421][442]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2019.09.26-19.49.59:637][442]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2019.09.26-19.49.59:844][442]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2019.09.26-19.50.00:049][442]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2019.09.26-19.50.00:050][442]LogMetaData: Removing '/Game/Blueprints/Masters/EnergyInteraction.EnergyInteraction:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Masters/EnergyInteraction2.PackageMetaData'
+[2019.09.26-19.50.00:050][442]LogMetaData: Removing '/Game/Blueprints/Masters/EnergyInteraction.SKEL_EnergyInteraction_C' ref from Metadata '/Game/Blueprints/Masters/EnergyInteraction2.PackageMetaData'
+[2019.09.26-19.50.00:050][442]LogMetaData: Removing '/Game/Blueprints/Masters/EnergyInteraction.EnergyInteraction_C' ref from Metadata '/Game/Blueprints/Masters/EnergyInteraction2.PackageMetaData'
+[2019.09.26-19.50.00:123][442]LogSavePackage: Moving '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/EnergyInteraction4117908443D25269102DA9BE5E46D277.tmp' to '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Content/Blueprints/Masters/EnergyInteraction.uasset'
+[2019.09.26-19.50.00:373][442]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2019.09.26-19.50.00:423][442]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2019.09.26-19.50.00:467][442]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2019.09.26-19.50.00:490][442]LogSavePackage: Moving '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/EnergyInteractable140DD21A4DA80BA5CF8E4BAE461BB19F.tmp' to '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Content/Blueprints/Masters/EnergyInteractable.uasset'
+[2019.09.26-19.50.08:525][393]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-19.50.14:934][161]LogEditorViewport: Clicking on Actor (LMB): EnergyFridge_C (EnergyFridge)
+[2019.09.26-19.50.17:354][445]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-19.50.20:802][851]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2019.09.26-19.50.29:260][851]LogSlate: Window 'Delete Assets' being destroyed
+[2019.09.26-19.50.33:964][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2019.09.26-19.50.36:716][396]LogSlate: Window 'Delete Assets' being destroyed
+[2019.09.26-19.50.36:719][396]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/Masters/EnergySplitDrain.EnergySplitDrain
+[2019.09.26-19.50.36:968][396]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2019.09.26-19.50.37:205][396]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2019.09.26-19.50.37:253][396]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2019.09.26-19.50.37:300][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2019.09.26-19.50.40:513][755]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.09.26-19.50.42:640][755]LogSlate: Window 'Delete Assets' being destroyed
+[2019.09.26-19.50.42:643][755]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/EnergyFridge.EnergyFridge
+[2019.09.26-19.50.43:061][755]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2019.09.26-19.50.43:109][755]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.09.26-19.50.43:153][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2019.09.26-19.50.45:213][975]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2019.09.26-19.50.46:457][975]LogSlate: Window 'Delete Assets' being destroyed
+[2019.09.26-19.50.46:460][975]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/EnergyAC.EnergyAC
+[2019.09.26-19.50.46:876][975]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2019.09.26-19.50.46:921][975]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2019.09.26-19.50.46:966][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.09.26-19.50.49:389][261]LogEditorViewport: Clicking on Actor (LMB): EnergyCoffee_C (EnergyCoffee)
+[2019.09.26-19.50.51:608][522]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-19.50.51:747][538]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/EnergyCoffee.EnergyCoffee
+[2019.09.26-19.50.52:013][538]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2019.09.26-19.50.53:972][766]LogSlate: Window 'CompilerResults' being destroyed
+[2019.09.26-19.50.53:975][766]LogSlate: Window 'CompilerResults' being destroyed
+[2019.09.26-19.50.57:145][ 85]LogSlate: Window 'EnergyCoffee' being destroyed
+[2019.09.26-19.50.57:228][ 85]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/EnergyCoffee.EnergyCoffee
+[2019.09.26-19.51.01:641][545]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.26-19.51.06:525][ 85]LogBlueprintActionDatabase: Requesting refresh due to module change: HierarchicalLODUtilities (loaded)
+[2019.09.26-19.51.08:470][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-19.51.08:512][276]LogSlate: Window 'EnergyCoffee' being destroyed
+[2019.09.26-19.51.08:516][276]LogSlate: Window 'EnergyCoffee' being destroyed
+[2019.09.26-19.51.11:415][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-19.51.16:469][198]LogEditorViewport: Clicking on Actor (LMB): EnergyCoffee_C (EnergyCoffee)
+[2019.09.26-19.51.19:138][511]LogEditorViewport: Clicking on Actor (LMB): EnergyCoffee_C (EnergyCoffee2)
+[2019.09.26-19.51.20:390][658]LogEditorViewport: Clicking on Actor (LMB): EnergyCoffee_C (EnergyCoffee)
+[2019.09.26-19.51.21:269][761]Cmd: DELETE
+[2019.09.26-19.51.21:269][761]Cmd: ACTOR DELETE
+[2019.09.26-19.51.21:272][761]LogEditorActor: Deleted Actor: EnergyCoffee_C
+[2019.09.26-19.51.21:364][761]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2019.09.26-19.51.21:364][761]LogEditorActor: Deleted 1 Actors (0.095 secs)
+[2019.09.26-19.51.22:053][843]LogEditorViewport: Clicking on Actor (LMB): EnergyCoffee_C (EnergyCoffee2)
+[2019.09.26-19.51.26:436][360]LogEditorViewport: Clicking on Actor (LMB): EnergyOven_C (EnergyOven)
+[2019.09.26-19.51.27:672][495]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-19.51.27:803][510]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/EnergyOven.EnergyOven
+[2019.09.26-19.51.28:127][510]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2019.09.26-19.51.29:374][652]LogSlate: Window 'CompilerResults' being destroyed
+[2019.09.26-19.51.29:377][652]LogSlate: Window 'CompilerResults' being destroyed
+[2019.09.26-19.51.30:498][786]BlueprintLog: New page: Compile EnergyOven
+[2019.09.26-19.51.30:782][786]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2019.09.26-19.51.31:107][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnergyOven" FILE="../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Content/Blueprints/EnergyOven.uasset" SILENT=true
+[2019.09.26-19.51.31:139][819]LogSavePackage: Moving '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/EnergyOvenC98B76B4472AB161BDD85AA44159CD81.tmp' to '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Content/Blueprints/EnergyOven.uasset'
+[2019.09.26-19.51.33:819][136]LogSlate: Window 'EnergyOven' being destroyed
+[2019.09.26-19.51.33:897][136]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/EnergyOven.EnergyOven
+[2019.09.26-19.51.36:656][407]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.26-19.51.40:209][803]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.26-19.51.44:182][197]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-19.51.44:249][205]LogSlate: Window 'EnergyOven' being destroyed
+[2019.09.26-19.51.44:252][205]LogSlate: Window 'EnergyOven' being destroyed
+[2019.09.26-19.51.44:845][267]LogEditorViewport: Clicking on Actor (LMB): EnergyOven_C (EnergyOven)
+[2019.09.26-19.51.45:549][350]Cmd: DELETE
+[2019.09.26-19.51.45:549][350]Cmd: ACTOR DELETE
+[2019.09.26-19.51.45:551][350]LogEditorActor: Deleted Actor: EnergyOven_C
+[2019.09.26-19.51.45:597][350]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2019.09.26-19.51.45:598][350]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2019.09.26-19.51.46:284][432]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-19.52.08:160][  8]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-19.52.08:307][ 25]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/EnergyTV.EnergyTV
+[2019.09.26-19.52.08:576][ 25]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2019.09.26-19.52.09:890][174]LogSlate: Window 'CompilerResults' being destroyed
+[2019.09.26-19.52.09:893][174]LogSlate: Window 'CompilerResults' being destroyed
+[2019.09.26-19.52.11:192][329]LogSlate: Window 'EnergyTV' being destroyed
+[2019.09.26-19.52.11:276][329]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/EnergyTV.EnergyTV
+[2019.09.26-19.52.14:432][646]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.26-19.52.18:975][155]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-19.52.19:033][162]BlueprintLog: New page: Compile EnergyTV
+[2019.09.26-19.52.19:234][162]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2019.09.26-19.52.19:454][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnergyTV" FILE="../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Content/Blueprints/EnergyTV.uasset" SILENT=true
+[2019.09.26-19.52.19:488][181]LogSavePackage: Moving '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/EnergyTV93D316E746C4E35BA873A294587F0071.tmp' to '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Content/Blueprints/EnergyTV.uasset'
+[2019.09.26-19.52.20:451][289]LogSlate: Window 'EnergyTV' being destroyed
+[2019.09.26-19.52.20:454][289]LogSlate: Window 'EnergyTV' being destroyed
+[2019.09.26-19.52.20:951][340]LogEditorViewport: Clicking on Actor (LMB): EnergyTV_C (EnergyTV)
+[2019.09.26-19.52.21:781][437]Cmd: DELETE
+[2019.09.26-19.52.21:781][437]Cmd: ACTOR DELETE
+[2019.09.26-19.52.21:783][437]LogEditorActor: Deleted Actor: EnergyTV_C
+[2019.09.26-19.52.21:828][437]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2019.09.26-19.52.21:829][437]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2019.09.26-19.52.22:440][510]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-19.52.33:900][872]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-19.52.38:405][403]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2019.09.26-19.52.42:188][403]LogSlate: Window 'Delete Assets' being destroyed
+[2019.09.26-19.52.44:152][628]LogEditorViewport: Clicking on Actor (LMB): EnergyCoffee_C (EnergyCoffee2)
+[2019.09.26-19.52.46:095][848]LogEditorViewport: Clicking on Actor (LMB): EnergyCoffee_C (EnergyCoffee2)
+[2019.09.26-19.52.48:856][162]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-19.52.48:912][168]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/EnergyCoffee.EnergyCoffee
+[2019.09.26-19.52.56:032][965]LogSlate: Window 'EnergyCoffee' being destroyed
+[2019.09.26-19.52.56:036][965]LogSlate: Window 'EnergyCoffee' being destroyed
+[2019.09.26-19.52.58:977][305]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-19.52.59:124][322]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/EnergyCoffee.EnergyCoffee
+[2019.09.26-19.53.03:683][819]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Masters/EnergyInteraction.EnergyInteraction
+[2019.09.26-19.53.05:331][976]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Masters/ZZZ_EnergyMaster.ZZZ_EnergyMaster
+[2019.09.26-19.53.08:660][336]LogSlate: Window 'ZZZ_EnergyMaster' being destroyed
+[2019.09.26-19.53.08:664][336]LogSlate: Window 'ZZZ_EnergyMaster' being destroyed
+[2019.09.26-19.53.08:738][336]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.09.26-19.53.08:807][336]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.09.26-19.53.11:261][615]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2019.09.26-19.53.24:193][615]LogSlate: Window 'Delete Assets' being destroyed
+[2019.09.26-19.53.24:207][615]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/EnergyCoffee.EnergyCoffee
+[2019.09.26-19.53.27:629][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2019.09.26-19.53.27:884][968]LogSavePackage: Moving '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/ThirdPersonExampleMap_Auto24BFC5DC640B596BFD6CCAEA9ED2516E2.tmp' to '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2019.09.26-19.53.27:888][968]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.303
+[2019.09.26-19.53.27:888][968]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.303
+[2019.09.26-19.53.27:890][968]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/EnergyCoffee] ([1] browsable assets)...
+[2019.09.26-19.53.27:902][968]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/EnergyCoffee.EnergyCoffee]
+[2019.09.26-19.53.27:902][968]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/EnergyCoffee]
+[2019.09.26-19.53.27:932][968]LogSavePackage: Moving '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/EnergyCoffee_Auto24CB276A448846A0E9FB887BB6D9C55EF.tmp' to '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/Autosaves/Game/Blueprints/EnergyCoffee_Auto2.uasset'
+[2019.09.26-19.53.27:933][968]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/EnergyOven] ([1] browsable assets)...
+[2019.09.26-19.53.27:946][968]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/EnergyOven.EnergyOven]
+[2019.09.26-19.53.27:946][968]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/EnergyOven]
+[2019.09.26-19.53.27:969][968]LogSavePackage: Moving '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/EnergyOven_Auto2367272764F85F14795505CB8AE68D5D3.tmp' to '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/Autosaves/Game/Blueprints/EnergyOven_Auto2.uasset'
+[2019.09.26-19.53.27:970][968]LogFileHelpers: Auto-saving content packages took 0.080
+[2019.09.26-19.53.30:346][239]LogSlate: Window 'EnergyCoffee' being destroyed
+[2019.09.26-19.53.37:681][108]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.09.26-19.53.40:565][108]LogSlate: Window 'Delete Assets' being destroyed
+[2019.09.26-19.53.40:651][108]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/Parts/EnergyComponent.EnergyComponent
+[2019.09.26-19.53.41:090][108]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2019.09.26-19.53.41:130][108]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2019.09.26-19.53.41:172][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2019.09.26-19.53.47:057][799]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-19.53.52:577][458]LogMetaData: Removing '/Game/Blueprints/Interface/InteractionInterface.InteractionInterface_C' ref from Metadata '/Game/Blueprints/Parts/InteractionInterface.PackageMetaData'
+[2019.09.26-19.53.52:577][458]LogMetaData: Removing '/Game/Blueprints/Interface/InteractionInterface.InteractionInterface:Interact.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Parts/InteractionInterface.PackageMetaData'
+[2019.09.26-19.53.52:577][458]LogMetaData: Removing '/Game/Blueprints/Interface/InteractionInterface.SKEL_InteractionInterface_C' ref from Metadata '/Game/Blueprints/Parts/InteractionInterface.PackageMetaData'
+[2019.09.26-19.53.52:606][458]LogSavePackage: Moving '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/InteractionInterface905090A1409E7F3834DCB697D1CF6CE6.tmp' to '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Content/Blueprints/Interface/InteractionInterface.uasset'
+[2019.09.26-19.53.52:764][458]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2019.09.26-19.53.52:812][458]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2019.09.26-19.53.52:854][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2019.09.26-19.53.52:958][458]LogSavePackage: Moving '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/ThirdPersonCharacter702068534A9E924357A16E872A9B270A.tmp' to '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.09.26-19.53.53:007][458]LogSavePackage: Moving '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/EnergyInteraction9A4A134E456B65A9F05CAEBA5EF90308.tmp' to '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Content/Blueprints/Masters/EnergyInteraction.uasset'
+[2019.09.26-19.54.02:855][626]LogMetaData: Removing '/Game/Blueprints/Interaction/InteractionInterface.InteractionInterface_C' ref from Metadata '/Game/Blueprints/Interface/InteractionInterface.PackageMetaData'
+[2019.09.26-19.54.02:855][626]LogMetaData: Removing '/Game/Blueprints/Interaction/InteractionInterface.SKEL_InteractionInterface_C' ref from Metadata '/Game/Blueprints/Interface/InteractionInterface.PackageMetaData'
+[2019.09.26-19.54.02:855][626]LogMetaData: Removing '/Game/Blueprints/Interaction/InteractionInterface.InteractionInterface:Interact.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Interface/InteractionInterface.PackageMetaData'
+[2019.09.26-19.54.02:884][626]LogSavePackage: Moving '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/InteractionInterfaceA00A5A2947AECEF7BBA83781E6E8123B.tmp' to '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Content/Blueprints/Interaction/InteractionInterface.uasset'
+[2019.09.26-19.54.03:042][626]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2019.09.26-19.54.03:087][626]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2019.09.26-19.54.03:130][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2019.09.26-19.54.03:232][626]LogSavePackage: Moving '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/ThirdPersonCharacter3A4FEB9E43BCDD40AF8E33A057BB4621.tmp' to '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.09.26-19.54.03:274][626]LogSavePackage: Moving '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/EnergyInteraction4D6839E74F6DACDE2BE3FDB14DB0A440.tmp' to '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Content/Blueprints/Masters/EnergyInteraction.uasset'
+[2019.09.26-19.54.07:325][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2019.09.26-19.54.07:380][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2019.09.26-19.54.07:629][ 95]LogSavePackage: Moving '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/ThirdPersonExampleMapCA782D784105AF9F4064FB939F4F9274.tmp' to '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.09.26-19.54.07:666][ 95]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.330
+[2019.09.26-19.54.07:683][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnergyCoffee" FILE="../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Content/Blueprints/EnergyCoffee.uasset" SILENT=true
+[2019.09.26-19.54.07:710][ 95]LogSavePackage: Moving '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/EnergyCoffee1D3ED0444CA665257A9F47A0F7E005E0.tmp' to '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Content/Blueprints/EnergyCoffee.uasset'
+[2019.09.26-19.54.07:732][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnergyOven" FILE="../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Content/Blueprints/EnergyOven.uasset" SILENT=true
+[2019.09.26-19.54.07:758][ 95]LogSavePackage: Moving '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/EnergyOven4AE55D1144EC7D6011638695E0CA7B9A.tmp' to '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Content/Blueprints/EnergyOven.uasset'
+[2019.09.26-19.54.09:052][245]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-19.54.09:128][254]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-19.54.09:144][254]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.26-19.54.09:144][254]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.09.26-19.54.09:150][254]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2019.09.26-19.54.09:314][254]LogPlayLevel: [PlayLevel] Compiling EnergyInteraction before play...
+[2019.09.26-19.54.09:314][254]LogPlayLevel: [PlayLevel]   Compiling EnergyCoffee as a dependent...
+[2019.09.26-19.54.09:314][254]LogPlayLevel: [PlayLevel]   Compiling EnergyOven as a dependent...
+[2019.09.26-19.54.09:314][254]LogPlayLevel: [PlayLevel]   Compiling EnergyTV as a dependent...
+[2019.09.26-19.54.09:517][254]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2019.09.26-19.54.09:517][254]LogPlayLevel: PlayLevel: Blueprint regeneration took 373 ms (5 blueprints)
+[2019.09.26-19.54.09:517][254]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 26, 2019, 11:54:09 AM)
+[2019.09.26-19.54.09:530][254]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.09.26-19.54.09:541][254]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010710s)
+[2019.09.26-19.54.09:541][254]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.26-19.54.09:541][254]LogPlayLevel: PIE: World Init took: (0.000560s)
+[2019.09.26-19.54.09:541][254]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011574s)
+[2019.09.26-19.54.09:582][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.09.26-19.54.09:593][254]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-19.54.09:610][254]LogInit: FAudioDevice initialized.
+[2019.09.26-19.54.09:691][254]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.26-19.54.09:695][254]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.09.26-15.54.09
+[2019.09.26-19.54.09:696][254]LogWorld: Bringing up level for play took: 0.002914
+[2019.09.26-19.54.09:716][254]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.09.26-19.54.09:720][254]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.09.26-19.54.09:721][254]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.09.26-19.54.09:721][254]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.048
+[2019.09.26-19.54.09:721][254]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.26-19.54.12:717][581]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (48.160 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.09.26-19.54.16:243][  4]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2019.09.26-19.54.16:876][ 80]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2019.09.26-19.54.18:201][239]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2019.09.26-19.54.18:784][309]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2019.09.26-19.54.19:184][357]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2019.09.26-19.54.19:617][409]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2019.09.26-19.54.19:884][441]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2019.09.26-19.54.30:177][676]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.26-19.54.30:177][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-19.54.30:207][676]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.26-19.54.30:208][676]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.26-19.54.30:270][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-19.54.30:314][676]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2019.09.26-19.54.30:327][677]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2019.09.26-19.54.32:253][905]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.26-19.54.33:419][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2019.09.26-19.54.33:424][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.26-19.54.33:471][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.09.26-19.54.33:708][ 37]LogSavePackage: Moving '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Saved/ThirdPersonExampleMapAD2894384E01AB1251165EAB90D8DA00.tmp' to '../../../../../../Users/eku/Documents/Unreal Projects/ElectricAvenue/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.09.26-19.54.33:743][ 37]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.312
+[2019.09.26-20.07.05:993][273]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-20.07.07:312][430]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Masters/ZZZ_EnergyMaster.ZZZ_EnergyMaster
+[2019.09.26-20.07.21:807][ 92]LogUObjectArray: Warning: Invalid object index 2097267
+[2019.09.26-20.07.21:807][ 92]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.09.26-20.07.22:183][ 92]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.376 s
+[2019.09.26-20.07.22:183][ 92]LogOutputDevice: Error: === Handled ensure: ===
+[2019.09.26-20.07.22:183][ 92]LogOutputDevice: Error: 
+[2019.09.26-20.07.22:183][ 92]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1156]
+[2019.09.26-20.07.22:183][ 92]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.09.26-20.07.22:183][ 92]LogOutputDevice: Error: Stack: 
+[2019.09.26-20.07.22:183][ 92]LogOutputDevice: Error: [Callstack] 0x00007fff9275c0c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.26-20.07.22:183][ 92]LogOutputDevice: Error: [Callstack] 0x00007fff91fd6fee UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.26-20.07.22:183][ 92]LogOutputDevice: Error: [Callstack] 0x00007fff91fe4e00 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.26-20.07.22:183][ 92]LogOutputDevice: Error: [Callstack] 0x00007fff904137f2 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.09.26-20.07.22:183][ 92]LogOutputDevice: Error: [Callstack] 0x00007fff8da85cfa UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.26-20.07.22:183][ 92]LogOutputDevice: Error: [Callstack] 0x00007fff8da41e47 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.09.26-20.07.22:183][ 92]LogOutputDevice: Error: [Callstack] 0x00007fff93235984 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.26-20.07.22:183][ 92]LogOutputDevice: Error: [Callstack] 0x00007fff934215e3 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.26-20.07.22:183][ 92]LogOutputDevice: Error: [Callstack] 0x00007fff9327d70b UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.26-20.07.22:183][ 92]LogOutputDevice: Error: [Callstack] 0x00007fff9325af5a UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.26-20.07.22:183][ 92]LogOutputDevice: Error: [Callstack] 0x00007fff93250287 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.26-20.07.22:183][ 92]LogOutputDevice: Error: [Callstack] 0x00007fffa2ffb726 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.09.26-20.07.22:183][ 92]LogOutputDevice: Error: [Callstack] 0x00007fffa2feef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.09.26-20.07.22:183][ 92]LogOutputDevice: Error: [Callstack] 0x00007fffa2ffd77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.09.26-20.07.22:183][ 92]LogOutputDevice: Error: [Callstack] 0x00007fffa2fec090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.09.26-20.07.22:183][ 92]LogOutputDevice: Error: [Callstack] 0x00007fffd1aeca66 USER32.dll!UnknownFunction []
+[2019.09.26-20.07.22:183][ 92]LogOutputDevice: Error: [Callstack] 0x00007fffd1aec582 USER32.dll!UnknownFunction []
+[2019.09.26-20.07.22:183][ 92]LogOutputDevice: Error: [Callstack] 0x00007fffa2ffe946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.09.26-20.07.22:183][ 92]LogOutputDevice: Error: [Callstack] 0x00007ff6e62b5d3e UE4Editor.exe!UnknownFunction []
+[2019.09.26-20.07.22:183][ 92]LogOutputDevice: Error: [Callstack] 0x00007ff6e62c554c UE4Editor.exe!UnknownFunction []
+[2019.09.26-20.07.22:183][ 92]LogOutputDevice: Error: [Callstack] 0x00007ff6e62c55ca UE4Editor.exe!UnknownFunction []
+[2019.09.26-20.07.22:183][ 92]LogOutputDevice: Error: [Callstack] 0x00007ff6e62d316c UE4Editor.exe!UnknownFunction []
+[2019.09.26-20.07.22:183][ 92]LogOutputDevice: Error: [Callstack] 0x00007ff6e62d5b8e UE4Editor.exe!UnknownFunction []
+[2019.09.26-20.07.22:183][ 92]LogOutputDevice: Error: [Callstack] 0x00007fffd1d47974 KERNEL32.DLL!UnknownFunction []
+[2019.09.26-20.07.22:183][ 92]LogOutputDevice: Error: [Callstack] 0x00007fffd459a271 ntdll.dll!UnknownFunction []
+[2019.09.26-20.07.22:183][ 92]LogOutputDevice: Error: 
+[2019.09.26-20.07.22:195][ 92]LogStats:                SubmitErrorReport -  0.000 s
+[2019.09.26-20.07.22:627][ 92]LogStats:                    SendNewReport -  0.431 s
+[2019.09.26-20.07.22:627][ 92]LogStats:             FDebug::EnsureFailed -  0.820 s
+[2019.09.26-20.07.22:627][ 92]LogUObjectArray: Warning: Invalid object index 2097267
+[2019.09.26-20.07.22:860][118]LogUObjectArray: Warning: Invalid object index 2097267
+[2019.09.26-20.07.22:868][119]LogUObjectArray: Warning: Invalid object index 2097267
+[2019.09.26-20.07.22:868][119]LogUObjectArray: Warning: Invalid object index 2097267
+[2019.09.26-20.07.22:869][119]LogUObjectArray: Warning: Invalid object index 2097267
+[2019.09.26-20.07.22:872][119]LogUObjectArray: Warning: Invalid object index 2097267
+[2019.09.26-20.07.27:926][718]LogRenderer: Reallocating scene render targets to support 1160x712 Format 10 NumSamples 1 (Frame:1).
+[2019.09.26-20.07.29:038][838]LogSlate: Window 'ZZZ_EnergyMaster' being destroyed
+[2019.09.26-20.07.29:347][875]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-20.07.37:544][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-20.07.41:786][359]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2019.09.26-20.07.42:728][467]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2019.09.26-20.07.42:877][467]LogSlate: Window 'ElectricAvenue - Unreal Editor' being destroyed
+[2019.09.26-20.07.43:061][468]Cmd: QUIT_EDITOR
+[2019.09.26-20.07.43:087][468]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.09.26-20.07.43:101][468]LogExit: Preparing to exit.
+[2019.09.26-20.07.43:669][468]LogExit: Editor shut down
+[2019.09.26-20.07.43:670][468]LogExit: Transaction tracking system shut down
+[2019.09.26-20.07.43:949][468]LogExit: Object subsystem successfully closed.
+[2019.09.26-20.07.44:014][468]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.09.26-20.07.44:038][468]LogD3D11RHI: Shutdown
+[2019.09.26-20.07.44:038][468]LogD3D11RHI: CleanupD3DDevice
+[2019.09.26-20.07.44:038][468]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.09.26-20.07.44:038][468]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.09.26-20.07.44:038][468]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.09.26-20.07.44:038][468]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.09.26-20.07.44:038][468]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.09.26-20.07.44:038][468]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.09.26-20.07.44:614][468]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.09.26-20.07.44:639][468]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (650)
+[2019.09.26-20.07.44:639][468]LogModuleManager: Shutting down and abandoning module Voice (648)
+[2019.09.26-20.07.44:639][468]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (646)
+[2019.09.26-20.07.44:639][468]LogModuleManager: Shutting down and abandoning module BlueprintGraph (644)
+[2019.09.26-20.07.44:639][468]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (642)
+[2019.09.26-20.07.44:639][468]LogModuleManager: Shutting down and abandoning module SceneOutliner (640)
+[2019.09.26-20.07.44:639][468]LogModuleManager: Shutting down and abandoning module AddContentDialog (638)
+[2019.09.26-20.07.44:641][468]LogModuleManager: Shutting down and abandoning module WidgetCarousel (637)
+[2019.09.26-20.07.44:641][468]LogModuleManager: Shutting down and abandoning module EditorWidgets (634)
+[2019.09.26-20.07.44:641][468]LogModuleManager: Shutting down and abandoning module CollectionManager (632)
+[2019.09.26-20.07.44:641][468]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2019.09.26-20.07.44:641][468]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2019.09.26-20.07.44:641][468]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2019.09.26-20.07.44:641][468]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2019.09.26-20.07.44:641][468]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2019.09.26-20.07.44:641][468]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2019.09.26-20.07.44:641][468]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2019.09.26-20.07.44:641][468]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2019.09.26-20.07.44:641][468]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2019.09.26-20.07.44:641][468]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2019.09.26-20.07.44:641][468]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2019.09.26-20.07.44:642][468]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2019.09.26-20.07.44:642][468]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2019.09.26-20.07.44:642][468]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2019.09.26-20.07.44:642][468]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2019.09.26-20.07.44:642][468]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2019.09.26-20.07.44:642][468]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2019.09.26-20.07.44:642][468]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2019.09.26-20.07.44:642][468]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2019.09.26-20.07.44:642][468]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2019.09.26-20.07.44:642][468]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2019.09.26-20.07.44:642][468]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2019.09.26-20.07.44:642][468]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2019.09.26-20.07.44:642][468]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2019.09.26-20.07.44:642][468]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2019.09.26-20.07.44:642][468]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2019.09.26-20.07.44:642][468]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2019.09.26-20.07.44:642][468]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2019.09.26-20.07.44:642][468]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2019.09.26-20.07.44:642][468]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2019.09.26-20.07.44:642][468]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2019.09.26-20.07.44:642][468]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2019.09.26-20.07.44:642][468]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2019.09.26-20.07.44:642][468]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2019.09.26-20.07.44:642][468]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2019.09.26-20.07.44:642][468]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2019.09.26-20.07.44:642][468]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2019.09.26-20.07.44:642][468]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2019.09.26-20.07.44:642][468]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2019.09.26-20.07.44:642][468]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2019.09.26-20.07.44:642][468]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2019.09.26-20.07.44:642][468]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2019.09.26-20.07.44:642][468]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2019.09.26-20.07.44:642][468]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2019.09.26-20.07.44:642][468]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2019.09.26-20.07.44:642][468]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2019.09.26-20.07.44:642][468]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2019.09.26-20.07.44:642][468]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2019.09.26-20.07.44:643][468]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2019.09.26-20.07.44:643][468]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2019.09.26-20.07.44:643][468]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2019.09.26-20.07.44:643][468]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2019.09.26-20.07.44:643][468]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2019.09.26-20.07.44:643][468]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2019.09.26-20.07.45:207][468]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2019.09.26-20.07.45:207][468]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2019.09.26-20.07.45:207][468]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2019.09.26-20.07.45:207][468]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2019.09.26-20.07.45:207][468]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2019.09.26-20.07.45:207][468]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2019.09.26-20.07.45:207][468]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2019.09.26-20.07.45:207][468]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2019.09.26-20.07.45:207][468]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2019.09.26-20.07.45:207][468]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2019.09.26-20.07.45:207][468]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2019.09.26-20.07.45:207][468]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2019.09.26-20.07.45:207][468]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2019.09.26-20.07.45:207][468]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2019.09.26-20.07.45:207][468]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2019.09.26-20.07.45:207][468]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2019.09.26-20.07.45:207][468]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2019.09.26-20.07.45:208][468]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2019.09.26-20.07.45:208][468]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2019.09.26-20.07.45:208][468]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2019.09.26-20.07.45:208][468]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2019.09.26-20.07.45:208][468]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2019.09.26-20.07.45:208][468]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2019.09.26-20.07.45:251][468]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2019.09.26-20.07.45:251][468]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2019.09.26-20.07.45:251][468]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2019.09.26-20.07.45:251][468]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2019.09.26-20.07.45:251][468]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2019.09.26-20.07.45:251][468]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2019.09.26-20.07.45:251][468]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2019.09.26-20.07.45:251][468]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2019.09.26-20.07.45:251][468]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2019.09.26-20.07.45:251][468]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2019.09.26-20.07.45:251][468]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2019.09.26-20.07.45:257][468]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2019.09.26-20.07.45:257][468]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2019.09.26-20.07.45:258][468]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2019.09.26-20.07.45:258][468]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.09.26-20.07.45:258][468]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.09.26-20.07.45:258][468]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.09.26-20.07.45:258][468]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.09.26-20.07.45:258][468]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.09.26-20.07.45:258][468]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2019.09.26-20.07.45:259][468]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2019.09.26-20.07.45:259][468]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.09.26-20.07.45:259][468]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.09.26-20.07.45:259][468]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.09.26-20.07.45:259][468]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.09.26-20.07.45:259][468]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.09.26-20.07.45:259][468]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.09.26-20.07.45:259][468]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.09.26-20.07.45:259][468]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.09.26-20.07.45:259][468]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.09.26-20.07.45:259][468]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.09.26-20.07.45:259][468]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.09.26-20.07.45:259][468]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.09.26-20.07.45:259][468]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2019.09.26-20.07.45:259][468]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2019.09.26-20.07.45:264][468]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2019.09.26-20.07.45:371][468]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2019.09.26-20.07.45:371][468]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2019.09.26-20.07.45:371][468]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2019.09.26-20.07.45:371][468]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2019.09.26-20.07.45:371][468]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2019.09.26-20.07.45:371][468]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2019.09.26-20.07.45:371][468]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2019.09.26-20.07.45:371][468]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2019.09.26-20.07.45:371][468]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2019.09.26-20.07.45:371][468]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2019.09.26-20.07.45:371][468]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2019.09.26-20.07.45:371][468]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2019.09.26-20.07.45:371][468]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2019.09.26-20.07.45:371][468]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2019.09.26-20.07.45:371][468]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2019.09.26-20.07.45:371][468]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2019.09.26-20.07.45:371][468]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2019.09.26-20.07.45:371][468]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2019.09.26-20.07.45:371][468]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2019.09.26-20.07.45:371][468]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2019.09.26-20.07.45:371][468]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2019.09.26-20.07.45:372][468]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.09.26-20.07.45:372][468]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.09.26-20.07.45:372][468]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.09.26-20.07.45:372][468]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.09.26-20.07.45:372][468]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.09.26-20.07.45:372][468]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2019.09.26-20.07.45:372][468]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2019.09.26-20.07.45:372][468]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2019.09.26-20.07.45:372][468]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2019.09.26-20.07.45:372][468]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2019.09.26-20.07.45:372][468]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2019.09.26-20.07.45:372][468]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2019.09.26-20.07.45:372][468]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2019.09.26-20.07.45:372][468]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2019.09.26-20.07.45:372][468]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2019.09.26-20.07.45:372][468]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2019.09.26-20.07.45:372][468]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2019.09.26-20.07.45:372][468]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.09.26-20.07.45:372][468]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.09.26-20.07.45:372][468]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.09.26-20.07.45:372][468]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.09.26-20.07.45:372][468]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.09.26-20.07.45:372][468]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.09.26-20.07.45:372][468]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.09.26-20.07.45:372][468]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.09.26-20.07.45:372][468]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.09.26-20.07.45:373][468]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.09.26-20.07.45:373][468]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2019.09.26-20.07.45:373][468]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2019.09.26-20.07.45:373][468]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2019.09.26-20.07.45:373][468]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2019.09.26-20.07.45:373][468]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2019.09.26-20.07.45:373][468]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2019.09.26-20.07.45:373][468]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2019.09.26-20.07.45:373][468]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.09.26-20.07.45:373][468]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.09.26-20.07.45:373][468]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.09.26-20.07.45:373][468]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.09.26-20.07.45:373][468]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.09.26-20.07.45:373][468]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.09.26-20.07.45:373][468]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.09.26-20.07.45:474][468]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.09.26-20.07.45:575][468]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.09.26-20.07.45:575][468]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.09.26-20.07.45:575][468]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.09.26-20.07.45:575][468]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.09.26-20.07.45:575][468]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.09.26-20.07.45:575][468]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.09.26-20.07.45:575][468]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.09.26-20.07.45:575][468]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.09.26-20.07.45:575][468]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.09.26-20.07.45:575][468]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.09.26-20.07.45:575][468]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.09.26-20.07.45:575][468]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.09.26-20.07.45:575][468]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.09.26-20.07.45:575][468]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.09.26-20.07.45:576][468]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.09.26-20.07.45:576][468]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.09.26-20.07.45:577][468]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.09.26-20.07.45:577][468]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.09.26-20.07.45:577][468]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.09.26-20.07.45:578][468]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.09.26-20.07.45:578][468]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.09.26-20.07.45:578][468]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.09.26-20.07.45:578][468]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.09.26-20.07.45:578][468]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.09.26-20.07.45:578][468]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.09.26-20.07.45:578][468]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.09.26-20.07.45:579][468]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.09.26-20.07.45:579][468]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.09.26-20.07.45:579][468]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.09.26-20.07.45:579][468]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.09.26-20.07.45:579][468]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.09.26-20.07.45:579][468]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.09.26-20.07.45:579][468]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.09.26-20.07.45:579][468]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.09.26-20.07.45:579][468]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.09.26-20.07.45:579][468]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.09.26-20.07.45:579][468]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.09.26-20.07.45:579][468]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.09.26-20.07.45:579][468]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.09.26-20.07.45:579][468]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.09.26-20.07.45:579][468]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.09.26-20.07.45:579][468]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.09.26-20.07.45:579][468]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.09.26-20.07.45:579][468]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.09.26-20.07.45:579][468]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.09.26-20.07.45:580][468]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.09.26-20.07.45:581][468]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.09.26-20.07.45:581][468]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.09.26-20.07.45:581][468]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.09.26-20.07.45:581][468]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.09.26-20.07.45:581][468]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.09.26-20.07.45:581][468]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.09.26-20.07.45:581][468]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.09.26-20.07.45:581][468]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.09.26-20.07.45:581][468]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.09.26-20.07.45:581][468]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.09.26-20.07.45:581][468]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.09.26-20.07.45:581][468]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.09.26-20.07.45:581][468]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.09.26-20.07.45:582][468]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.09.26-20.07.45:582][468]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.09.26-20.07.45:582][468]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.09.26-20.07.45:622][468]LogDerivedDataCache: Shutdown
+[2019.09.26-20.07.45:622][468]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.09.26-20.07.45:623][468]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.09.26-20.07.45:623][468]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.09.26-20.07.45:623][468]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.09.26-20.07.45:623][468]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.09.26-20.07.45:623][468]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.09.26-20.07.45:623][468]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.09.26-20.07.45:623][468]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.09.26-20.07.45:623][468]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.09.26-20.07.45:623][468]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.09.26-20.07.45:623][468]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.09.26-20.07.45:623][468]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.09.26-20.07.45:623][468]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.09.26-20.07.45:623][468]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.09.26-20.07.45:623][468]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.09.26-20.07.45:623][468]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.09.26-20.07.45:623][468]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.09.26-20.07.45:623][468]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.09.26-20.07.45:624][468]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.09.26-20.07.45:624][468]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.09.26-20.07.45:624][468]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.09.26-20.07.45:624][468]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.09.26-20.07.45:624][468]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.09.26-20.07.45:625][468]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.09.26-20.07.45:625][468]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.09.26-20.07.45:626][468]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.09.26-20.07.45:626][468]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.09.26-20.07.45:632][468]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.09.26-20.07.45:632][468]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.09.26-20.07.45:632][468]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.09.26-20.07.45:632][468]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.09.26-20.07.45:632][468]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.09.26-20.07.45:632][468]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.09.26-20.07.45:632][468]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.09.26-20.07.45:632][468]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.09.26-20.07.45:632][468]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.09.26-20.07.45:632][468]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.09.26-20.07.45:632][468]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.09.26-20.07.45:632][468]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.09.26-20.07.45:632][468]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.09.26-20.07.45:632][468]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.09.26-20.07.45:632][468]LogHMD: Freeing OpenVRDLLHandle.
+[2019.09.26-20.07.45:632][468]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.09.26-20.07.45:632][468]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.09.26-20.07.45:632][468]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.09.26-20.07.45:632][468]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.09.26-20.07.45:632][468]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.09.26-20.07.45:633][468]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.09.26-20.07.45:633][468]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.09.26-20.07.45:657][468]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.09.26-20.07.45:657][468]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.09.26-20.07.45:657][468]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBFDAD80B-42FC-91FA-BF7A-9899A9D73E94%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=7c9e71294a0dc7abe562cd9286133b1f%7Cf4cbb108cf574b728e17c5fe60e85af2%7C3b0d9d1e-4e52-4ac2-aafd-81a23852015c&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.09.26-20.07.45:678][468]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.09.26-20.07.45:679][468]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.09.26-20.07.45:680][468]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.09.26-20.07.45:687][468]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.09.26-20.07.45:687][468]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.09.26-20.07.45:687][468]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.09.26-20.07.45:688][468]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.09.26-20.07.45:688][468]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.09.26-20.07.45:688][468]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.09.26-20.07.45:688][468]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.09.26-20.07.45:688][468]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.09.26-20.07.45:688][468]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.09.26-20.07.45:688][468]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.09.26-20.07.45:688][468]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.09.26-20.07.45:688][468]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.09.26-20.07.45:689][468]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.09.26-20.07.45:689][468]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.09.26-20.07.45:689][468]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.09.26-20.07.45:689][468]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.09.26-20.07.45:689][468]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.09.26-20.07.45:689][468]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.09.26-20.07.45:689][468]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.09.26-20.07.45:689][468]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.09.26-20.07.45:689][468]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.09.26-20.07.45:721][468]LogExit: Exiting.
+[2019.09.26-20.07.45:725][468]Log file closed, 09/26/19 16:07:45
