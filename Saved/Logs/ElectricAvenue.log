@@ -2855,3 +2855,74 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.17-23.28.07:536][936]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.286
 [2019.10.17-23.28.07:552][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnergyTV" FILE="../../../../../../Users/EKUStudent/Desktop/ElectricAvenue/Content/Blueprints/EnergyTV.uasset" SILENT=true
 [2019.10.17-23.28.07:569][936]LogSavePackage: Moving '../../../../../../Users/EKUStudent/Desktop/ElectricAvenue/Saved/EnergyTV0D64D21447B796876B3AB89A41CA030B.tmp' to '../../../../../../Users/EKUStudent/Desktop/ElectricAvenue/Content/Blueprints/EnergyTV.uasset'
+[2019.10.17-23.32.16:240][347]LogEditorViewport: Clicking on Actor (LMB): EnergyTV_C (EnergyTV)
+[2019.10.17-23.33.01:270][282]LogEditorViewport: Clicking on Actor (LMB): EnergyFloorLamp_C (EnergyFloorLamp)
+[2019.10.17-23.33.04:029][444]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-23.33.34:206][565]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/EnergyCoffee.EnergyCoffee
+[2019.10.17-23.33.36:755][824]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/EnergyCoffee.EnergyCoffee
+[2019.10.17-23.33.47:372][ 37]LogSlate: Took 0.001464 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.10.17-23.33.51:082][480]BlueprintLog: New page: Compile EnergyCoffee
+[2019.10.17-23.33.51:244][480]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2019.10.17-23.34.15:400][468]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-23.34.16:761][615]BlueprintLog: New page: Compile EnergyCoffee
+[2019.10.17-23.34.16:924][615]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2019.10.17-23.34.17:207][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnergyCoffee" FILE="../../../../../../Users/EKUStudent/Desktop/ElectricAvenue/Content/Blueprints/EnergyCoffee.uasset" SILENT=true
+[2019.10.17-23.34.17:226][644]LogSavePackage: Moving '../../../../../../Users/EKUStudent/Desktop/ElectricAvenue/Saved/EnergyCoffee29707128409C7E375D1BFD8F6E8CF294.tmp' to '../../../../../../Users/EKUStudent/Desktop/ElectricAvenue/Content/Blueprints/EnergyCoffee.uasset'
+[2019.10.17-23.34.18:435][738]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.17-23.34.19:008][769]LogEditorViewport: Clicking on Actor (LMB): EnergyCoffee_C (EnergyCoffee)
+[2019.10.17-23.34.24:709][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-23.34.48:168][103]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-23.34.54:496][842]BlueprintLog: New page: Compile EnergyCoffee
+[2019.10.17-23.34.54:497][842]LogClass: Warning: Property NewVar_0 of NewVar_0 has a struct type mismatch (tag Vector != prop Transform) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2019.10.17-23.34.54:499][842]LogClass: Warning: Property NewVar_0 of NewVar_0 has a struct type mismatch (tag Vector != prop Transform) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2019.10.17-23.34.54:662][842]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2019.10.17-23.34.55:020][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnergyCoffee" FILE="../../../../../../Users/EKUStudent/Desktop/ElectricAvenue/Content/Blueprints/EnergyCoffee.uasset" SILENT=true
+[2019.10.17-23.34.55:037][880]LogSavePackage: Moving '../../../../../../Users/EKUStudent/Desktop/ElectricAvenue/Saved/EnergyCoffeeCB6F95934942F2D33168908273E798B9.tmp' to '../../../../../../Users/EKUStudent/Desktop/ElectricAvenue/Content/Blueprints/EnergyCoffee.uasset'
+[2019.10.17-23.35.05:502][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-23.35.52:724][636]LogSlate: Window 'Change Variable Type' being destroyed
+[2019.10.17-23.35.55:369][926]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.10.17-23.35.55:372][926]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.10.17-23.36.35:967][499]BlueprintLog: New page: Compile EnergyCoffee
+[2019.10.17-23.36.35:969][499]LogClass: Warning: Type mismatch in NewVar_0 of EnergyCoffee_C - Previous (StructProperty) Current(ArrayProperty) for package:  FObjectReader
+[2019.10.17-23.36.35:970][499]LogClass: Warning: Type mismatch in NewVar_0 of EnergyCoffee_C - Previous (StructProperty) Current(ArrayProperty) for package:  FObjectReader
+[2019.10.17-23.36.36:133][499]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2019.10.17-23.36.36:515][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnergyCoffee" FILE="../../../../../../Users/EKUStudent/Desktop/ElectricAvenue/Content/Blueprints/EnergyCoffee.uasset" SILENT=true
+[2019.10.17-23.36.36:534][539]LogSavePackage: Moving '../../../../../../Users/EKUStudent/Desktop/ElectricAvenue/Saved/EnergyCoffee7E1057424176589AB78C338927B9FC84.tmp' to '../../../../../../Users/EKUStudent/Desktop/ElectricAvenue/Content/Blueprints/EnergyCoffee.uasset'
+[2019.10.17-23.39.30:852][135]BlueprintLog: New page: Compile EnergyCoffee
+[2019.10.17-23.39.31:017][135]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2019.10.17-23.39.31:300][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnergyCoffee" FILE="../../../../../../Users/EKUStudent/Desktop/ElectricAvenue/Content/Blueprints/EnergyCoffee.uasset" SILENT=true
+[2019.10.17-23.39.31:323][164]LogSavePackage: Moving '../../../../../../Users/EKUStudent/Desktop/ElectricAvenue/Saved/EnergyCoffeeE5618DE84A03785069B9EEAB7CD73ED1.tmp' to '../../../../../../Users/EKUStudent/Desktop/ElectricAvenue/Content/Blueprints/EnergyCoffee.uasset'
+[2019.10.17-23.39.42:641][961]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-23.39.43:558][ 21]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.10.17-23.41.08:650][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2019.10.17-23.41.08:869][ 51]LogSavePackage: Moving '../../../../../../Users/EKUStudent/Desktop/ElectricAvenue/Saved/ThirdPersonExampleMap_Auto13EC468FC40E77A1B60BEE69DE20BA92D.tmp' to '../../../../../../Users/EKUStudent/Desktop/ElectricAvenue/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2019.10.17-23.41.08:872][ 51]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.257
+[2019.10.17-23.41.08:872][ 51]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.257
+[2019.10.17-23.41.08:874][ 51]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/EnergyTV] ([1] browsable assets)...
+[2019.10.17-23.41.08:888][ 51]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/EnergyTV.EnergyTV]
+[2019.10.17-23.41.08:888][ 51]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/EnergyTV]
+[2019.10.17-23.41.08:888][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnergyTV" FILE="../../../../../../Users/EKUStudent/Desktop/ElectricAvenue/Saved/Autosaves/Game/Blueprints/EnergyTV_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.10.17-23.41.08:906][ 51]LogSavePackage: Moving '../../../../../../Users/EKUStudent/Desktop/ElectricAvenue/Saved/EnergyTV_Auto16C20A46A4E5757C1A38069B25D87FCB1.tmp' to '../../../../../../Users/EKUStudent/Desktop/ElectricAvenue/Saved/Autosaves/Game/Blueprints/EnergyTV_Auto1.uasset'
+[2019.10.17-23.41.08:907][ 51]LogFileHelpers: Auto-saving content packages took 0.034
+[2019.10.17-23.42.09:514][456]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-23.42.13:894][602]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.10.17-23.42.19:665][812]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Database.Database
+[2019.10.17-23.42.20:028][813]LogRenderer: Reallocating scene render targets to support 1208x900 Format 10 NumSamples 1 (Frame:1).
+[2019.10.17-23.42.32:607][649]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-23.42.52:069][947]BlueprintLog: New page: Compile Database
+[2019.10.17-23.42.52:240][947]LogUObjectHash: Compacting FUObjectHashTables data took   6.74ms
+[2019.10.17-23.42.52:605][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Database" FILE="../../../../../../Users/EKUStudent/Desktop/ElectricAvenue/Content/Blueprints/Database.uasset" SILENT=true
+[2019.10.17-23.42.52:613][987]LogSavePackage: Moving '../../../../../../Users/EKUStudent/Desktop/ElectricAvenue/Saved/DatabaseC337E60A432C66F8BAD84781E1F214DA.tmp' to '../../../../../../Users/EKUStudent/Desktop/ElectricAvenue/Content/Blueprints/Database.uasset'
+[2019.10.17-23.43.10:581][962]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.10.17-23.44.27:612][778]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-23.46.02:180][416]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-23.46.02:360][422]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2019.10.17-23.46.02:594][422]LogSavePackage: Moving '../../../../../../Users/EKUStudent/Desktop/ElectricAvenue/Saved/ThirdPersonExampleMap36A4DA2F47B49B43D1D950AD77344D11.tmp' to '../../../../../../Users/EKUStudent/Desktop/ElectricAvenue/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.10.17-23.46.02:945][422]LogSavePackage: Moving '../../../../../../Users/EKUStudent/Desktop/ElectricAvenue/Saved/ThirdPersonExampleMap_BuiltDataC99574794ADC67C314BD2A879C8D4BF8.tmp' to '../../../../../../Users/EKUStudent/Desktop/ElectricAvenue/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.10.17-23.46.42:210][313]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.17-23.46.44:761][467]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2019.10.17-23.46.44:766][467]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.17-23.46.44:783][467]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnergyCoffee" FILE="../../../../../../Users/EKUStudent/Desktop/ElectricAvenue/Content/Blueprints/EnergyCoffee.uasset" SILENT=true
+[2019.10.17-23.46.44:809][467]LogSavePackage: Moving '../../../../../../Users/EKUStudent/Desktop/ElectricAvenue/Saved/EnergyCoffee228BE40F4A3BC6BB847CA284C563A2B9.tmp' to '../../../../../../Users/EKUStudent/Desktop/ElectricAvenue/Content/Blueprints/EnergyCoffee.uasset'
+[2019.10.17-23.46.44:813][467]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnergyTV" FILE="../../../../../../Users/EKUStudent/Desktop/ElectricAvenue/Content/Blueprints/EnergyTV.uasset" SILENT=true
+[2019.10.17-23.46.44:826][467]LogSavePackage: Moving '../../../../../../Users/EKUStudent/Desktop/ElectricAvenue/Saved/EnergyTVA39276D643C6AED552EDFCA2389AE0BD.tmp' to '../../../../../../Users/EKUStudent/Desktop/ElectricAvenue/Content/Blueprints/EnergyTV.uasset'
