@@ -1,4 +1,4 @@
-﻿Log file open, 09/26/19 18:01:36
+﻿Log file open, 11/07/19 17:11:20
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -10,7 +10,7 @@ LogInit: Display: Running engine for game: ElectricAvenue
 LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.284559
+LogStats: Stats thread started at 0.286354
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -120,12 +120,12 @@ LogInit: Build: ++UE4+Release-4.22-CL-7053642
 LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
 LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
 LogInit: Net CL: 5660361
-LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz, GPU: NVIDIA Quadro K1200
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX TITAN Black
 LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
 LogInit: Compiled with Visual C++: 19.16.27025.01
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.22
-LogInit: Command Line:  -EpicPortal -epicusername=Jimlad -epicuserid=f4cbb108cf574b728e17c5fe60e85af2 -epiclocale=en-US
+LogInit: Command Line: 
 LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogDevObjectVersion: Number of dev versions registered: 23
@@ -156,1121 +156,483 @@ LogInit: Presizing for max 16777216 objects, including 0 objects not considered 
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
-[2019.09.26-22.01.37:193][  0]LogConfig: Setting CVar [[r.VSync:0]]
-[2019.09.26-22.01.37:193][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
-[2019.09.26-22.01.37:193][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/EKUStudent/Documents/UnrealProjects/ElectricAvenue/Saved/Config/Windows/Engine.ini]
-[2019.09.26-22.01.37:193][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
-[2019.09.26-22.01.37:193][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/EKUStudent/Documents/UnrealProjects/ElectricAvenue/Saved/Config/Windows/Engine.ini]
-[2019.09.26-22.01.37:193][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/EKUStudent/Documents/UnrealProjects/ElectricAvenue/Saved/Config/Windows/Engine.ini]
-[2019.09.26-22.01.37:193][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
-[2019.09.26-22.01.37:193][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
-[2019.09.26-22.01.37:193][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
-[2019.09.26-22.01.37:193][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
-[2019.09.26-22.01.37:194][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
-[2019.09.26-22.01.37:194][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
-[2019.09.26-22.01.37:194][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
-[2019.09.26-22.01.37:194][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
-[2019.09.26-22.01.37:194][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
-[2019.09.26-22.01.37:194][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
-[2019.09.26-22.01.37:194][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
-[2019.09.26-22.01.37:194][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
-[2019.09.26-22.01.37:194][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
-[2019.09.26-22.01.37:194][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/EKUStudent/Documents/UnrealProjects/ElectricAvenue/Saved/Config/Windows/Engine.ini]
-[2019.09.26-22.01.37:194][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
-[2019.09.26-22.01.37:194][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
-[2019.09.26-22.01.37:194][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
-[2019.09.26-22.01.37:194][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
-[2019.09.26-22.01.37:194][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
-[2019.09.26-22.01.37:194][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
-[2019.09.26-22.01.37:194][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
-[2019.09.26-22.01.37:194][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
-[2019.09.26-22.01.37:194][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
-[2019.09.26-22.01.37:194][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
-[2019.09.26-22.01.37:194][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
-[2019.09.26-22.01.37:194][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
-[2019.09.26-22.01.37:194][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
-[2019.09.26-22.01.37:194][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/EKUStudent/Documents/UnrealProjects/ElectricAvenue/Saved/Config/Windows/Engine.ini]
-[2019.09.26-22.01.37:194][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/EKUStudent/Documents/UnrealProjects/ElectricAvenue/Saved/Config/Windows/Engine.ini]
-[2019.09.26-22.01.37:199][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/EKUStudent/Documents/UnrealProjects/ElectricAvenue/Saved/Config/Windows/Scalability.ini]
-[2019.09.26-22.01.37:199][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2019.09.26-22.01.37:199][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2019.09.26-22.01.37:199][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/EKUStudent/Documents/UnrealProjects/ElectricAvenue/Saved/Config/Windows/Scalability.ini]
-[2019.09.26-22.01.37:199][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2019.09.26-22.01.37:199][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/EKUStudent/Documents/UnrealProjects/ElectricAvenue/Saved/Config/Windows/Scalability.ini]
-[2019.09.26-22.01.37:199][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2019.09.26-22.01.37:199][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2019.09.26-22.01.37:199][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2019.09.26-22.01.37:199][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2019.09.26-22.01.37:199][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2019.09.26-22.01.37:199][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2019.09.26-22.01.37:199][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2019.09.26-22.01.37:199][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2019.09.26-22.01.37:199][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2019.09.26-22.01.37:199][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2019.09.26-22.01.37:199][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2019.09.26-22.01.37:199][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/EKUStudent/Documents/UnrealProjects/ElectricAvenue/Saved/Config/Windows/Scalability.ini]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/EKUStudent/Documents/UnrealProjects/ElectricAvenue/Saved/Config/Windows/Scalability.ini]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/EKUStudent/Documents/UnrealProjects/ElectricAvenue/Saved/Config/Windows/Scalability.ini]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/EKUStudent/Documents/UnrealProjects/ElectricAvenue/Saved/Config/Windows/Scalability.ini]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2019.09.26-22.01.37:200][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2019.09.26-22.01.37:200][  0]LogInit: Selected Device Profile: [Windows]
-[2019.09.26-22.01.37:200][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2019.09.26-22.01.37:208][  0]LogHAL: Display: Platform has ~ 32 GB [34031345664 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2019.09.26-22.01.37:208][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
-[2019.09.26-22.01.37:208][  0]LogInit: Going up to parent DeviceProfile []
-[2019.09.26-22.01.37:208][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/EKUStudent/Documents/UnrealProjects/ElectricAvenue/Saved/Config/Windows/Scalability.ini]
-[2019.09.26-22.01.37:208][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2019.09.26-22.01.37:208][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2019.09.26-22.01.37:208][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/EKUStudent/Documents/UnrealProjects/ElectricAvenue/Saved/Config/Windows/Scalability.ini]
-[2019.09.26-22.01.37:208][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2019.09.26-22.01.37:208][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/EKUStudent/Documents/UnrealProjects/ElectricAvenue/Saved/Config/Windows/Scalability.ini]
-[2019.09.26-22.01.37:208][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2019.09.26-22.01.37:208][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2019.09.26-22.01.37:208][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2019.09.26-22.01.37:208][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2019.09.26-22.01.37:208][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2019.09.26-22.01.37:208][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2019.09.26-22.01.37:208][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2019.09.26-22.01.37:208][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2019.09.26-22.01.37:208][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2019.09.26-22.01.37:208][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2019.09.26-22.01.37:208][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/EKUStudent/Documents/UnrealProjects/ElectricAvenue/Saved/Config/Windows/Scalability.ini]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/EKUStudent/Documents/UnrealProjects/ElectricAvenue/Saved/Config/Windows/Scalability.ini]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/EKUStudent/Documents/UnrealProjects/ElectricAvenue/Saved/Config/Windows/Scalability.ini]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/EKUStudent/Documents/UnrealProjects/ElectricAvenue/Saved/Config/Windows/Scalability.ini]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
-[2019.09.26-22.01.37:209][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/EKUStudent/Documents/UnrealProjects/ElectricAvenue/Saved/Config/Windows/Engine.ini]
-[2019.09.26-22.01.37:210][  0]LogInit: Computer: HP2UA5321B1W
-[2019.09.26-22.01.37:210][  0]LogInit: User: EKUStudent
-[2019.09.26-22.01.37:210][  0]LogInit: CPU Page size=4096, Cores=4
-[2019.09.26-22.01.37:210][  0]LogInit: High frequency timer resolution =10.000000 MHz
-[2019.09.26-22.01.37:210][  0]LogMemory: Memory total: Physical=31.7GB (32GB approx)
-[2019.09.26-22.01.37:210][  0]LogMemory: Platform Memory Stats for Windows
-[2019.09.26-22.01.37:210][  0]LogMemory: Process Physical Memory: 96.96 MB used, 96.96 MB peak
-[2019.09.26-22.01.37:210][  0]LogMemory: Process Virtual Memory: 88.80 MB used, 88.80 MB peak
-[2019.09.26-22.01.37:210][  0]LogMemory: Physical Memory: 7168.42 MB used,  25286.40 MB free, 32454.82 MB total
-[2019.09.26-22.01.37:210][  0]LogMemory: Virtual Memory: 4657.62 MB used,  134213072.00 MB free, 134217728.00 MB total
-[2019.09.26-22.01.37:228][  0]LogInit: Using OS detected language (en-US).
-[2019.09.26-22.01.37:228][  0]LogInit: Using OS detected locale (en-US).
-[2019.09.26-22.01.37:229][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2019.09.26-22.01.37:428][  0]LogInit: Setting process to per monitor DPI aware
-[2019.09.26-22.01.37:472][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2019.09.26-22.01.37:473][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2019.09.26-22.01.37:625][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2019.09.26-22.01.37:625][  0]LogD3D11RHI: D3D11 adapters:
-[2019.09.26-22.01.37:694][  0]LogD3D11RHI:    0. 'NVIDIA Quadro K1200' (Feature Level 11_0)
-[2019.09.26-22.01.37:694][  0]LogD3D11RHI:       4053/0/16227 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2019.09.26-22.01.37:701][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
-[2019.09.26-22.01.37:701][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
-[2019.09.26-22.01.37:703][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2019.09.26-22.01.37:703][  0]LogD3D11RHI:       0/0/16227 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2019.09.26-22.01.37:703][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2019.09.26-22.01.37:709][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2019.09.26-22.01.37:709][  0]LogD3D11RHI:     GPU DeviceId: 0x13bc (for the marketing name, search the web for "GPU Device Id")
-[2019.09.26-22.01.37:709][  0]LogWindows: EnumDisplayDevices:
-[2019.09.26-22.01.37:709][  0]LogWindows:    0. 'NVIDIA Quadro K1200' (P:1 D:1)
-[2019.09.26-22.01.37:709][  0]LogWindows:    1. 'NVIDIA Quadro K1200' (P:0 D:0)
-[2019.09.26-22.01.37:710][  0]LogWindows:    2. 'NVIDIA Quadro K1200' (P:0 D:0)
-[2019.09.26-22.01.37:710][  0]LogWindows:    3. 'NVIDIA Quadro K1200' (P:0 D:0)
-[2019.09.26-22.01.37:710][  0]LogWindows:    4. 'Intel(R) HD Graphics 4600' (P:0 D:0)
-[2019.09.26-22.01.37:711][  0]LogWindows:    5. 'Intel(R) HD Graphics 4600' (P:0 D:0)
-[2019.09.26-22.01.37:711][  0]LogWindows:    6. 'Intel(R) HD Graphics 4600' (P:0 D:0)
-[2019.09.26-22.01.37:711][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
-[2019.09.26-22.01.37:711][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro K1200
-[2019.09.26-22.01.37:711][  0]LogD3D11RHI:   Driver Version: 425.31 (internal:25.21.14.2531, unified:425.31)
-[2019.09.26-22.01.37:711][  0]LogD3D11RHI:      Driver Date: 4-9-2019
-[2019.09.26-22.01.37:711][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
-[2019.09.26-22.01.37:761][  0]LogD3D11RHI: Async texture creation enabled
-[2019.09.26-22.01.37:766][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
-[2019.09.26-22.01.37:766][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
-[2019.09.26-22.01.37:766][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
-[2019.09.26-22.01.37:774][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2019.09.26-22.01.38:109][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
-[2019.09.26-22.01.38:123][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
-[2019.09.26-22.01.38:138][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
-[2019.09.26-22.01.38:152][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
-[2019.09.26-22.01.38:167][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
-[2019.09.26-22.01.38:182][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
-[2019.09.26-22.01.38:197][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
-[2019.09.26-22.01.38:211][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
-[2019.09.26-22.01.38:218][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
-[2019.09.26-22.01.38:301][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
-[2019.09.26-22.01.38:301][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
-[2019.09.26-22.01.38:301][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
-[2019.09.26-22.01.38:301][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
-[2019.09.26-22.01.38:301][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
-[2019.09.26-22.01.38:301][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
-[2019.09.26-22.01.38:301][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
-[2019.09.26-22.01.38:301][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
-[2019.09.26-22.01.38:301][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
-[2019.09.26-22.01.38:301][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
-[2019.09.26-22.01.38:301][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
-[2019.09.26-22.01.38:301][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
-[2019.09.26-22.01.38:301][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
-[2019.09.26-22.01.38:301][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
-[2019.09.26-22.01.38:301][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
-[2019.09.26-22.01.38:301][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
-[2019.09.26-22.01.38:301][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
-[2019.09.26-22.01.38:302][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
-[2019.09.26-22.01.38:303][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
-[2019.09.26-22.01.38:352][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
-[2019.09.26-22.01.38:352][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
-[2019.09.26-22.01.38:376][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
-[2019.09.26-22.01.38:376][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
-[2019.09.26-22.01.38:388][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
-[2019.09.26-22.01.38:400][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
-[2019.09.26-22.01.38:412][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
-[2019.09.26-22.01.38:425][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
-[2019.09.26-22.01.38:473][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
-[2019.09.26-22.01.38:473][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
-[2019.09.26-22.01.38:473][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2019.09.26-22.01.38:482][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
-[2019.09.26-22.01.38:540][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/EKUStudent/Documents/UnrealProjects/ElectricAvenue/Intermediate/Shaders/WorkingDirectory/6464/).
-[2019.09.26-22.01.38:540][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/EKUStudent/AppData/Local/Temp/1/UnrealShaderWorkingDir/7ED44D554835D011FE579CBB8FB12D99/'.
-[2019.09.26-22.01.38:554][  0]LogShaderCompilers: Display: Using XGE Shader Compiler (Interception Interface).
-[2019.09.26-22.01.39:123][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2019.09.26-22.01.39:187][  0]LogDerivedDataCache: Loaded boot cache 0.06s 73MB C:/Users/EKUStudent/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
-[2019.09.26-22.01.39:187][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/EKUStudent/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
-[2019.09.26-22.01.39:187][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/EKUStudent/Documents/UnrealProjects/ElectricAvenue/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2019.09.26-22.01.39:187][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2019.09.26-22.01.39:187][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/EKUStudent/Documents/UnrealProjects/ElectricAvenue/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2019.09.26-22.01.39:187][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2019.09.26-22.01.39:200][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2019.09.26-22.01.39:200][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2019.09.26-22.01.39:200][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
-[2019.09.26-22.01.39:212][  0]LogDerivedDataCache: Using Local data cache path C:/Users/EKUStudent/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2019.09.26-22.01.39:212][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2019.09.26-22.01.39:212][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2019.09.26-22.01.39:234][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2019.09.26-22.01.39:236][  0]LogSlate: Using FreeType 2.6.0
-[2019.09.26-22.01.39:236][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2019.09.26-22.01.39:318][  0]LogAssetRegistry: FAssetRegistry took 0.0339 seconds to start up
-[2019.09.26-22.01.39:717][  0]LogInit: Selected Device Profile: [Windows]
-[2019.09.26-22.01.39:877][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2019.09.26-22.01.39:877][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
-[2019.09.26-22.01.39:877][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2019.09.26-22.01.39:877][  0]LogMeshReduction: No distributed automatic mesh merging module available
-[2019.09.26-22.01.39:877][  0]LogMeshMerging: No distributed automatic mesh merging module available
-[2019.09.26-22.01.39:887][  0]LogNetVersion: ElectricAvenue 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 4231497916)
-[2019.09.26-22.01.40:285][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.029169 seconds
-[2019.09.26-22.01.40:290][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
-[2019.09.26-22.01.40:290][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
-[2019.09.26-22.01.40:290][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2019.09.26-22.01.41:177][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2019.09.26-22.01.41:191][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2019.09.26-22.01.41:296][  0]SourceControl: Source control is disabled
-[2019.09.26-22.01.41:296][  0]SourceControl: Source control is disabled
-[2019.09.26-22.01.41:298][  0]SourceControl: Source control is disabled
-[2019.09.26-22.01.41:299][  0]SourceControl: Source control is disabled
-[2019.09.26-22.01.41:370][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2019.09.26-22.01.41:488][  0]LogOcInput: OculusInput pre-init called
-[2019.09.26-22.01.42:136][  0]LogEngine: Initializing Engine...
-[2019.09.26-22.01.42:137][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2019.09.26-22.01.42:137][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
-[2019.09.26-22.01.42:328][  0]LogInit: Initializing FReadOnlyCVARCache
-[2019.09.26-22.01.42:343][  0]LogAIModule: Creating AISystem for world Untitled
-[2019.09.26-22.01.42:369][  0]LogInit: XAudio2 using 'CintiqPro24PT (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
-[2019.09.26-22.01.42:403][  0]LogInit: FAudioDevice initialized.
-[2019.09.26-22.01.42:403][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2019.09.26-22.01.42:481][  0]LogDerivedDataCache: Saved boot cache 0.08s 73MB C:/Users/EKUStudent/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
-[2019.09.26-22.01.42:481][  0]LogInit: Texture streaming: Enabled
-[2019.09.26-22.01.42:501][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2019.09.26-22.01.42:532][  0]LogInit: Transaction tracking system initialized
-[2019.09.26-22.01.42:561][  0]BlueprintLog: New page: Editor Load
-[2019.09.26-22.01.42:655][  0]LocalizationService: Localization service is disabled
-[2019.09.26-22.01.42:967][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2019.09.26-22.01.42:967][  0]LogCook: Display: Mobile HDR setting 1
-[2019.09.26-22.01.43:164][  0]LogFileCache: Scanning file cache for directory 'C:/Users/EKUStudent/Documents/UnrealProjects/ElectricAvenue/Content/' took 0.04s
-[2019.09.26-22.01.43:164][  0]SourceControl: Source control is disabled
-[2019.09.26-22.01.43:164][  0]Cmd: MAP LOAD FILE="../../../../../../Users/EKUStudent/Documents/UnrealProjects/ElectricAvenue/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2019.09.26-22.01.43:164][  0]LightingResults: New page: Lighting Build
-[2019.09.26-22.01.43:168][  0]MapCheck: New page: Map Check
-[2019.09.26-22.01.43:168][  0]LightingResults: New page: Lighting Build
-[2019.09.26-22.01.43:193][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
-[2019.09.26-22.01.43:676][  0]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
-[2019.09.26-22.01.43:676][  0]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
-[2019.09.26-22.01.43:676][  0]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
-[2019.09.26-22.01.43:676][  0]LogStaticMesh: Building static mesh SM_Desk_Desk...
-[2019.09.26-22.01.43:693][  0]LogTexture: Display: Building textures: BedsideTable_n (BC5, 2048X2048)
-[2019.09.26-22.01.43:693][  0]LogStaticMesh: Built static mesh [0.03s] /Game/HQ_ResidentialHouse/Meshes/Desk/SM_Desk_Desk.SM_Desk_Desk
-[2019.09.26-22.01.43:702][  0]LogStaticMesh: Building static mesh SM_BedsideTable_Drawer...
-[2019.09.26-22.01.43:705][  0]LogStaticMesh: Built static mesh [0.00s] /Game/HQ_ResidentialHouse/Meshes/BedsideTable/SM_BedsideTable_Drawer.SM_BedsideTable_Drawer
-[2019.09.26-22.01.47:302][  0]LogTexture: Display: Building textures: BedsideTable_r_ao_m (AutoDXT, 2048X2048)
-[2019.09.26-22.01.47:302][  0]LogTexture: Display: Building textures: BathroomSink_d (AutoDXT, 2048X2048)
-[2019.09.26-22.01.47:302][  0]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 64X64)
-[2019.09.26-22.01.47:302][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
-[2019.09.26-22.01.47:302][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
-[2019.09.26-22.01.47:302][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
-[2019.09.26-22.01.47:302][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 64X64)
-[2019.09.26-22.01.47:302][  0]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
-[2019.09.26-22.01.47:302][  0]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
-[2019.09.26-22.01.47:302][  0]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 1024X512)
-[2019.09.26-22.01.47:302][  0]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 64X32)
-[2019.09.26-22.01.47:302][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X1024)
-[2019.09.26-22.01.47:302][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 1024X512)
-[2019.09.26-22.01.47:302][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
-[2019.09.26-22.01.47:302][  0]LogTexture: Display: Building textures: Gadgets_n (BC5, 2048X2048)
-[2019.09.26-22.01.47:302][  0]LogTexture: Display: Building textures: Gadgets_r_ao_m (AutoDXT, 2048X2048)
-[2019.09.26-22.01.47:302][  0]LogTexture: Display: Building textures: Gadgets_e (AutoDXT, 2048X2048)
-[2019.09.26-22.01.47:302][  0]LogTexture: Display: Building textures: Gadgets_d (AutoDXT, 2048X2048)
-[2019.09.26-22.01.47:302][  0]LogTexture: Display: Building textures: KitchenDevices_r_ao_m (AutoDXT, 2048X2048)
-[2019.09.26-22.01.47:302][  0]LogTexture: Display: Building textures: KitchenDevices_n (BC5, 2048X2048)
-[2019.09.26-22.01.47:302][  0]LogTexture: Display: Building textures: KitchenDevices_d (AutoDXT, 2048X2048)
-[2019.09.26-22.01.47:302][  0]LogTexture: Display: Building textures: WoodDeck_r_ao_m (AutoDXT, 1024X1024)
-[2019.09.26-22.01.47:302][  0]LogTexture: Display: Building textures: WoodDeck_n (BC5, 1024X1024)
-[2019.09.26-22.01.47:302][  0]LogTexture: Display: Building textures: AC_unit_r_ao_m (AutoDXT, 2048X2048)
-[2019.09.26-22.01.51:663][  0]LogTexture: Display: Building textures: WoodDeck_d (AutoDXT, 1024X1024)
-[2019.09.26-22.01.51:663][  0]LogTexture: Display: Building textures: Lamps_r_ao_m (AutoDXT, 2048X2048)
-[2019.09.26-22.01.51:663][  0]LogTexture: Display: Building textures: Lamps_n (BC5, 2048X2048)
-[2019.09.26-22.01.51:663][  0]LogTexture: Display: Building textures: Lamps_e (AutoDXT, 1024X1024)
-[2019.09.26-22.01.51:663][  0]LogTexture: Display: Building textures: LampDesk_r_ao_m (AutoDXT, 1024X1024)
-[2019.09.26-22.01.51:663][  0]LogTexture: Display: Building textures: Lamps_d (AutoDXT, 2048X2048)
-[2019.09.26-22.01.51:663][  0]LogTexture: Display: Building textures: LampDesk_n (BC5, 1024X1024)
-[2019.09.26-22.01.51:663][  0]LogTexture: Display: Building textures: LampDesk_e (AutoDXT, 512X512)
-[2019.09.26-22.01.51:663][  0]LogTexture: Display: Building textures: LampDesk_d (AutoDXT, 1024X1024)
-[2019.09.26-22.01.51:663][  0]LogTexture: Display: Building textures: Fireplace_r_ao_m (AutoDXT, 2048X2048)
-[2019.09.26-22.01.51:663][  0]LogTexture: Display: Building textures: Fireplace_n (BC5, 2048X2048)
-[2019.09.26-22.01.51:663][  0]LogTexture: Display: Building textures: Fireplace_e (AutoDXT, 2048X2048)
-[2019.09.26-22.01.51:663][  0]LogTexture: Display: Building textures: Fireplace_d (AutoDXT, 2048X2048)
-[2019.09.26-22.01.51:663][  0]LogTexture: Display: Building textures: SofaBig_r_ao_m (AutoDXT, 2048X2048)
-[2019.09.26-22.01.51:663][  0]LogTexture: Display: Building textures: SofaBig_n (BC5, 2048X2048)
-[2019.09.26-22.01.51:663][  0]LogTexture: Display: Building textures: SofaBig_mask (AutoDXT, 1024X1024)
-[2019.09.26-22.01.51:663][  0]LogTexture: Display: Building textures: SofaBig_d (AutoDXT, 2048X2048)
-[2019.09.26-22.01.51:783][  0]LogTexture: Display: Building textures: AC_unit_n (BC5, 2048X2048)
-[2019.09.26-22.01.52:661][  0]LogTexture: Display: Building textures: RockingChair_r_ao_m (AutoDXT, 2048X2048)
-[2019.09.26-22.01.52:661][  0]LogTexture: Display: Building textures: RockingChair_n (BC5, 2048X2048)
-[2019.09.26-22.01.52:661][  0]LogTexture: Display: Building textures: AC_unit_d (AutoDXT, 2048X2048)
-[2019.09.26-22.02.00:674][  0]LogTexture: Display: Building textures: SmallProps_r_ao_m (AutoDXT, 1024X1024)
-[2019.09.26-22.02.00:674][  0]LogTexture: Display: Building textures: RockingChair_d (AutoDXT, 2048X2048)
-[2019.09.26-22.02.00:674][  0]LogTexture: Display: Building textures: SmallProps_n (BC5, 1024X1024)
-[2019.09.26-22.02.00:674][  0]LogTexture: Display: Building textures: SmallProps_e (AutoDXT, 1024X1024)
-[2019.09.26-22.02.00:674][  0]LogTexture: Display: Building textures: SmallProps_d (AutoDXT, 1024X1024)
-[2019.09.26-22.02.00:674][  0]LogTexture: Display: Building textures: DoorMat_r_ao_m (AutoDXT, 512X512)
-[2019.09.26-22.02.00:674][  0]LogTexture: Display: Building textures: DoorMat_n (BC5, 512X512)
-[2019.09.26-22.02.00:674][  0]LogTexture: Display: Building textures: DoorMat_d (AutoDXT, 512X512)
-[2019.09.26-22.02.00:674][  0]LogTexture: Display: Building textures: DoorFrame_r_ao_m (AutoDXT, 1024X1024)
-[2019.09.26-22.02.00:674][  0]LogTexture: Display: Building textures: DoorFrame_n (BC5, 1024X1024)
-[2019.09.26-22.02.00:674][  0]LogTexture: Display: Building textures: DoorFrame_d (AutoDXT, 1024X1024)
-[2019.09.26-22.02.00:674][  0]LogTexture: Display: Building textures: DiningTable_n (BC5, 2048X2048)
-[2019.09.26-22.02.00:674][  0]LogTexture: Display: Building textures: DiningTable_r_ao_m (AutoDXT, 2048X2048)
-[2019.09.26-22.02.00:674][  0]LogTexture: Display: Building textures: DiningTable_mask (AutoDXT, 1024X1024)
-[2019.09.26-22.02.00:674][  0]LogTexture: Display: Building textures: DiningTable_d (AutoDXT, 2048X2048)
-[2019.09.26-22.02.00:674][  0]LogTexture: Display: Building textures: DiningChair_r_ao_m (AutoDXT, 2048X2048)
-[2019.09.26-22.02.00:674][  0]LogTexture: Display: Building textures: DiningChair_n (BC5, 2048X2048)
-[2019.09.26-22.02.00:674][  0]LogTexture: Display: Building textures: DiningChair_mask (AutoDXT, 1024X1024)
-[2019.09.26-22.02.00:674][  0]LogTexture: Display: Building textures: CoffeeTable_r_ao_m (AutoDXT, 1024X1024)
-[2019.09.26-22.02.00:674][  0]LogTexture: Display: Building textures: DiningChair_d (AutoDXT, 2048X2048)
-[2019.09.26-22.02.00:674][  0]LogTexture: Display: Building textures: CoffeeTable_n (BC5, 1024X1024)
-[2019.09.26-22.02.00:674][  0]LogTexture: Display: Building textures: CoffeeTable_d (AutoDXT, 1024X1024)
-[2019.09.26-22.02.00:674][  0]LogTexture: Display: Building textures: ChairLeather_r_ao_m (AutoDXT, 2048X2048)
-[2019.09.26-22.02.00:674][  0]LogTexture: Display: Building textures: ChairLeather_n (BC5, 2048X2048)
-[2019.09.26-22.02.00:674][  0]LogTexture: Display: Building textures: ChairLeather_mask (AutoDXT, 1024X1024)
-[2019.09.26-22.02.00:674][  0]LogTexture: Display: Building textures: ChairLeather_d (AutoDXT, 2048X2048)
-[2019.09.26-22.02.00:674][  0]LogTexture: Display: Building textures: Bunny_r_ao_m (AutoDXT, 1024X1024)
-[2019.09.26-22.02.00:674][  0]LogTexture: Display: Building textures: Bunny_n (BC5, 1024X1024)
-[2019.09.26-22.02.00:674][  0]LogTexture: Display: Building textures: Bunny_d (AutoDXT, 1024X1024)
-[2019.09.26-22.02.00:674][  0]LogTexture: Display: Building textures: Bed_r_ao_m (AutoDXT, 2048X2048)
-[2019.09.26-22.02.00:674][  0]LogTexture: Display: Building textures: Bed_n (BC5, 2048X2048)
-[2019.09.26-22.02.00:674][  0]LogTexture: Display: Building textures: Bed_d (AutoDXT, 2048X2048)
-[2019.09.26-22.02.00:674][  0]LogTexture: Display: Building textures: Bed__mask (AutoDXT, 1024X1024)
-[2019.09.26-22.02.00:674][  0]LogTexture: Display: Building textures: BeanBag_r_ao_m (AutoDXT, 2048X2048)
-[2019.09.26-22.02.00:674][  0]LogTexture: Display: Building textures: BeanBag_n (BC5, 2048X2048)
-[2019.09.26-22.02.00:682][  0]LogMaterial: Display: Missing cached shader map for material Mat_Masked, compiling. 
-[2019.09.26-22.02.00:874][  0]LogMaterial: Display: Missing cached shader map for material Mat_Opaque, compiling. 
-[2019.09.26-22.02.01:065][  0]LogTexture: Display: Building textures: BeanBag_d (AutoDXT, 2048X2048)
-[2019.09.26-22.02.01:065][  0]LogTexture: Display: Building textures: BathroomSink_n (BC5, 2048X2048)
-[2019.09.26-22.02.01:807][  0]LogTexture: Display: Building textures: BathTub_r_ao_m (AutoDXT, 2048X2048)
-[2019.09.26-22.02.01:940][  0]LogTexture: Display: Building textures: BathroomSink_r_ao_m (AutoDXT, 2048X2048)
-[2019.09.26-22.02.04:470][  0]LogTexture: Display: Building textures: BathTub_n (BC5, 2048X2048)
-[2019.09.26-22.02.04:470][  0]LogTexture: Display: Building textures: BathTub_d (AutoDXT, 2048X2048)
-[2019.09.26-22.02.04:470][  0]LogTexture: Display: Building textures: Armchair_r_ao_m (AutoDXT, 2048X2048)
-[2019.09.26-22.02.04:470][  0]LogTexture: Display: Building textures: Armchair_mask (AutoDXT, 1024X1024)
-[2019.09.26-22.02.04:470][  0]LogTexture: Display: Building textures: Armchair_n (BC5, 2048X2048)
-[2019.09.26-22.02.04:470][  0]LogTexture: Display: Building textures: Armchair_d (AutoDXT, 2048X2048)
-[2019.09.26-22.02.04:470][  0]LogTexture: Display: Building textures: KitchenSet_r_ao_m (AutoDXT, 2048X2048)
-[2019.09.26-22.02.04:470][  0]LogTexture: Display: Building textures: KitchenSet_n (BC5, 2048X2048)
-[2019.09.26-22.02.04:470][  0]LogTexture: Display: Building textures: KitchenSet_mask (AutoDXT, 1024X1024)
-[2019.09.26-22.02.04:477][  0]LogStaticMesh: Building static mesh SM_BathroomSink...
-[2019.09.26-22.02.04:485][  0]LogStaticMesh: Built static mesh [0.01s] /Game/HQ_ResidentialHouse/Meshes/BathroomSink/SM_BathroomSink.SM_BathroomSink
-[2019.09.26-22.02.04:504][  0]LogMaterial: Display: Missing cached shader map for material CelShaderForward, compiling. 
-[2019.09.26-22.02.04:561][  0]LogMaterial: Display: Missing cached shader map for material CelShaderForward, compiling. 
-[2019.09.26-22.02.04:651][  0]LogTexture: Display: Building textures: KitchenSet_d (AutoDXT, 2048X2048)
-[2019.09.26-22.02.04:651][  0]LogStaticMesh: Building static mesh SM_TV_Hanging...
-[2019.09.26-22.02.04:652][  0]LogStaticMesh: Built static mesh [0.00s] /Game/HQ_ResidentialHouse/Meshes/SM_TV_Hanging.SM_TV_Hanging
-[2019.09.26-22.02.04:657][  0]LogMaterial: Display: Missing cached shader map for material Mat_OpaqueEmissive, compiling. 
-[2019.09.26-22.02.04:696][  0]LogStaticMesh: Building static mesh SM_MobilePhone...
-[2019.09.26-22.02.04:711][  0]LogStaticMesh: Built static mesh [0.02s] /Game/HQ_ResidentialHouse/Meshes/SM_MobilePhone.SM_MobilePhone
-[2019.09.26-22.02.04:730][  0]LogTexture: Display: Building textures: Windows_r_ao_m (AutoDXT, 2048X2048)
-[2019.09.26-22.02.04:730][  0]LogStaticMesh: Building static mesh SM_CookerStove...
-[2019.09.26-22.02.04:732][  0]LogStaticMesh: Built static mesh [0.00s] /Game/HQ_ResidentialHouse/Meshes/SM_CookerStove.SM_CookerStove
-[2019.09.26-22.02.04:735][  0]LogStaticMesh: Building static mesh SM_LampFloor_LampFloor_bulb...
-[2019.09.26-22.02.04:735][  0]LogStaticMesh: Built static mesh [0.00s] /Game/HQ_ResidentialHouse/Meshes/LampFloor/SM_LampFloor_LampFloor_bulb.SM_LampFloor_LampFloor_bulb
-[2019.09.26-22.02.04:742][  0]LogStaticMesh: Building static mesh SM_LampFloor...
-[2019.09.26-22.02.04:772][  0]LogStaticMesh: Built static mesh [0.03s] /Game/HQ_ResidentialHouse/Meshes/LampFloor/SM_LampFloor.SM_LampFloor
-[2019.09.26-22.02.04:775][  0]LogStaticMesh: Building static mesh SM_LampDesk_Bulb...
-[2019.09.26-22.02.04:776][  0]LogStaticMesh: Built static mesh [0.00s] /Game/HQ_ResidentialHouse/Meshes/LampDesk/SM_LampDesk_Bulb.SM_LampDesk_Bulb
-[2019.09.26-22.02.04:784][  0]LogStaticMesh: Building static mesh SM_LampDesk...
-[2019.09.26-22.02.04:792][  0]LogStaticMesh: Built static mesh [0.01s] /Game/HQ_ResidentialHouse/Meshes/LampDesk/SM_LampDesk.SM_LampDesk
-[2019.09.26-22.02.04:842][  0]LogStaticMesh: Building static mesh SM_CoffeeMachine...
-[2019.09.26-22.02.04:849][  0]LogStaticMesh: Built static mesh [0.01s] /Game/HQ_ResidentialHouse/Meshes/SM_CoffeeMachine.SM_CoffeeMachine
-[2019.09.26-22.02.04:864][  0]LogStaticMesh: Building static mesh SM_Armchair...
-[2019.09.26-22.02.04:871][  0]LogStaticMesh: Built static mesh [0.01s] /Game/HQ_ResidentialHouse/Meshes/SM_Armchair.SM_Armchair
-[2019.09.26-22.02.04:928][  0]LogStaticMesh: Building static mesh SM_BathTub...
-[2019.09.26-22.02.04:941][  0]LogStaticMesh: Built static mesh [0.01s] /Game/HQ_ResidentialHouse/Meshes/SM_BathTub.SM_BathTub
-[2019.09.26-22.02.04:957][  0]LogStaticMesh: Building static mesh SM_BeanBag...
-[2019.09.26-22.02.04:974][  0]LogStaticMesh: Built static mesh [0.02s] /Game/HQ_ResidentialHouse/Meshes/SM_BeanBag.SM_BeanBag
-[2019.09.26-22.02.05:046][  0]LogStaticMesh: Building static mesh SM_Bed...
-[2019.09.26-22.02.05:257][  0]LogTexture: Display: Building textures: Windows_d (AutoDXT, 2048X2048)
-[2019.09.26-22.02.05:257][  0]LogStaticMesh: Built static mesh [0.21s] /Game/HQ_ResidentialHouse/Meshes/SM_Bed.SM_Bed
-[2019.09.26-22.02.05:272][  0]LogTexture: Display: Building textures: DeskWare_r_ao_m (AutoDXT, 2048X2048)
-[2019.09.26-22.02.05:272][  0]LogStaticMesh: Building static mesh SM_BedsideTable...
-[2019.09.26-22.02.05:273][  0]LogStaticMesh: Built static mesh [0.00s] /Game/HQ_ResidentialHouse/Meshes/BedsideTable/SM_BedsideTable.SM_BedsideTable
-[2019.09.26-22.02.05:317][  0]LogStaticMesh: Building static mesh SM_Bunny...
-[2019.09.26-22.02.05:349][  0]LogStaticMesh: Built static mesh [0.03s] /Game/HQ_ResidentialHouse/Meshes/SM_Bunny.SM_Bunny
-[2019.09.26-22.02.05:431][  0]LogStaticMesh: Building static mesh SM_ChairLeather...
-[2019.09.26-22.02.05:514][  0]LogStaticMesh: Built static mesh [0.08s] /Game/HQ_ResidentialHouse/Meshes/SM_ChairLeather.SM_ChairLeather
-[2019.09.26-22.02.05:529][  0]LogStaticMesh: Building static mesh SM_CoffeeTable...
-[2019.09.26-22.02.05:535][  0]LogStaticMesh: Built static mesh [0.01s] /Game/HQ_ResidentialHouse/Meshes/SM_CoffeeTable.SM_CoffeeTable
-[2019.09.26-22.02.05:539][  0]LogStaticMesh: Building static mesh SM_CookerHood...
-[2019.09.26-22.02.05:539][  0]LogStaticMesh: Built static mesh [0.00s] /Game/HQ_ResidentialHouse/Meshes/KitchenSet/SM_CookerHood.SM_CookerHood
-[2019.09.26-22.02.05:543][  0]LogStaticMesh: Building static mesh SM_Desk_Drawer...
-[2019.09.26-22.02.05:546][  0]LogStaticMesh: Built static mesh [0.00s] /Game/HQ_ResidentialHouse/Meshes/Desk/SM_Desk_Drawer.SM_Desk_Drawer
-[2019.09.26-22.02.05:567][  0]LogStaticMesh: Building static mesh SM_DiningChair...
-[2019.09.26-22.02.05:592][  0]LogStaticMesh: Built static mesh [0.02s] /Game/HQ_ResidentialHouse/Meshes/SM_DiningChair.SM_DiningChair
-[2019.09.26-22.02.05:601][  0]LogStaticMesh: Building static mesh SM_DiningTable...
-[2019.09.26-22.02.05:604][  0]LogStaticMesh: Built static mesh [0.00s] /Game/HQ_ResidentialHouse/Meshes/SM_DiningTable.SM_DiningTable
-[2019.09.26-22.02.05:607][  0]LogStaticMesh: Building static mesh SM_DoorFrameB...
-[2019.09.26-22.02.05:607][  0]LogStaticMesh: Built static mesh [0.00s] /Game/HQ_ResidentialHouse/Meshes/SM_DoorFrameB.SM_DoorFrameB
-[2019.09.26-22.02.05:608][  0]LogStaticMesh: Building static mesh SM_DoorMat...
-[2019.09.26-22.02.05:608][  0]LogStaticMesh: Built static mesh [0.00s] /Game/HQ_ResidentialHouse/Meshes/SM_DoorMat.SM_DoorMat
-[2019.09.26-22.02.05:610][  0]LogStaticMesh: Building static mesh SM_ElectricMeter...
-[2019.09.26-22.02.05:612][  0]LogStaticMesh: Built static mesh [0.00s] /Game/HQ_ResidentialHouse/Meshes/ElectricMeter/SM_ElectricMeter.SM_ElectricMeter
-[2019.09.26-22.02.05:614][  0]LogStaticMesh: Building static mesh SM_ElectricMeter_glass...
-[2019.09.26-22.02.05:615][  0]LogStaticMesh: Built static mesh [0.00s] /Game/HQ_ResidentialHouse/Meshes/ElectricMeter/SM_ElectricMeter_glass.SM_ElectricMeter_glass
-[2019.09.26-22.02.05:621][  0]LogStaticMesh: Building static mesh SM_KitchenSetA...
-[2019.09.26-22.02.05:628][  0]LogStaticMesh: Built static mesh [0.01s] /Game/HQ_ResidentialHouse/Meshes/KitchenSet/KitchenSetA/SM_KitchenSetA.SM_KitchenSetA
-[2019.09.26-22.02.05:632][  0]LogStaticMesh: Building static mesh SM_KitchenSetA_C...
-[2019.09.26-22.02.05:634][  0]LogStaticMesh: Built static mesh [0.00s] /Game/HQ_ResidentialHouse/Meshes/KitchenSet/KitchenSetA_C/SM_KitchenSetA_C.SM_KitchenSetA_C
-[2019.09.26-22.02.05:636][  0]LogStaticMesh: Building static mesh SM_LightSwitch...
-[2019.09.26-22.02.05:637][  0]LogStaticMesh: Built static mesh [0.00s] /Game/HQ_ResidentialHouse/Meshes/SM_LightSwitch.SM_LightSwitch
-[2019.09.26-22.02.05:639][  0]LogStaticMesh: Building static mesh SM_NotebookC...
-[2019.09.26-22.02.05:640][  0]LogStaticMesh: Built static mesh [0.00s] /Game/HQ_ResidentialHouse/Meshes/Deskware/SM_NotebookC.SM_NotebookC
-[2019.09.26-22.02.05:641][  0]LogStaticMesh: Building static mesh SM_Outlet...
-[2019.09.26-22.02.05:641][  0]LogStaticMesh: Built static mesh [0.00s] /Game/HQ_ResidentialHouse/Meshes/SM_Outlet.SM_Outlet
-[2019.09.26-22.02.05:645][  0]LogStaticMesh: Building static mesh SM_PencilCase_filled...
-[2019.09.26-22.02.05:647][  0]LogStaticMesh: Built static mesh [0.00s] /Game/HQ_ResidentialHouse/Meshes/Deskware/SM_PencilCase_filled.SM_PencilCase_filled
-[2019.09.26-22.02.05:672][  0]LogStaticMesh: Building static mesh SM_RockingChair...
-[2019.09.26-22.02.05:684][  0]LogStaticMesh: Built static mesh [0.01s] /Game/HQ_ResidentialHouse/Meshes/SM_RockingChair.SM_RockingChair
-[2019.09.26-22.02.05:700][  0]LogStaticMesh: Building static mesh SM_Scissors...
-[2019.09.26-22.02.05:705][  0]LogStaticMesh: Built static mesh [0.01s] /Game/HQ_ResidentialHouse/Meshes/Deskware/SM_Scissors.SM_Scissors
-[2019.09.26-22.02.05:728][  0]LogStaticMesh: Building static mesh SM_SofaBig...
-[2019.09.26-22.02.05:740][  0]LogStaticMesh: Built static mesh [0.01s] /Game/HQ_ResidentialHouse/Meshes/SM_SofaBig.SM_SofaBig
-[2019.09.26-22.02.05:756][  0]LogStaticMesh: Building static mesh SM_Toilet...
-[2019.09.26-22.02.05:775][  0]LogStaticMesh: Built static mesh [0.02s] /Game/HQ_ResidentialHouse/Meshes/SM_Toilet.SM_Toilet
-[2019.09.26-22.02.05:783][  0]LogStaticMesh: Building static mesh SM_ToiletPaper...
-[2019.09.26-22.02.05:788][  0]LogStaticMesh: Built static mesh [0.00s] /Game/HQ_ResidentialHouse/Meshes/SM_ToiletPaper.SM_ToiletPaper
-[2019.09.26-22.02.05:795][  0]LogStaticMesh: Building static mesh SM_TowelHangerA...
-[2019.09.26-22.02.05:800][  0]LogStaticMesh: Built static mesh [0.01s] /Game/HQ_ResidentialHouse/Meshes/SM_TowelHangerA.SM_TowelHangerA
-[2019.09.26-22.02.05:881][  0]LogTexture: Display: Building textures: Toilet_d (AutoDXT, 1024X1024)
-[2019.09.26-22.02.06:242][  0]LogTexture: Display: Building textures: Toilet_n (BC5, 1024X1024)
-[2019.09.26-22.02.06:459][  0]LogTexture: Display: Building textures: Toilet_r_ao_m (AutoDXT, 1024X1024)
-[2019.09.26-22.02.06:942][  0]LogTexture: Display: Building textures: DeskWare_n (BC5, 2048X2048)
-[2019.09.26-22.02.07:600][  0]LogTexture: Display: Building textures: DeskWare_d (AutoDXT, 2048X2048)
-[2019.09.26-22.02.07:600][  0]LogTexture: Display: Building textures: House_exterior_r_ao_m (AutoDXT, 4096X4096)
-[2019.09.26-22.02.17:687][  0]LogTexture: Display: Building textures: Desk_r_ao_m (AutoDXT, 2048X2048)
-[2019.09.26-22.02.17:687][  0]LogTexture: Display: Building textures: Desk_n (BC5, 2048X2048)
-[2019.09.26-22.02.17:687][  0]LogTexture: Display: Building textures: Desk__mask (AutoDXT, 1024X1024)
-[2019.09.26-22.02.17:687][  0]LogTexture: Display: Building textures: Desk_d (AutoDXT, 2048X2048)
-[2019.09.26-22.02.17:687][  0]LogTexture: Display: Building textures: House_exterior_mask (AutoDXT, 2048X2048)
-[2019.09.26-22.02.17:687][  0]LogTexture: Display: Building textures: House_exterior_n (BC5, 4096X4096)
-[2019.09.26-22.02.17:687][  0]LogTexture: Display: Building textures: BedsideTable_d (AutoDXT, 2048X2048)
-[2019.09.26-22.02.17:687][  0]LogTexture: Display: Building textures: House_exterior_d (AutoDXT, 4096X4096)
-[2019.09.26-22.02.17:687][  0]LogTexture: Display: Building textures: KitchenDevices02_r_ao_m (AutoDXT, 2048X2048)
-[2019.09.26-22.02.17:687][  0]LogTexture: Display: Building textures: KitchenDevices02_n (BC5, 2048X2048)
-[2019.09.26-22.02.17:687][  0]LogTexture: Display: Building textures: KitchenDevices02_d (AutoDXT, 2048X2048)
-[2019.09.26-22.02.21:185][  0]LogMaterial: Display: Missing cached shader map for material Mat_Opaque_colorMask, compiling. 
-[2019.09.26-22.02.21:224][  0]LogMaterial: Display: Missing cached shader map for material Mat_Glass, compiling. 
-[2019.09.26-22.02.21:356][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
-[2019.09.26-22.02.21:408][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2019.09.26-22.02.21:434][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
-[2019.09.26-22.02.21:434][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2019.09.26-22.02.21:435][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.192ms to complete.
-[2019.09.26-22.02.21:435][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 38.274
-[2019.09.26-22.02.21:613][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.09.26-22.02.21:623][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.09.26-22.02.21:631][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.09.26-22.02.21:638][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.09.26-22.02.21:654][  0]LogCollectionManager: Loaded 0 collections in 0.002135 seconds
-[2019.09.26-22.02.21:723][  0]LogFileCache: Scanning file cache for directory 'C:/Users/EKUStudent/Documents/UnrealProjects/ElectricAvenue/Saved/Collections/' took 0.01s
-[2019.09.26-22.02.21:723][  0]LogFileCache: Scanning file cache for directory 'C:/Users/EKUStudent/Documents/UnrealProjects/ElectricAvenue/Content/Developers/EKUStudent/Collections/' took 0.01s
-[2019.09.26-22.02.21:723][  0]LogFileCache: Scanning file cache for directory 'C:/Users/EKUStudent/Documents/UnrealProjects/ElectricAvenue/Content/Collections/' took 0.01s
-[2019.09.26-22.02.21:723][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
-[2019.09.26-22.02.21:736][  0]LogContentBrowser: Native class hierarchy populated in 0.0103 seconds. Added 2732 classes and 659 folders.
-[2019.09.26-22.02.21:754][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2019.09.26-22.02.21:761][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.26-22.02.21:766][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.26-22.02.21:767][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.26-22.02.21:767][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.26-22.02.21:767][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.26-22.02.21:768][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.26-22.02.21:768][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.26-22.02.21:768][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.26-22.02.21:769][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.26-22.02.21:769][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.26-22.02.21:770][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.26-22.02.21:770][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.26-22.02.21:771][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.26-22.02.21:771][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.26-22.02.21:772][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.26-22.02.21:773][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.26-22.02.21:773][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.26-22.02.21:774][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.26-22.02.21:774][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.26-22.02.21:775][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.26-22.02.21:775][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.26-22.02.21:776][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.26-22.02.21:776][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.26-22.02.21:777][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.26-22.02.21:777][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.26-22.02.21:778][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.26-22.02.21:808][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2019.09.26-22.02.21:824][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
-[2019.09.26-22.02.21:910][  0]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2019.09.26-22.02.21:913][  0]LogSlate: Took 0.000354 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2019.09.26-22.02.21:923][  0]LogSlate: Took 0.000885 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2019.09.26-22.02.22:012][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
-[2019.09.26-22.02.22:224][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.09.26-22.02.22:246][  0]LogSlate: Window 'Tutorials' being destroyed
-[2019.09.26-22.02.22:281][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
-[2019.09.26-22.02.22:281][  0]LogLoad: (Engine Initialization) Total time: 46.79 seconds
-[2019.09.26-22.02.22:281][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2019.09.26-22.02.22:341][  0]LogAssetRegistry: Asset discovery search completed in 43.0487 seconds
-[2019.09.26-22.02.22:343][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
-[2019.09.26-22.02.22:343][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000052 seconds (updated 0 objects)
-[2019.09.26-22.02.22:347][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2019.09.26-22.02.22:379][  0]LogSlate: Took 0.000886 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2019.09.26-22.03.17:245][713]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
-[2019.09.26-22.03.31:914][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-22.04.33:437][248]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-22.04.34:866][251]LogTexture: Display: Building textures: PrintDots (AutoDXT, 256X256)
-[2019.09.26-22.04.34:866][251]LogTexture: Display: Building textures: sketch_mask_2 (AutoDXT, 1024X1024)
-[2019.09.26-22.04.34:866][251]LogTexture: Display: Building textures: watercolour_texture (AutoDXT, 1024X1024)
-[2019.09.26-22.04.34:866][251]LogTexture: Display: Building textures: spatter (AutoDXT, 2048X2048)
-[2019.09.26-22.04.34:866][251]LogMaterial: Display: Missing cached shader map for material CelShader, compiling. 
-[2019.09.26-22.08.38:440][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-22.09.48:446][183]LogMaterial: Display: Missing cached shader map for material CelShader, compiling. 
-[2019.09.26-22.10.09:014][121]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-22.12.13:307][339]LogSlate: Took 0.000115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2019.09.26-22.12.22:345][202]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
-[2019.09.26-22.12.22:582][202]LogSavePackage: Moving '../../../../../../Users/EKUStudent/Documents/UnrealProjects/ElectricAvenue/Saved/ThirdPersonExampleMap_Auto143A06845499EAEDFED22C69885C73ECB.tmp' to '../../../../../../Users/EKUStudent/Documents/UnrealProjects/ElectricAvenue/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
-[2019.09.26-22.12.22:587][202]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.266
-[2019.09.26-22.12.22:587][202]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.266
-[2019.09.26-22.16.49:055][385]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube18)
-[2019.09.26-22.16.50:037][469]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
-[2019.09.26-22.16.52:924][739]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-22.16.55:198][960]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-22.16.59:575][382]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-22.17.06:494][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-22.17.06:828][ 89]Cmd: BRUSH ADD SELECTNEWBRUSH
-[2019.09.26-22.17.09:259][327]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-22.17.10:353][435]Cmd: BRUSH ADD SELECTNEWBRUSH
-[2019.09.26-22.17.25:442][794]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-22.17.28:053][ 54]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
-[2019.09.26-22.18.11:506][960]LogModelComponent: Warning: Material CelShaderChalkOnBlackboard requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
-[2019.09.26-22.18.11:953][  5]LogEditorViewport: Clicking Background
-[2019.09.26-22.18.12:983][102]LogModelComponent: Warning: Material CelShaderChalkOnBlackboard requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
-[2019.09.26-22.18.16:149][367]LogModelComponent: Warning: Material CelShaderChalkOnBlackboard requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
-[2019.09.26-22.18.17:143][468]LogEditorViewport: Clicking Background
-[2019.09.26-22.18.18:473][587]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-22.18.19:533][667]LogModelComponent: Warning: Material CelShaderChalkOnBlackboard requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
-[2019.09.26-22.18.20:541][770]LogEditorViewport: Clicking Background
-[2019.09.26-22.18.23:636][ 62]LogEditorViewport: Clicking Background
-[2019.09.26-22.18.32:947][937]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.09.26-22.18.51:824][869]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.09.26-22.18.51:862][869]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.09.26-22.19.06:098][341]Cmd: POLY SELECT MATCHING BRUSH
-[2019.09.26-22.19.19:955][813]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-22.19.21:532][989]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
-[2019.09.26-22.19.23:208][180]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
-[2019.09.26-22.19.27:739][701]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.09.26-22.19.30:669][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.09.26-22.19.49:971][847]LogSlate: Window 'Merge Actors' being destroyed
-[2019.09.26-22.19.49:975][847]LogSlate: Window 'Merge Actors' being destroyed
-[2019.09.26-22.19.52:230][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.09.26-22.19.56:904][558]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.09.26-22.20.00:119][925]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.09.26-22.20.13:350][161]LogSlate: Window 'Merge Actors' being destroyed
-[2019.09.26-22.20.13:353][161]LogSlate: Window 'Merge Actors' being destroyed
-[2019.09.26-22.20.14:007][224]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.09.26-22.20.34:981][552]Cmd: POLY SELECT MATCHING BRUSH
-[2019.09.26-22.20.38:145][913]Cmd: POLY SELECT ADJACENT ALL
-[2019.09.26-22.20.41:853][335]Cmd: POLY SELECT ADJACENT WALLS
-[2019.09.26-22.20.56:367][689]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-22.21.01:241][241]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
-[2019.09.26-22.21.08:301][896]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
-[2019.09.26-22.21.13:913][406]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-22.21.29:054][482]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-22.21.38:573][352]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
-[2019.09.26-22.21.39:582][446]Cmd: TRANSACTION UNDO
-[2019.09.26-22.21.39:582][446]LogEditorTransaction: Undo Clicking on Actors
-[2019.09.26-22.21.39:742][460]Cmd: TRANSACTION UNDO
-[2019.09.26-22.21.39:742][460]LogEditorTransaction: Undo Reset to Default
-[2019.09.26-22.21.39:896][467]Cmd: TRANSACTION UNDO
-[2019.09.26-22.21.39:896][467]LogEditorTransaction: Undo Reset to Default
-[2019.09.26-22.21.40:030][474]Cmd: TRANSACTION UNDO
-[2019.09.26-22.21.40:030][474]LogEditorTransaction: Undo Reset to Default
-[2019.09.26-22.21.40:175][487]Cmd: TRANSACTION UNDO
-[2019.09.26-22.21.40:175][487]LogEditorTransaction: Undo Reset to Default
-[2019.09.26-22.21.40:330][501]Cmd: TRANSACTION UNDO
-[2019.09.26-22.21.40:330][501]LogEditorTransaction: Undo Edit 0
-[2019.09.26-22.21.40:505][516]Cmd: TRANSACTION UNDO
-[2019.09.26-22.21.40:505][516]LogEditorTransaction: Undo Clicking on Actors
-[2019.09.26-22.21.41:491][610]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
-[2019.09.26-22.21.45:506][901]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-22.22.22:678][409]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
-[2019.09.26-22.22.22:871][409]LogSavePackage: Moving '../../../../../../Users/EKUStudent/Documents/UnrealProjects/ElectricAvenue/Saved/ThirdPersonExampleMap_Auto2843BA58D4DC42525859AEBBF989DB8B0.tmp' to '../../../../../../Users/EKUStudent/Documents/UnrealProjects/ElectricAvenue/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
-[2019.09.26-22.22.22:874][409]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.217
-[2019.09.26-22.22.22:874][409]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.217
-[2019.09.26-22.23.28:642][530]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-22.23.29:798][637]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
-[2019.09.26-22.23.29:845][638]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
-[2019.09.26-22.23.29:847][638]LogMaterial: Warning: /Engine/Transient.Material_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
-[2019.09.26-22.23.29:847][638]LogMaterial: 	Only transparent or postprocess materials can read from scene depth.
-[2019.09.26-22.23.29:847][638]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
-[2019.09.26-22.23.29:889][639]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
-[2019.09.26-22.23.29:910][640]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
-[2019.09.26-22.23.29:929][641]LogMaterial: Display: Missing cached shader map for material Material_4, compiling. 
-[2019.09.26-22.23.29:950][642]LogMaterial: Display: Missing cached shader map for material Material_5, compiling. 
-[2019.09.26-22.23.29:951][642]LogMaterial: Warning: /Engine/Transient.Material_5 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
-[2019.09.26-22.23.29:951][642]LogMaterial: 	Only transparent or postprocess materials can read from scene depth.
-[2019.09.26-22.23.29:951][642]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
-[2019.09.26-22.23.29:968][643]LogMaterial: Display: Missing cached shader map for material Material_6, compiling. 
-[2019.09.26-22.23.29:969][643]LogMaterial: Warning: /Engine/Transient.Material_6 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
-[2019.09.26-22.23.29:969][643]LogMaterial: 	Only transparent or postprocess materials can read from scene depth.
-[2019.09.26-22.23.29:985][644]LogMaterial: Display: Missing cached shader map for material Material_7, compiling. 
-[2019.09.26-22.23.29:986][644]LogMaterial: Warning: /Engine/Transient.Material_7 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
-[2019.09.26-22.23.29:986][644]LogMaterial: 	Only transparent or postprocess materials can read from scene depth.
-[2019.09.26-22.23.29:986][644]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
-[2019.09.26-22.23.30:004][645]LogMaterial: Display: Missing cached shader map for material Material_8, compiling. 
-[2019.09.26-22.23.30:005][645]LogMaterial: Warning: /Engine/Transient.Material_8 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
-[2019.09.26-22.23.30:005][645]LogMaterial: 	Only transparent or postprocess materials can read from scene depth.
-[2019.09.26-22.23.30:005][645]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
-[2019.09.26-22.23.30:022][646]LogMaterial: Display: Missing cached shader map for material Material_9, compiling. 
-[2019.09.26-22.23.30:023][646]LogMaterial: Warning: /Engine/Transient.Material_9 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
-[2019.09.26-22.23.30:023][646]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
-[2019.09.26-22.23.30:044][647]LogMaterial: Display: Missing cached shader map for material Material_10, compiling. 
-[2019.09.26-22.23.30:044][647]LogMaterial: Warning: /Engine/Transient.Material_10 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
-[2019.09.26-22.23.30:044][647]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
-[2019.09.26-22.23.30:060][648]LogMaterial: Display: Missing cached shader map for material Material_11, compiling. 
-[2019.09.26-22.23.30:061][648]LogMaterial: Warning: /Engine/Transient.Material_11 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
-[2019.09.26-22.23.30:061][648]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
-[2019.09.26-22.23.30:077][649]LogMaterial: Display: Missing cached shader map for material Material_12, compiling. 
-[2019.09.26-22.23.30:097][650]LogMaterial: Display: Missing cached shader map for material Material_13, compiling. 
-[2019.09.26-22.23.30:097][650]LogMaterial: Warning: /Engine/Transient.Material_13 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
-[2019.09.26-22.23.30:097][650]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
-[2019.09.26-22.23.30:113][651]LogMaterial: Display: Missing cached shader map for material Material_14, compiling. 
-[2019.09.26-22.23.30:114][651]LogMaterial: Warning: /Engine/Transient.Material_14 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
-[2019.09.26-22.23.30:114][651]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
-[2019.09.26-22.23.30:123][651]LogMaterial: Display: Missing cached shader map for material Material_15, compiling. 
-[2019.09.26-22.23.30:148][652]LogMaterial: Display: Missing cached shader map for material Material_16, compiling. 
-[2019.09.26-22.23.36:965][147]LogAssetEditorManager: Opening Asset editor for Material /Game/AdvancedCelShader/CelShader/Materials/CelShaderForward.CelShaderForward
-[2019.09.26-22.23.36:974][147]LogMaterial: Display: Missing cached shader map for material CelShaderForward, compiling. 
-[2019.09.26-22.23.37:363][147]LogMaterial: Display: Missing cached shader map for material CelShaderForward, compiling. 
-[2019.09.26-22.23.37:382][147]LogMaterial: Display: Missing cached shader map for material CelShaderForward, compiling. 
-[2019.09.26-22.23.37:425][147]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
-[2019.09.26-22.23.37:430][147]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
-[2019.09.26-22.23.37:470][147]LogSlate: Took 0.001178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
-[2019.09.26-22.23.37:703][150]LogSlate: Took 0.001015 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
-[2019.09.26-22.24.03:387][695]MaterialEditorStats: Base pass shader without light map: 33 instructions
-[2019.09.26-22.24.03:387][695]MaterialEditorStats: Base pass vertex shader: 42 instructions
-[2019.09.26-22.24.03:387][695]MaterialEditorStats: Texture samplers: 3/16
-[2019.09.26-22.24.03:387][695]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(8)
-[2019.09.26-22.24.03:387][695]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
-[2019.09.26-22.24.57:498][953]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-22.25.00:943][299]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
-[2019.09.26-22.25.03:658][559]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-22.25.41:411][367]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-22.25.44:120][638]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-22.25.48:281][ 59]LogMaterial: Display: Missing cached shader map for material LayerVisMaterial, compiling. 
-[2019.09.26-22.25.48:301][ 59]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
-[2019.09.26-22.25.48:318][ 59]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
-[2019.09.26-22.25.48:349][ 59]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
-[2019.09.26-22.25.48:381][ 59]LogMaterial: Display: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
-[2019.09.26-22.25.48:427][ 59]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
-[2019.09.26-22.25.48:441][ 59]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
-[2019.09.26-22.25.48:461][ 59]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
-[2019.09.26-22.25.48:481][ 59]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
-[2019.09.26-22.25.48:502][ 59]LogMaterial: Display: Missing cached shader map for material AlphaBrushMaterial, compiling. 
-[2019.09.26-22.25.48:522][ 59]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
-[2019.09.26-22.25.48:543][ 59]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
-[2019.09.26-22.25.48:558][ 59]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
-[2019.09.26-22.25.48:569][ 59]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
-[2019.09.26-22.26.00:673][223]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
-[2019.09.26-22.26.41:725][218]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.09.26-22.26.42:706][328]MapCheck: New page: Map Check
-[2019.09.26-22.26.42:714][328]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.09.26-22.26.42:718][328]Cmd: MAP REBUILD ALLVISIBLE
-[2019.09.26-22.26.42:720][328]LogEditorServer: Rebuildmap Clear paths rebuilt
-[2019.09.26-22.26.42:753][328]LightingResults: New page: Lighting Build - Sep 26, 2019, 2:26:42 PM
-[2019.09.26-22.26.42:809][328]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
-[2019.09.26-22.26.42:903][328]LogSwarmInterface: [OpenConnection] Connecting to agent ...
-[2019.09.26-22.26.42:934][328]LogSwarmInterface: [TryOpenConnection] Testing the Agent
-[2019.09.26-22.26.43:981][328]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
-[2019.09.26-22.26.43:981][328]LogSwarmInterface: [TryOpenConnection] Local Process ID is 6464
-[2019.09.26-22.26.49:275][328]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
-[2019.09.26-22.26.49:275][328]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
-[2019.09.26-22.26.49:275][328]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
-[2019.09.26-22.26.49:275][328]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
-[2019.09.26-22.26.49:275][328]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
-[2019.09.26-22.26.49:657][328]LogEditorBuildUtils: Build time 0:06
-[2019.09.26-22.26.49:667][328]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
-[2019.09.26-22.26.49:675][328]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
-[2019.09.26-22.26.49:699][329]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
-[2019.09.26-22.26.49:712][329]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
-[2019.09.26-22.26.49:734][330]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
-[2019.09.26-22.26.49:741][330]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
-[2019.09.26-22.26.49:764][331]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Mat_DoorFrame, compiling. 
-[2019.09.26-22.26.49:771][331]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Mat_DoorFrame, compiling. 
-[2019.09.26-22.26.49:818][333]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Mat_Desk, compiling. 
-[2019.09.26-22.26.49:827][333]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Mat_Desk, compiling. 
-[2019.09.26-22.26.49:932][337]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Mat_SmallProps, compiling. 
-[2019.09.26-22.26.49:939][337]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Mat_SmallProps, compiling. 
-[2019.09.26-22.26.50:075][343]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Mat_ACUnit, compiling. 
-[2019.09.26-22.26.50:084][343]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Mat_ACUnit, compiling. 
-[2019.09.26-22.26.50:093][343]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Mat_ACUnit, compiling. 
-[2019.09.26-22.26.50:108][344]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Mat_ElectricMeter_glass, compiling. 
-[2019.09.26-22.26.50:115][344]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Mat_ElectricMeter_glass, compiling. 
-[2019.09.26-22.26.50:129][345]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
-[2019.09.26-22.26.50:138][345]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
-[2019.09.26-22.27.02:368][382]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
-[2019.09.26-22.27.13:994][202]Job is a success!
-[2019.09.26-22.27.14:017][203]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.09.26-22.27.14:068][203]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.015s
-[2019.09.26-22.27.14:068][203]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
-[2019.09.26-22.27.14:068][203]LogVolumetricLightmapImport:      BrickData 235x5x5 = 0.2Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
-[2019.09.26-22.27.14:068][203]LogVolumetricLightmapImport:      Bricks at Level
-[2019.09.26-22.27.14:068][203]LogVolumetricLightmapImport:          0: 2.1% covering 100.0% of volume
-[2019.09.26-22.27.14:068][203]LogVolumetricLightmapImport:          1: 8.5% covering 6.3% of volume
-[2019.09.26-22.27.14:068][203]LogVolumetricLightmapImport:          2: 89.4% covering 1.0% of volume
-[2019.09.26-22.27.15:669][203]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
-[2019.09.26-22.27.15:669][203]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
-[2019.09.26-22.27.15:669][203]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
-[2019.09.26-22.27.15:669][203]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
-[2019.09.26-22.27.15:669][203]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
-[2019.09.26-22.27.15:669][203]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
-[2019.09.26-22.27.15:669][203]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 1024X512)
-[2019.09.26-22.27.15:669][203]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
-[2019.09.26-22.27.15:669][203]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
-[2019.09.26-22.27.15:669][203]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 64X32)
-[2019.09.26-22.27.15:669][203]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 64X64)
-[2019.09.26-22.27.15:669][203]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 64X64)
-[2019.09.26-22.27.15:669][203]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 128X64)
-[2019.09.26-22.27.15:669][203]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 128X128)
-[2019.09.26-22.27.15:669][203]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 128X128)
-[2019.09.26-22.27.15:869][203]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 32X32)
-[2019.09.26-22.27.15:869][203]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 128X16)
-[2019.09.26-22.27.15:869][203]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 1024X512)
-[2019.09.26-22.27.15:938][203]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
-[2019.09.26-22.27.15:986][203]Lightmass on HP2UA5321B1W: 13.0 sec total, 190 ms importing, 24 ms setup, 2.01 sec photons, 10.7 sec processing, 0 ms extra exporting [82/82 mappings]. Threads: 1:15 min total, 45.2 sec processing.
-[2019.09.26-22.27.15:988][203]LogStaticLightingSystem: ThirdPersonExampleMap_BuiltData storing lightmap data for 71 meshes in 6 LightmapResourceClusters (11.8 Meshes per cluster).
-[2019.09.26-22.27.16:013][203]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
-[2019.09.26-22.27.16:022][203]LogStaticLightingSystem: Illumination: 33.2 sec (1.46 sec encoding lightmaps, 263 ms encoding shadowmaps)
-[2019.09.26-22.27.16:022][203]LogStaticLightingSystem: Lightmap texture memory:  8.1 MB (8.0 MB streaming, 0.0 MB non-streaming), 10 textures
-[2019.09.26-22.27.16:022][203]LogStaticLightingSystem: Shadowmap texture memory: 2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
-[2019.09.26-22.27.16:281][203]DumpUnbuiltLightIteractions
-[2019.09.26-22.27.16:281][203]Lights with unbuilt interactions: 0
-[2019.09.26-22.27.16:281][203]
-[2019.09.26-22.27.16:281][203]Primitives with unbuilt interactions: 0
-[2019.09.26-22.27.16:286][203]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.09.26-22.27.16:369][204]Cmd: MAP CHECK NOTIFYRESULTS
-[2019.09.26-22.27.16:369][204]MapCheck: New page: ThirdPersonExampleMap - Sep 26, 2019, 2:27:16 PM
-[2019.09.26-22.27.16:375][204]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 5.885ms to complete.
-[2019.09.26-22.28.14:150][892]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-22.28.28:738][350]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-22.29.40:991][742]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-22.29.53:190][904]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-22.30.05:645][110]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-22.32.25:336][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
-[2019.09.26-22.32.25:517][547]LogSavePackage: Moving '../../../../../../Users/EKUStudent/Documents/UnrealProjects/ElectricAvenue/Saved/ThirdPersonExampleMap_Auto3592D7F4E4E2467E8196E1695C94D2D4D.tmp' to '../../../../../../Users/EKUStudent/Documents/UnrealProjects/ElectricAvenue/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
-[2019.09.26-22.32.25:520][547]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.205
-[2019.09.26-22.32.25:520][547]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.205
-[2019.09.26-22.41.27:409][496]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-22.41.27:588][515]LogActorFactory: Actor Factory created Plane
-[2019.09.26-22.41.27:913][544]LogActorFactory: Actor Factory created Plane
-[2019.09.26-22.41.53:239][994]Cmd: DELETE
-[2019.09.26-22.41.53:239][994]Cmd: ACTOR DELETE
-[2019.09.26-22.41.53:258][994]LogEditorActor: Deleted Actor: StaticMeshActor
-[2019.09.26-22.41.53:281][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
-[2019.09.26-22.41.53:282][994]LogEditorActor: Deleted 1 Actors (0.033 secs)
-[2019.09.26-22.42.17:923][354]Cmd: DELETE
-[2019.09.26-22.42.17:923][354]Cmd: ACTOR DELETE
-[2019.09.26-22.42.17:927][354]LogEditorActor: Deleted Actor: Brush
-[2019.09.26-22.42.17:949][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
-[2019.09.26-22.42.17:952][354]LogEditorActor: Deleted 1 Actors (0.029 secs)
-[2019.09.26-22.42.19:361][487]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
-[2019.09.26-22.42.21:106][639]Cmd: DELETE
-[2019.09.26-22.42.21:106][639]Cmd: ACTOR DELETE
-[2019.09.26-22.42.21:109][639]LogEditorActor: Deleted Actor: Brush
-[2019.09.26-22.42.21:132][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
-[2019.09.26-22.42.21:134][639]LogEditorActor: Deleted 1 Actors (0.027 secs)
-[2019.09.26-22.42.22:660][779]Cmd: DELETE
-[2019.09.26-22.42.22:660][779]Cmd: ACTOR DELETE
-[2019.09.26-22.42.22:663][779]LogEditorActor: Deleted Actor: Brush
-[2019.09.26-22.42.22:689][779]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
-[2019.09.26-22.42.22:690][779]LogEditorActor: Deleted 1 Actors (0.030 secs)
-[2019.09.26-22.42.24:571][958]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.09.26-22.42.25:441][ 62]MapCheck: New page: Map Check
-[2019.09.26-22.42.25:447][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.09.26-22.42.25:452][ 62]LightingResults: New page: Lighting Build - Sep 26, 2019, 2:42:25 PM
-[2019.09.26-22.42.25:461][ 62]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
-[2019.09.26-22.42.25:463][ 62]LogSwarmInterface: [OpenConnection] Connecting to agent ...
-[2019.09.26-22.42.25:463][ 62]LogSwarmInterface: [TryOpenConnection] Testing the Agent
-[2019.09.26-22.42.25:463][ 62]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
-[2019.09.26-22.42.25:463][ 62]LogSwarmInterface: [TryOpenConnection] Local Process ID is 6464
-[2019.09.26-22.42.30:060][ 62]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
-[2019.09.26-22.42.30:060][ 62]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
-[2019.09.26-22.42.30:060][ 62]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
-[2019.09.26-22.42.30:060][ 62]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
-[2019.09.26-22.42.30:060][ 62]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
-[2019.09.26-22.42.30:212][ 62]LogEditorBuildUtils: Build time 0:04
-[2019.09.26-22.42.30:232][ 63]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.09.26-22.42.30:288][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
-[2019.09.26-22.42.30:470][ 63]LogSavePackage: Moving '../../../../../../Users/EKUStudent/Documents/UnrealProjects/ElectricAvenue/Saved/ThirdPersonExampleMap_Auto4506A55174112EEA822A39D8721DD33BA.tmp' to '../../../../../../Users/EKUStudent/Documents/UnrealProjects/ElectricAvenue/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
-[2019.09.26-22.42.30:475][ 63]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.210
-[2019.09.26-22.42.30:475][ 63]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.210
-[2019.09.26-22.42.30:513][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
-[2019.09.26-22.42.42:383][111]Job is a success!
-[2019.09.26-22.42.42:406][112]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.09.26-22.42.42:439][112]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
-[2019.09.26-22.42.42:439][112]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
-[2019.09.26-22.42.42:439][112]LogVolumetricLightmapImport:      BrickData 235x5x5 = 0.2Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
-[2019.09.26-22.42.42:439][112]LogVolumetricLightmapImport:      Bricks at Level
-[2019.09.26-22.42.42:439][112]LogVolumetricLightmapImport:          0: 2.1% covering 100.0% of volume
-[2019.09.26-22.42.42:439][112]LogVolumetricLightmapImport:          1: 8.5% covering 6.3% of volume
-[2019.09.26-22.42.42:439][112]LogVolumetricLightmapImport:          2: 89.4% covering 1.0% of volume
-[2019.09.26-22.42.43:910][112]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
-[2019.09.26-22.42.43:910][112]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
-[2019.09.26-22.42.43:910][112]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
-[2019.09.26-22.42.43:910][112]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
-[2019.09.26-22.42.43:910][112]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
-[2019.09.26-22.42.43:910][112]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
-[2019.09.26-22.42.43:910][112]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 1024X512)
-[2019.09.26-22.42.43:910][112]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
-[2019.09.26-22.42.43:910][112]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
-[2019.09.26-22.42.43:910][112]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 64X32)
-[2019.09.26-22.42.43:910][112]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 64X64)
-[2019.09.26-22.42.43:910][112]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 64X64)
-[2019.09.26-22.42.44:110][112]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 32X32)
-[2019.09.26-22.42.44:110][112]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 1024X512)
-[2019.09.26-22.42.44:182][112]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 1024X1024)
-[2019.09.26-22.42.44:188][112]LogStaticLightingSystem: ThirdPersonExampleMap_BuiltData storing lightmap data for 70 meshes in 5 LightmapResourceClusters (14.0 Meshes per cluster).
-[2019.09.26-22.42.44:214][112]Lightmass on HP2UA5321B1W: 13.2 sec total, 179 ms importing, 31 ms setup, 1.96 sec photons, 11.0 sec processing, 0 ms extra exporting [70/70 mappings]. Threads: 1:17 min total, 44.4 sec processing.
-[2019.09.26-22.42.44:218][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
-[2019.09.26-22.42.44:224][112]LogStaticLightingSystem: Illumination: 18.7 sec (1.37 sec encoding lightmaps, 266 ms encoding shadowmaps)
-[2019.09.26-22.42.44:224][112]LogStaticLightingSystem: Lightmap texture memory:  8.0 MB (8.0 MB streaming, 0.0 MB non-streaming), 8 textures
-[2019.09.26-22.42.44:224][112]LogStaticLightingSystem: Shadowmap texture memory: 2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 3 textures
-[2019.09.26-22.42.45:074][112]DumpUnbuiltLightIteractions
-[2019.09.26-22.42.45:074][112]Lights with unbuilt interactions: 0
-[2019.09.26-22.42.45:074][112]
-[2019.09.26-22.42.45:074][112]Primitives with unbuilt interactions: 0
-[2019.09.26-22.42.45:078][112]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.09.26-22.42.45:149][113]Cmd: MAP CHECK NOTIFYRESULTS
-[2019.09.26-22.42.45:149][113]MapCheck: New page: ThirdPersonExampleMap - Sep 26, 2019, 2:42:45 PM
-[2019.09.26-22.42.45:149][113]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.651ms to complete.
-[2019.09.26-22.43.09:366][453]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
-[2019.09.26-22.43.13:713][868]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.09.26-22.43.15:354][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.09.26-22.43.18:149][343]LogSlate: Window 'Details' being destroyed
-[2019.09.26-22.43.19:763][499]LogEditorViewport: Clicking on Actor (LMB): EnergyTV_C (EnergyTV)
-[2019.09.26-22.43.21:389][652]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-22.43.34:745][972]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.09.26-22.43.50:417][380]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
-[2019.09.26-22.43.52:071][522]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
-[2019.09.26-22.43.54:822][766]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
-[2019.09.26-22.44.03:410][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-22.44.05:563][681]Cmd: BRUSH ADD SELECTNEWBRUSH
-[2019.09.26-22.44.11:200][225]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-22.44.21:088][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.09.26-22.44.24:382][181]LogTexture: Display: Building textures: water_bump (AutoDXT, 256X256)
-[2019.09.26-22.44.24:382][181]LogTexture: Display: Building textures: water_bump2 (AutoDXT, 256X256)
-[2019.09.26-22.44.24:382][181]LogTexture: Display: Building textures: ocean_normal (BC5, 1024X1024)
-[2019.09.26-22.44.24:382][181]LogTexture: Display: Building textures: foam2 (AutoDXT, 2048X2048)
-[2019.09.26-22.44.24:382][181]LogMaterial: Display: Missing cached shader map for material CartoonWater, compiling. 
-[2019.09.26-22.44.24:471][181]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
-[2019.09.26-22.44.24:535][181]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.09.26-22.45.53:568][699]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-22.46.02:652][462]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-22.46.02:988][479]LogAssetEditorManager: Opening Asset editor for Material /Game/AdvancedCelShader/Water/Materials/CartoonWater.CartoonWater
-[2019.09.26-22.46.02:996][479]LogMaterial: Display: Missing cached shader map for material CartoonWater, compiling. 
-[2019.09.26-22.46.03:119][479]LogMaterial: Display: Missing cached shader map for material CartoonWater, compiling. 
-[2019.09.26-22.46.03:165][479]LogMaterial: Display: Missing cached shader map for material CartoonWater, compiling. 
-[2019.09.26-22.46.03:236][479]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
-[2019.09.26-22.46.03:244][479]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_6, compiling. 
-[2019.09.26-22.46.03:249][479]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
-[2019.09.26-22.46.03:256][479]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_5, compiling. 
-[2019.09.26-22.46.03:261][479]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_10, compiling. 
-[2019.09.26-22.46.03:270][479]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_11, compiling. 
-[2019.09.26-22.46.03:276][479]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_12, compiling. 
-[2019.09.26-22.46.03:282][479]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_13, compiling. 
-[2019.09.26-22.46.37:332][411]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-22.46.57:117][486]MaterialEditorStats: Base pass shader: 553 instructions
-[2019.09.26-22.46.57:117][486]MaterialEditorStats: Base pass shader with Surface Lightmap: 594 instructions
-[2019.09.26-22.46.57:117][486]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 639 instructions
-[2019.09.26-22.46.57:117][486]MaterialEditorStats: Base pass vertex shader: 136 instructions
-[2019.09.26-22.46.57:117][486]MaterialEditorStats: Texture samplers: 11/16
-[2019.09.26-22.46.57:117][486]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(12)
-[2019.09.26-22.46.57:117][486]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
-[2019.09.26-22.47.27:049][373]Cmd: DELETE
-[2019.09.26-22.47.27:049][373]Cmd: ACTOR DELETE
-[2019.09.26-22.47.27:053][373]LogEditorActor: Deleted Actor: Brush
-[2019.09.26-22.47.27:075][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
-[2019.09.26-22.47.27:077][373]LogEditorActor: Deleted 1 Actors (0.027 secs)
-[2019.09.26-22.47.30:125][656]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-22.47.42:242][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-22.47.44:910][ 89]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
-[2019.09.26-22.47.45:787][165]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
-[2019.09.26-22.47.52:380][790]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-22.52.33:651][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
-[2019.09.26-22.52.33:883][749]LogSavePackage: Moving '../../../../../../Users/EKUStudent/Documents/UnrealProjects/ElectricAvenue/Saved/ThirdPersonExampleMap_Auto5945317F14FEAE15555793C9C2D7ED51D.tmp' to '../../../../../../Users/EKUStudent/Documents/UnrealProjects/ElectricAvenue/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap'
-[2019.09.26-22.52.33:886][749]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.260
-[2019.09.26-22.52.33:886][749]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.260
-[2019.09.26-22.59.37:842][232]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-22.59.41:047][454]LogTexture: Display: Building textures: paint_normal_normal (BC5, 2048X2048)
-[2019.09.26-22.59.41:048][454]LogMaterial: Display: Missing cached shader map for material CelShader, compiling. 
-[2019.09.26-23.00.02:537][551]LogMaterial: Display: Missing cached shader map for material CelShader, compiling. 
-[2019.09.26-23.00.29:614][ 23]LogTexture: Display: Building textures: burlap (AutoDXT, 1024X1024)
-[2019.09.26-23.00.29:614][ 23]LogMaterial: Display: Missing cached shader map for material CelShader, compiling. 
-[2019.09.26-23.00.38:498][420]LogTexture: Display: Building textures: sketch_mask (AutoDXT, 256X256)
-[2019.09.26-23.00.38:498][420]LogMaterial: Display: Missing cached shader map for material CelShader, compiling. 
-[2019.09.26-23.00.48:308][ 31]LogMaterial: Display: Missing cached shader map for material CelShader, compiling. 
-[2019.09.26-23.00.59:462][673]LogMaterial: Display: Missing cached shader map for material CelShader, compiling. 
-[2019.09.26-23.01.08:590][134]LogMaterial: Display: Missing cached shader map for material CelShader, compiling. 
-[2019.09.26-23.01.18:085][573]LogTexture: Display: Building textures: brushstrokes (AutoDXT, 2048X2048)
-[2019.09.26-23.01.18:085][573]LogMaterial: Display: Missing cached shader map for material CelShader, compiling. 
-[2019.09.26-23.01.39:178][446]LogMaterial: Display: Missing cached shader map for material CelShader, compiling. 
-[2019.09.26-23.01.47:693][864]LogMaterial: Display: Missing cached shader map for material CelShader, compiling. 
-[2019.09.26-23.01.52:297][165]LogMaterial: Display: Missing cached shader map for material CelShader, compiling. 
-[2019.09.26-23.01.57:100][663]LogTexture: Display: Building textures: flatwhite (AutoDXT, 64X64)
-[2019.09.26-23.01.57:100][663]LogMaterial: Display: Missing cached shader map for material CelShader, compiling. 
-[2019.09.26-23.02.16:824][917]LogMaterial: Display: Missing cached shader map for material CelShader, compiling. 
-[2019.09.26-23.03.08:024][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
-[2019.09.26-23.03.08:216][239]LogSavePackage: Moving '../../../../../../Users/EKUStudent/Documents/UnrealProjects/ElectricAvenue/Saved/ThirdPersonExampleMap_Auto68877E562473B6F9EB696B499CF0BEC1B.tmp' to '../../../../../../Users/EKUStudent/Documents/UnrealProjects/ElectricAvenue/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto6.umap'
-[2019.09.26-23.03.08:218][239]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.218
-[2019.09.26-23.03.08:218][239]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.218
-[2019.09.26-23.04.33:766][580]LogMaterial: Display: Missing cached shader map for material OutlinePostProcess, compiling. 
-[2019.09.26-23.04.33:781][580]LogMaterial: Display: Missing cached shader map for material Material_17, compiling. 
-[2019.09.26-23.04.33:782][580]LogMaterial: Warning: /Engine/Transient.Material_17 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
-[2019.09.26-23.04.33:782][580]LogMaterial: 	Only transparent or postprocess materials can read from scene depth.
-[2019.09.26-23.05.02:260][542]LogSlate: Window 'CartoonWater' being destroyed
-[2019.09.26-23.05.16:123][940]LogSlate: Window 'Message' being destroyed
-[2019.09.26-23.13.08:293][302]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
-[2019.09.26-23.13.08:489][302]LogSavePackage: Moving '../../../../../../Users/EKUStudent/Documents/UnrealProjects/ElectricAvenue/Saved/ThirdPersonExampleMap_Auto7C4B2C7ED4DC442DAE34F30A315AB63DD.tmp' to '../../../../../../Users/EKUStudent/Documents/UnrealProjects/ElectricAvenue/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto7.umap'
-[2019.09.26-23.13.08:491][302]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.224
-[2019.09.26-23.13.08:491][302]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.224
-[2019.09.26-23.18.44:226][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-23.18.55:733][225]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-23.19.01:699][575]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-23.19.10:023][991]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-23.19.14:931][457]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-23.19.19:629][914]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-23.19.33:025][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-23.19.39:463][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-23.19.51:201][410]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-23.19.54:739][744]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-23.20.17:154][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-23.20.21:271][123]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
-[2019.09.26-23.20.23:447][302]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
-[2019.09.26-23.20.33:326][825]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-23.20.41:594][563]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-23.20.46:700][907]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-23.20.57:397][345]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-23.21.03:844][776]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-23.21.19:628][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-23.21.21:804][158]LogTemp: Repeating last play command: Selected Viewport
-[2019.09.26-23.21.21:816][158]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
-[2019.09.26-23.21.21:819][158]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2019.09.26-23.21.21:819][158]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 26, 2019, 3:21:21 PM)
-[2019.09.26-23.21.21:834][158]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
-[2019.09.26-23.21.21:851][158]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016087s)
-[2019.09.26-23.21.21:851][158]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
-[2019.09.26-23.21.21:852][158]LogPlayLevel: PIE: World Init took: (0.001092s)
-[2019.09.26-23.21.21:852][158]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017539s)
-[2019.09.26-23.21.21:879][158]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
-[2019.09.26-23.21.21:892][158]LogInit: XAudio2 using 'CintiqPro24PT (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
-[2019.09.26-23.21.21:906][158]LogInit: FAudioDevice initialized.
-[2019.09.26-23.21.21:955][158]LogLoad: Game class is 'ThirdPersonGameMode_C'
-[2019.09.26-23.21.21:968][158]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.09.26-19.21.21
-[2019.09.26-23.21.21:970][158]LogWorld: Bringing up level for play took: 0.006204
-[2019.09.26-23.21.22:007][158]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
-[2019.09.26-23.21.22:010][158]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.212
-[2019.09.26-23.21.22:010][158]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
-[2019.09.26-23.21.30:477][981]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
-[2019.09.26-23.21.30:480][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.09.26-23.21.30:515][981]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2019.09.26-23.21.30:515][981]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
-[2019.09.26-23.21.30:545][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.09.26-23.21.30:550][981]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
-[2019.09.26-23.21.30:580][982]LogPlayLevel: Display: Destroying online subsystem :Context_14
-[2019.09.26-23.21.34:588][334]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
-[2019.09.26-23.21.36:643][503]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-23.21.42:015][696]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-23.21.55:313][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-23.22.13:826][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-23.22.19:511][216]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-23.22.36:762][244]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/AdvancedCelShader/CelShader/Presets/CelShaderVoltron.CelShaderVoltron
-[2019.09.26-23.22.45:918][779]LogRenderer: Reallocating scene render targets to support 1336x920 Format 10 NumSamples 1 (Frame:4).
-[2019.09.26-23.22.46:141][786]LogSlate: Window 'CelShaderVoltron' being destroyed
-[2019.09.26-23.23.18:146][901]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-23.23.18:578][927]LogTemp: Repeating last play command: Selected Viewport
-[2019.09.26-23.23.18:592][927]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
-[2019.09.26-23.23.18:592][927]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2019.09.26-23.23.18:592][927]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 26, 2019, 3:23:18 PM)
-[2019.09.26-23.23.18:592][927]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
-[2019.09.26-23.23.18:606][927]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014381s)
-[2019.09.26-23.23.18:607][927]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
-[2019.09.26-23.23.18:607][927]LogPlayLevel: PIE: World Init took: (0.001083s)
-[2019.09.26-23.23.18:607][927]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015676s)
-[2019.09.26-23.23.18:631][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
-[2019.09.26-23.23.18:643][927]LogInit: XAudio2 using 'CintiqPro24PT (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
-[2019.09.26-23.23.18:653][927]LogInit: FAudioDevice initialized.
-[2019.09.26-23.23.18:680][927]LogLoad: Game class is 'ThirdPersonGameMode_C'
-[2019.09.26-23.23.18:684][927]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.09.26-19.23.18
-[2019.09.26-23.23.18:684][927]LogWorld: Bringing up level for play took: 0.003114
-[2019.09.26-23.23.18:697][927]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.9
-[2019.09.26-23.23.18:697][927]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
-[2019.09.26-23.23.40:072][291]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
-[2019.09.26-23.23.40:072][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.09.26-23.23.40:116][291]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2019.09.26-23.23.40:116][291]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
-[2019.09.26-23.23.40:161][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.09.26-23.23.40:164][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
-[2019.09.26-23.23.40:197][292]LogPlayLevel: Display: Destroying online subsystem :Context_16
-[2019.09.26-23.23.47:823][726]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-23.24.04:333][709]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.09.26-23.24.06:899][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
-[2019.09.26-23.24.06:938][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
-[2019.09.26-23.24.07:138][859]LogSavePackage: Moving '../../../../../../Users/EKUStudent/Documents/UnrealProjects/ElectricAvenue/Saved/ThirdPersonExampleMap898F85FC486429E7783A0CB5D7138B71.tmp' to '../../../../../../Users/EKUStudent/Documents/UnrealProjects/ElectricAvenue/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
-[2019.09.26-23.24.07:164][859]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.248
-[2019.09.26-23.24.07:514][859]LogSavePackage: Moving '../../../../../../Users/EKUStudent/Documents/UnrealProjects/ElectricAvenue/Saved/ThirdPersonExampleMap_BuiltData5CFD69324E891ABE6CA482B182FFEDE7.tmp' to '../../../../../../Users/EKUStudent/Documents/UnrealProjects/ElectricAvenue/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.11.07-22.11.21:319][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.07-22.11.21:319][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.07-22.11.21:319][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/EKUStudent/Documents/Unreal Projects/ElectricAvenue/Saved/Config/Windows/Engine.ini]
+[2019.11.07-22.11.21:319][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.07-22.11.21:319][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/EKUStudent/Documents/Unreal Projects/ElectricAvenue/Saved/Config/Windows/Engine.ini]
+[2019.11.07-22.11.21:319][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/EKUStudent/Documents/Unreal Projects/ElectricAvenue/Saved/Config/Windows/Engine.ini]
+[2019.11.07-22.11.21:319][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.07-22.11.21:319][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.07-22.11.21:319][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.07-22.11.21:319][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.07-22.11.21:319][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.07-22.11.21:319][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.07-22.11.21:319][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.07-22.11.21:319][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.07-22.11.21:319][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.07-22.11.21:319][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.07-22.11.21:319][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.07-22.11.21:319][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.07-22.11.21:319][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.07-22.11.21:319][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/EKUStudent/Documents/Unreal Projects/ElectricAvenue/Saved/Config/Windows/Engine.ini]
+[2019.11.07-22.11.21:319][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.07-22.11.21:319][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.07-22.11.21:319][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.07-22.11.21:319][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.07-22.11.21:319][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.07-22.11.21:319][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.07-22.11.21:319][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.07-22.11.21:319][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.07-22.11.21:319][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.07-22.11.21:319][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.07-22.11.21:319][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.07-22.11.21:319][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.07-22.11.21:319][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.07-22.11.21:319][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/EKUStudent/Documents/Unreal Projects/ElectricAvenue/Saved/Config/Windows/Engine.ini]
+[2019.11.07-22.11.21:319][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/EKUStudent/Documents/Unreal Projects/ElectricAvenue/Saved/Config/Windows/Engine.ini]
+[2019.11.07-22.11.21:322][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/EKUStudent/Documents/Unreal Projects/ElectricAvenue/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-22.11.21:322][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.07-22.11.21:322][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.07-22.11.21:322][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/EKUStudent/Documents/Unreal Projects/ElectricAvenue/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-22.11.21:322][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.07-22.11.21:322][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/EKUStudent/Documents/Unreal Projects/ElectricAvenue/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-22.11.21:322][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.07-22.11.21:322][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.07-22.11.21:322][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.07-22.11.21:322][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.07-22.11.21:322][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.07-22.11.21:322][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.07-22.11.21:322][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.07-22.11.21:322][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.07-22.11.21:322][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.07-22.11.21:322][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.07-22.11.21:322][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.07-22.11.21:322][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.07-22.11.21:322][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.07-22.11.21:322][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.07-22.11.21:322][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.07-22.11.21:322][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.07-22.11.21:322][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.07-22.11.21:322][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.07-22.11.21:322][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/EKUStudent/Documents/Unreal Projects/ElectricAvenue/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-22.11.21:322][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.07-22.11.21:322][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.07-22.11.21:322][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.07-22.11.21:322][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.07-22.11.21:322][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.07-22.11.21:322][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.07-22.11.21:322][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.07-22.11.21:322][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.07-22.11.21:322][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.07-22.11.21:322][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.07-22.11.21:322][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.07-22.11.21:322][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.07-22.11.21:322][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.07-22.11.21:322][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.07-22.11.21:322][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.07-22.11.21:322][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.07-22.11.21:322][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.07-22.11.21:322][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.07-22.11.21:322][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.07-22.11.21:322][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.07-22.11.21:322][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.07-22.11.21:322][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.07-22.11.21:322][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.07-22.11.21:322][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.07-22.11.21:322][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.07-22.11.21:323][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.07-22.11.21:323][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.07-22.11.21:323][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.07-22.11.21:323][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.07-22.11.21:323][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.07-22.11.21:323][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/EKUStudent/Documents/Unreal Projects/ElectricAvenue/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-22.11.21:323][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.07-22.11.21:323][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.07-22.11.21:323][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.07-22.11.21:323][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.07-22.11.21:323][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.07-22.11.21:323][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.07-22.11.21:323][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.07-22.11.21:323][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.07-22.11.21:323][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/EKUStudent/Documents/Unreal Projects/ElectricAvenue/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-22.11.21:323][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.07-22.11.21:323][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.07-22.11.21:323][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.07-22.11.21:323][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.07-22.11.21:323][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.07-22.11.21:323][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.07-22.11.21:323][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.07-22.11.21:323][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.07-22.11.21:323][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.07-22.11.21:323][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.07-22.11.21:323][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.07-22.11.21:323][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.07-22.11.21:323][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.07-22.11.21:323][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/EKUStudent/Documents/Unreal Projects/ElectricAvenue/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-22.11.21:323][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.07-22.11.21:323][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.07-22.11.21:323][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.07-22.11.21:323][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.07-22.11.21:331][  0]LogHAL: Display: Platform has ~ 16 GB [16920629248 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.11.07-22.11.21:331][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.07-22.11.21:331][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/EKUStudent/Documents/Unreal Projects/ElectricAvenue/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/EKUStudent/Documents/Unreal Projects/ElectricAvenue/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/EKUStudent/Documents/Unreal Projects/ElectricAvenue/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/EKUStudent/Documents/Unreal Projects/ElectricAvenue/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.07-22.11.21:331][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/EKUStudent/Documents/Unreal Projects/ElectricAvenue/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-22.11.21:331][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.07-22.11.21:332][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.07-22.11.21:332][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.07-22.11.21:332][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.07-22.11.21:332][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.07-22.11.21:332][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.07-22.11.21:332][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.07-22.11.21:332][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.07-22.11.21:332][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/EKUStudent/Documents/Unreal Projects/ElectricAvenue/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-22.11.21:332][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.07-22.11.21:332][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.07-22.11.21:332][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.07-22.11.21:332][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.07-22.11.21:332][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.07-22.11.21:332][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.07-22.11.21:332][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.07-22.11.21:332][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.07-22.11.21:332][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.07-22.11.21:332][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.07-22.11.21:332][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.07-22.11.21:332][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.07-22.11.21:332][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.07-22.11.21:332][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/EKUStudent/Documents/Unreal Projects/ElectricAvenue/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-22.11.21:332][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.07-22.11.21:332][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.07-22.11.21:332][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.07-22.11.21:332][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.07-22.11.21:332][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.07-22.11.21:332][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/EKUStudent/Documents/Unreal Projects/ElectricAvenue/Saved/Config/Windows/Engine.ini]
+[2019.11.07-22.11.21:332][  0]LogInit: Computer: HP2UA5502NTT
+[2019.11.07-22.11.21:332][  0]LogInit: User: EKUStudent
+[2019.11.07-22.11.21:332][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.11.07-22.11.21:332][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.11.07-22.11.21:332][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2019.11.07-22.11.21:332][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.07-22.11.21:332][  0]LogMemory: Process Physical Memory: 97.53 MB used, 97.53 MB peak
+[2019.11.07-22.11.21:332][  0]LogMemory: Process Virtual Memory: 92.52 MB used, 92.52 MB peak
+[2019.11.07-22.11.21:332][  0]LogMemory: Physical Memory: 5434.29 MB used,  10702.48 MB free, 16136.77 MB total
+[2019.11.07-22.11.21:332][  0]LogMemory: Virtual Memory: 4660.25 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.11.07-22.11.21:357][  0]LogInit: Using OS detected language (en-US).
+[2019.11.07-22.11.21:357][  0]LogInit: Using OS detected locale (en-US).
+[2019.11.07-22.11.21:358][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.11.07-22.11.21:535][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.07-22.11.21:562][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.07-22.11.21:562][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.07-22.11.21:728][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.07-22.11.21:728][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.07-22.11.21:821][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX TITAN Black' (Feature Level 11_0)
+[2019.11.07-22.11.21:821][  0]LogD3D11RHI:       6096/0/8068 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.11.07-22.11.21:824][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.07-22.11.21:824][  0]LogD3D11RHI:       0/0/8068 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.07-22.11.21:824][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.07-22.11.21:830][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.07-22.11.21:830][  0]LogD3D11RHI:     GPU DeviceId: 0x100c (for the marketing name, search the web for "GPU Device Id")
+[2019.11.07-22.11.21:830][  0]LogWindows: EnumDisplayDevices:
+[2019.11.07-22.11.21:830][  0]LogWindows:    0. 'NVIDIA GeForce GTX TITAN Black' (P:1 D:1)
+[2019.11.07-22.11.21:831][  0]LogWindows:    1. 'NVIDIA GeForce GTX TITAN Black' (P:0 D:0)
+[2019.11.07-22.11.21:831][  0]LogWindows:    2. 'NVIDIA GeForce GTX TITAN Black' (P:0 D:0)
+[2019.11.07-22.11.21:831][  0]LogWindows:    3. 'NVIDIA GeForce GTX TITAN Black' (P:0 D:0)
+[2019.11.07-22.11.21:832][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.11.07-22.11.21:832][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX TITAN Black
+[2019.11.07-22.11.21:832][  0]LogD3D11RHI:   Driver Version: 436.48 (internal:26.21.14.3648, unified:436.48)
+[2019.11.07-22.11.21:832][  0]LogD3D11RHI:      Driver Date: 9-26-2019
+[2019.11.07-22.11.21:832][  0]LogRHI: Texture pool is 4267 MB (70% of 6096 MB)
+[2019.11.07-22.11.21:903][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.07-22.11.21:908][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.07-22.11.21:908][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.07-22.11.21:908][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.07-22.11.21:916][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.11.07-22.11.22:254][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.07-22.11.22:273][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.07-22.11.22:289][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.07-22.11.22:304][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.07-22.11.22:320][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.07-22.11.22:335][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.07-22.11.22:350][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.07-22.11.22:365][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.07-22.11.22:377][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.07-22.11.22:470][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.07-22.11.22:470][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.07-22.11.22:470][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.07-22.11.22:470][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.07-22.11.22:470][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.07-22.11.22:471][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.07-22.11.22:471][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.07-22.11.22:471][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.07-22.11.22:471][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.07-22.11.22:471][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.07-22.11.22:471][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.07-22.11.22:471][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.07-22.11.22:471][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.07-22.11.22:471][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.07-22.11.22:471][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.07-22.11.22:471][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.07-22.11.22:471][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.07-22.11.22:471][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.07-22.11.22:473][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.07-22.11.22:528][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.07-22.11.22:528][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.07-22.11.22:552][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.07-22.11.22:552][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.07-22.11.22:566][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.07-22.11.22:584][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.07-22.11.22:597][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.07-22.11.22:610][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.07-22.11.22:656][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.07-22.11.22:656][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.07-22.11.22:656][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.07-22.11.22:667][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.07-22.11.22:762][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../../../Users/EKUStudent/Documents/Unreal Projects/ElectricAvenue/Intermediate/Shaders/WorkingDirectory/4712/).
+[2019.11.07-22.11.22:762][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/EKUStudent/AppData/Local/Temp/1/UnrealShaderWorkingDir/97BF16B7416C25B75A6134AE5C7EFC96/'.
+[2019.11.07-22.11.22:765][  0]LogXGEController: Cleaning working directory: C:/Users/EKUStudent/AppData/Local/Temp/1/UnrealXGEWorkingDir/
+[2019.11.07-22.11.22:765][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.07-22.11.22:765][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.07-22.11.22:765][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.07-22.11.23:333][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.07-22.11.23:403][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/EKUStudent/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.07-22.11.23:403][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/EKUStudent/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.11.07-22.11.23:403][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/EKUStudent/Documents/Unreal Projects/ElectricAvenue/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.07-22.11.23:403][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.07-22.11.23:404][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/EKUStudent/Documents/Unreal Projects/ElectricAvenue/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.07-22.11.23:404][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.07-22.11.23:417][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.07-22.11.23:417][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.07-22.11.23:417][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.07-22.11.23:429][  0]LogDerivedDataCache: Using Local data cache path C:/Users/EKUStudent/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.07-22.11.23:429][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.07-22.11.23:429][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.07-22.11.23:452][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.07-22.11.23:453][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.07-22.11.23:453][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.07-22.11.23:539][  0]LogAssetRegistry: FAssetRegistry took 0.0343 seconds to start up
+[2019.11.07-22.11.23:883][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.07-22.11.24:175][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.07-22.11.24:175][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.07-22.11.24:175][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.07-22.11.24:175][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.07-22.11.24:175][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.07-22.11.24:190][  0]LogNetVersion: ElectricAvenue 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 4231497916)
+[2019.11.07-22.11.24:620][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.032789 seconds
+[2019.11.07-22.11.24:626][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.11.07-22.11.24:626][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.11.07-22.11.24:626][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.07-22.11.25:837][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.07-22.11.25:863][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.07-22.11.25:993][  0]SourceControl: Source control is disabled
+[2019.11.07-22.11.25:994][  0]SourceControl: Source control is disabled
+[2019.11.07-22.11.25:995][  0]SourceControl: Source control is disabled
+[2019.11.07-22.11.25:997][  0]SourceControl: Source control is disabled
+[2019.11.07-22.11.26:170][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.07-22.11.26:251][  0]LogOcInput: OculusInput pre-init called
+[2019.11.07-22.11.26:892][  0]LogEngine: Initializing Engine...
+[2019.11.07-22.11.26:893][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.07-22.11.26:894][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.11.07-22.11.27:112][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.07-22.11.27:140][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.07-22.11.27:154][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.07-22.11.27:178][  0]LogInit: FAudioDevice initialized.
+[2019.11.07-22.11.27:179][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.07-22.11.27:380][  0]LogDerivedDataCache: Saved boot cache 0.20s 71MB C:/Users/EKUStudent/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.07-22.11.27:390][  0]LogInit: Texture streaming: Enabled
+[2019.11.07-22.11.27:420][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.07-22.11.27:527][  0]LogInit: Transaction tracking system initialized
+[2019.11.07-22.11.27:560][  0]BlueprintLog: New page: Editor Load
+[2019.11.07-22.11.27:794][  0]LocalizationService: Localization service is disabled
+[2019.11.07-22.11.28:175][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.07-22.11.28:175][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.07-22.11.28:224][  0]LogFileCache: Scanning file cache for directory 'C:/Users/EKUStudent/Documents/Unreal Projects/ElectricAvenue/Content/' took 0.04s
+[2019.11.07-22.11.28:395][  0]SourceControl: Source control is disabled
+[2019.11.07-22.11.28:395][  0]Cmd: MAP LOAD FILE="../../../../../../Users/EKUStudent/Documents/Unreal Projects/ElectricAvenue/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.07-22.11.28:395][  0]LightingResults: New page: Lighting Build
+[2019.11.07-22.11.28:399][  0]MapCheck: New page: Map Check
+[2019.11.07-22.11.28:399][  0]LightingResults: New page: Lighting Build
+[2019.11.07-22.11.28:422][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2019.11.07-22.11.29:138][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.11.07-22.11.29:277][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.07-22.11.29:305][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2019.11.07-22.11.29:305][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.07-22.11.29:306][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.217ms to complete.
+[2019.11.07-22.11.29:306][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.912
+[2019.11.07-22.11.29:399][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-22.11.29:407][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-22.11.29:415][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-22.11.29:423][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-22.11.29:431][  0]LogCollectionManager: Loaded 0 collections in 0.002706 seconds
+[2019.11.07-22.11.29:448][  0]LogFileCache: Scanning file cache for directory 'C:/Users/EKUStudent/Documents/Unreal Projects/ElectricAvenue/Saved/Collections/' took 0.01s
+[2019.11.07-22.11.29:448][  0]LogFileCache: Scanning file cache for directory 'C:/Users/EKUStudent/Documents/Unreal Projects/ElectricAvenue/Content/Developers/EKUStudent/Collections/' took 0.00s
+[2019.11.07-22.11.29:448][  0]LogFileCache: Scanning file cache for directory 'C:/Users/EKUStudent/Documents/Unreal Projects/ElectricAvenue/Content/Collections/' took 0.00s
+[2019.11.07-22.11.29:448][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.11.07-22.11.29:458][  0]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 2732 classes and 659 folders.
+[2019.11.07-22.11.29:466][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.07-22.11.29:468][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-22.11.29:468][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-22.11.29:469][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-22.11.29:469][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-22.11.29:470][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-22.11.29:470][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-22.11.29:471][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-22.11.29:471][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-22.11.29:471][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-22.11.29:472][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-22.11.29:472][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-22.11.29:473][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-22.11.29:473][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-22.11.29:473][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-22.11.29:474][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-22.11.29:474][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-22.11.29:475][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-22.11.29:475][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-22.11.29:475][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-22.11.29:476][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-22.11.29:476][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-22.11.29:477][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-22.11.29:477][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-22.11.29:478][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-22.11.29:478][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-22.11.29:478][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.07-22.11.29:513][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.11.07-22.11.29:538][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.11.07-22.11.29:662][  0]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.07-22.11.29:664][  0]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.07-22.11.29:668][  0]LogSlate: Took 0.000108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.07-22.11.29:733][  0]LogRenderer: Reallocating scene render targets to support 1196x628 Format 10 NumSamples 1 (Frame:1).
+[2019.11.07-22.11.29:944][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.07-22.11.29:944][  0]LogLoad: (Engine Initialization) Total time: 10.86 seconds
+[2019.11.07-22.11.29:944][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.07-22.11.30:003][  0]LogAssetRegistry: Asset discovery search completed in 6.4862 seconds
+[2019.11.07-22.11.30:006][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.11.07-22.11.30:006][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000091 seconds (updated 0 objects)
+[2019.11.07-22.11.30:008][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.07-22.11.30:035][  0]LogSlate: Took 0.000115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.07-22.11.31:295][  4]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.07-22.11.34:969][ 15]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2019.11.07-22.11.39:078][383]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.07-22.11.41:424][630]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/UserInterface.UserInterface
+[2019.11.07-22.11.41:685][630]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2019.11.07-22.11.42:540][630]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2019.11.07-22.11.42:549][630]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.07-22.12.30:414][658]LogSlate: Window 'UserInterface' being destroyed
+[2019.11.07-22.12.34:046][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   7.55ms
+[2019.11.07-22.12.34:059][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UserInterface" FILE="../../../../../../Users/EKUStudent/Documents/Unreal Projects/ElectricAvenue/Content/UI/UserInterface.uasset" SILENT=true
+[2019.11.07-22.12.34:086][ 76]LogSavePackage: Moving '../../../../../../Users/EKUStudent/Documents/Unreal Projects/ElectricAvenue/Saved/UserInterface7B00B4154A2093468BE1269FE0E1C290.tmp' to '../../../../../../Users/EKUStudent/Documents/Unreal Projects/ElectricAvenue/Content/UI/UserInterface.uasset'
+[2019.11.07-22.12.35:429][219]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.07-22.12.35:445][219]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.07-22.12.35:445][219]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.11.07-22.12.35:449][219]LogPlayLevel: [PlayLevel] Compiling UserInterface before play...
+[2019.11.07-22.12.35:691][219]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2019.11.07-22.12.35:691][219]LogPlayLevel: PlayLevel: Blueprint regeneration took 245 ms (1 blueprints)
+[2019.11.07-22.12.35:691][219]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 7, 2019, 12:12:35 PM)
+[2019.11.07-22.12.35:704][219]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.11.07-22.12.35:749][219]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044731s)
+[2019.11.07-22.12.35:750][219]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.11.07-22.12.35:750][219]LogPlayLevel: PIE: World Init took: (0.000986s)
+[2019.11.07-22.12.35:750][219]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.046118s)
+[2019.11.07-22.12.35:790][219]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2019.11.07-22.12.35:798][219]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.07-22.12.35:820][219]LogInit: FAudioDevice initialized.
+[2019.11.07-22.12.35:873][219]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.07-22.12.35:878][219]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.11.07-17.12.35
+[2019.11.07-22.12.35:879][219]LogWorld: Bringing up level for play took: 0.005595
+[2019.11.07-22.12.35:895][219]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.11.07-22.12.35:898][219]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.11.07-22.12.35:899][219]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.11.07-22.12.35:900][219]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.367
+[2019.11.07-22.12.35:900][219]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.07-22.12.49:984][760]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.07-22.12.49:984][760]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-22.12.50:020][760]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.07-22.12.50:021][760]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.07-22.12.50:063][760]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-22.12.50:125][760]LogUObjectHash: Compacting FUObjectHashTables data took   6.31ms
+[2019.11.07-22.12.50:157][761]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.11.07-22.12.50:622][810]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.07-22.13.19:544][240]Cmd: TRANSACTION UNDO
+[2019.11.07-22.13.19:544][240]LogEditorTransaction: Undo Edit Padding
+[2019.11.07-22.14.31:684][866]BlueprintLog: New page: Compile UserInterface
+[2019.11.07-22.14.31:763][866]LogUObjectHash: Compacting FUObjectHashTables data took   5.59ms
+[2019.11.07-22.14.32:103][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UserInterface" FILE="../../../../../../Users/EKUStudent/Documents/Unreal Projects/ElectricAvenue/Content/UI/UserInterface.uasset" SILENT=true
+[2019.11.07-22.14.32:128][896]LogSavePackage: Moving '../../../../../../Users/EKUStudent/Documents/Unreal Projects/ElectricAvenue/Saved/UserInterface30BBEA14417B0C4835B3168FA86A8752.tmp' to '../../../../../../Users/EKUStudent/Documents/Unreal Projects/ElectricAvenue/Content/UI/UserInterface.uasset'
+[2019.11.07-22.14.32:946][976]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.07-22.14.32:961][976]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.07-22.14.32:961][976]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.07-22.14.32:962][976]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 7, 2019, 12:14:32 PM)
+[2019.11.07-22.14.32:962][976]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.11.07-22.14.32:999][976]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037549s)
+[2019.11.07-22.14.33:000][976]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.11.07-22.14.33:001][976]LogPlayLevel: PIE: World Init took: (0.001423s)
+[2019.11.07-22.14.33:001][976]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.039202s)
+[2019.11.07-22.14.33:043][976]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2019.11.07-22.14.33:050][976]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.07-22.14.33:072][976]LogInit: FAudioDevice initialized.
+[2019.11.07-22.14.33:106][976]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.07-22.14.33:112][976]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.11.07-17.14.33
+[2019.11.07-22.14.33:112][976]LogWorld: Bringing up level for play took: 0.005060
+[2019.11.07-22.14.33:125][976]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.858
+[2019.11.07-22.14.33:125][976]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.07-22.15.05:317][830]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.07-22.15.05:317][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-22.15.05:347][830]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.07-22.15.05:347][830]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.07-22.15.05:387][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-22.15.05:393][830]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2019.11.07-22.15.05:420][831]LogPlayLevel: Display: Destroying online subsystem :Context_6
